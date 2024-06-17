@@ -1,0 +1,66 @@
+[
+    {
+        "name": "MasterMount",
+        "githubRepo": "https://github.com/PentSec/MasterMount",
+        "imageUrl": "https://wow.zamimg.com/images/wow/icons/large/inv_mount_spectralhorse.jpg",
+        "addonType": "Mounts/Companion",
+        "author": "Sitoz",
+        "description": "Addons for Searching and Viewing mount model in Masterwow.net",
+        "lastCommitDate": "2024-06-11",
+        "Hot": "🔥"
+    },
+    {
+        "name": "MogIt_MasterWow",
+        "githubRepo": "https://github.com/PentSec/MogIt_MasterWow",
+        "imageUrl": "https://cdn.discordapp.com/attachments/1247572901444587602/1247572902178455613/image.png?ex=6670564e&is=666f04ce&hm=be4c585bb3be7d8f11df916d7606b9beae09f03f7c55ab5e43110a7881845482&",
+        "addonType": "Transmog",
+        "author": "Sitoz",
+        "description": "MogIt with Custom modules. This version has been edited and improved by PentSec. It includes new features specifically designed for https://MasterWow.net",
+        "lastCommitDate": "2024-06-07",
+        "addonInfolder": true,
+        "Hot": "🔥"
+    },
+    {
+        "name": "DragonflightUI",
+        "githubRepo": "https://github.com/PentSec/DragonflightUI",
+        "imageUrl": "https://wow.zamimg.com/images/wow/icons/large/inv_cerberusmount.jpg",
+        "addonType": "UI",
+        "author": "Sitoz",
+        "description": "World of Warcraft Dragonflight UI for 3.3.5a (Still WIP)",
+        "lastCommitDate": "2024-06-16",
+        "Hot": ""
+    },
+    {
+        "name": "Skada-WoTLK",
+        "githubRepo": "https://github.com/PentSec/Skada-WoTLK",
+        "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/62/287/256/256/636142135917313783.png",
+        "addonType": "Utility",
+        "author": "Bkader",
+        "description": "Skada for WoTLK, Revisited. If you have issues, suggestions or ideas, feel free to use GitHub issues or to report them on Discord.",
+        "lastCommitDate": "2024-03-23",
+        "addonInfolder": true,
+        "Hot": ""
+    },
+    {
+        "name": "Talented_WoTLK",
+        "githubRepo": "https://github.com/bkader/Talented_WoTLK",
+        "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/228/151/256/256/637048648466465610.png",
+        "addonType": "Utility",
+        "author": "Bkader",
+        "description": "This addon will unite the 3 talent tree in one window and you will be able to add your talent points more easily than usual.",
+        "lastCommitDate": "2022-07-08",
+        "addonInfolder": true,
+        "Hot": ""
+    },
+    {
+        "name": "ElvUI",
+        "githubRepo": "https://github.com/ElvUI-WotLK/ElvUI",
+        "imageUrl": "https://i.gyazo.com/4c42aa8f405e5dcf0f27808547cb5a5e.png",
+        "addonType": "UI",
+        "author": "ElvUI",
+        "description": "ElvUI for World of Warcraft - Wrath of the Lich King (3.3.5a)",
+        "lastCommitDate": "2022-10-08",
+        "addonInfolder": true,
+        "Hot": ""
+    }
+]
