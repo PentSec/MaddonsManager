@@ -20,7 +20,7 @@ follow this template to  `<include>`  a new Addon
         "Hot": "🔥" -- dont use this xd 
     }
 
-#🗒️	ToDo list
+#🗒ToDo list
 
 - [ ] Fix icon and logo image.
 - [ ] Fix the problem that it does not stop the uninstall process when there is an error and not writing the addons name in addonsStatus.json the uninstall process can not switch to install.
@@ -30,7 +30,7 @@ follow this template to  `<include>`  a new Addon
 - [ ] verify all error handling.
 - [ ] Fix the window manager icons Minimize Maximize Close to stick in the same position
 
-####Things to know
+###Things to know
     📁C:\Users\USER\AppData\Roaming\electron-app
 > 2 files will be stored here.
 📄CONFIG.Json
