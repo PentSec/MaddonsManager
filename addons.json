@@ -62,5 +62,16 @@
         "lastCommitDate": "2022-10-08",
         "addonInfolder": true,
         "Hot": ""
+    },
+    {
+        "name": "Prat_WOTLK",
+        "githubRepo": "https://github.com/PentSec/Prat_WOTLK",
+        "imageUrl": "https://media.forgecdn.net/attachments/110/574/WoWScrnShot_091410_180921.jpg",
+        "addonType": "Utility",
+        "author": "Prat",
+        "description": "Prat-3.0 is a chat enhancement addon for World of Warcraft.",
+        "lastCommitDate": "2022-10-08",
+        "addonInfolder": true,
+        "Hot": ""
     }
 ]
