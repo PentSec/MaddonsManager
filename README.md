@@ -2,9 +2,7 @@
 
 ![](https://github.com/PentSec/MasterAddonManager/blob/main/images/logo.png?raw=true)
 
-[TOCM]
-
-#💻Include new Addon
+# 💻Include new Addon
 
 follow this template to  `<include>`  a new Addon
 
@@ -20,7 +18,7 @@ follow this template to  `<include>`  a new Addon
         "Hot": "🔥" -- dont use this xd 
     }
 
-#🗒️	ToDo list
+# 📄ToDo list
 
 - [ ] Fix icon and logo image.
 - [ ] Fix the problem that it does not stop the uninstall process when there is an error and not writing the addons name in addonsStatus.json the uninstall process can not switch to install.
@@ -30,12 +28,14 @@ follow this template to  `<include>`  a new Addon
 - [ ] verify all error handling.
 - [ ] Fix the window manager icons Minimize Maximize Close to stick in the same position
 
-####Things to know
+### Things to know
     📁C:\Users\USER\AppData\Roaming\electron-app
 > 2 files will be stored here.
+
 📄CONFIG.Json
 📄addonStatus.Json
-they will contain information about the program.
+
+>they will contain information about the program.
 deleting them lost the program storage about the address of your
 world of warcraft folder and the installed addons.
 
