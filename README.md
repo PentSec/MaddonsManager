@@ -40,3 +40,7 @@ deleting them lost the program storage about the address of your
 world of warcraft folder and the installed addons.
 
 this app is oriented to https://MasterWow.net/
+
+## Video
+[![Image from Gyazo](https://i.gyazo.com/8f4377e52d50311eb4b2b73a69023dd6.gif)](https://gyazo.com/8f4377e52d50311eb4b2b73a69023dd6)
+![](https://github.com/PentSec/MasterAddonManager/blob/main/images/Captura%20de%20pantalla%202024-06-16%20172554.png?raw=true)
