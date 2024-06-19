@@ -66,8 +66,7 @@
     {
         "name": "WotLK-Auctionator",
         "githubRepo": "https://github.com/alchem1ster/WotLK-Auctionator",
-        "imageUrl": "https://camo.githubusercontent.com/9d0afd5e5b54ba61b54fed2e8bdd7b00ce33be7d48c741562a3831fe5ac7166a/68747470733a2f2f693131352e666173747069632e6f72672f6269672f323032312f303932362f65362f30323065626466326466613330316561353032333362353331356333313865362e706e67",
-        "addonType": "Utility",
+        "imageUrl": "",
         "author": "alchem1ster",
         "description": "Auctionator is designed for casual everyday auction house users. Auctionator makes the auction house easier to use, by presenting auction house listings clearly and succinctly",
         "lastCommitDate": "2024-10-08",
