@@ -207,7 +207,7 @@ ipcMain.handle('install-addon', async (event, githubUrl, addonName) => {
 
     return `Addon '${addonName}' installed correctly.`;
   } catch (error) {
-    mainWindow.webContents.send('show-modal', `Error installing the addon ⚠️<b>${addonName}</b> <br><br>${error.message}`);
+    mainWindow.webContents.send('show-modal', `Error installing the addon ❌<b>${addonName}</b>❌ <br><br>${error.message}`);
     throw error;
   }
 });

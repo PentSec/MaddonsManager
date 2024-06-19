@@ -3660,14 +3660,20 @@ html {
 
 .navbar {
   display: flex;
+  position: fixed;
   align-items: center;
   padding: var(--navbar-padding, 0.5rem);
   min-height: 4rem;
   width: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 900;
 }
 
 :where(.navbar > *:not(script, style)) {
   display: inline-flex;
+  position: fixed;
   align-items: center;
 }
 
@@ -5368,7 +5374,7 @@ button {
 /*Control windows buttons*/
 
 #window-controls {
-  position: relative;
+  position: fixed;
   top: 3px;
   right: 6px;
   display: flex;
@@ -5382,6 +5388,7 @@ button {
   height: 16px;
   cursor: pointer;
   display: flex;
+  position: fixed;
   justify-content: center;
   align-items: center;
   border-radius: 50%;

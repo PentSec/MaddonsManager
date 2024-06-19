@@ -31,7 +31,7 @@ async function loadAddonsJson() {
 }
 
 let currentPage = 1;
-const pageSize = 10;
+const pageSize = 50;
 // Upload addons to container.
 async function loadAddons() {
   clearTimeout(timeoutId);
@@ -86,22 +86,18 @@ async function loadAddons() {
         const addonRow = document.createElement("tr");
           addonRow.className = "hover";
           addonRow.innerHTML = `
-
             <th>
             <label>
             </label>
             </th>
-            <div class="progress-bar-container hidden mt-2 space-y-2">
-            <span class="loading loading-spinner text-success"></span>
-            <div class="progress-message text-center text-gray-700 mt-1">Installing...</div>
-            </div>
             <td>
               <div class="flex items-center gap-3">
                 <div class="avatar">
                   <div class="mask mask-squircle w-12 h-12">
                     <img src="${addon.imageUrl}" alt="Avatar Tailwind CSS Component" />
                   </div>
-                </div>
+                </div><div class="progress-bar-container hidden mt-2 space-y-2">
+                <span class="loading loading-ring loading-lg text-success"></span></div>
                 <div>${addon.Hot}
                   <div class="font-bold text-white"><a href="${addon.githubRepo}" target="_blank" rel="noopener noreferrer" class="font-bold text-white hover:underline">${addon.name}</a></div>
                   <div class="text-sm opacity-50 text-white">${addon.lastCommitDate}</div>
@@ -186,19 +182,19 @@ async function toggleInstallStatus(buttonElement, githubUrl, addonName) {
   const addonRow = buttonElement.closest('tr');
   const progressBarContainer = addonRow.querySelector('.progress-bar-container');
   const radialProgressBar = progressBarContainer.querySelector('.loading');
-  const progressMessage = progressBarContainer.querySelector('.progress-message');
+  // const progressMessage = progressBarContainer.querySelector('.progress-message');
 
   try {
     const isInstalled = await checkAddonInstalled(addonName);
 
     radialProgressBar.style.setProperty('--value', '0');
-    progressMessage.innerText = isInstalled ? 'Uninstalling...' : 'Installing...';
+    // progressMessage.innerText = isInstalled ? 'Uninstalling...' : 'Installing...';
     progressBarContainer.style.display = 'block';
 
     const updateProgress = (value, message) => {
       radialProgressBar.style.setProperty('--value', value);
       radialProgressBar.innerText = `${value}%`;
-      progressMessage.innerText = message;
+      // progressMessage.innerText = message;
     };
 
     if (isInstalled) {
@@ -220,13 +216,13 @@ async function toggleInstallStatus(buttonElement, githubUrl, addonName) {
 
       await window.electronAPI.installAddon(githubUrl, addonName, {
         onProgress: (percent) => {
-          updateProgress(percent, `Installing... ${percent}%`);
+          // updateProgress(percent, `Installing... ${percent}%`);
         },
         addonInfolder
       });
 
       updateProgress(100, 'Installed successfully.');
-      progressMessage.style.color = 'green';
+      // progressMessage.style.color = 'green';
 
       await updateAddonsStatus(addonName, true);
       buttonElement.innerText = 'UNINSTALL';
@@ -241,8 +237,8 @@ async function toggleInstallStatus(buttonElement, githubUrl, addonName) {
 
   } catch (error) {
     console.error(`Error changing install status of addon '${addonName}': ${error.message}`);
-    progressMessage.innerText = `Error: ${error.message}`;
-    progressMessage.style.color = 'red';
+    // progressMessage.innerText = `Error: ${error.message}`;
+    // progressMessage.style.color = 'red';
     progressBarContainer.style.display = 'none';
   }
 }

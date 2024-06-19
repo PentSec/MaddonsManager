@@ -6,7 +6,7 @@ contextBridge.exposeInMainWorld('electronAPI', {
         const result = await ipcRenderer.invoke('install-addon', githubUrl, addonName);
         console.log(result);
     } catch (error) {
-        ipcRenderer.send('show-alert', `Error installing ⚠️<b>${addonName}</b> Press Unsintall first: <br><br>${error.message}`);
+        ipcRenderer.send('show-alert', `Error installing ❌<b>${addonName}</b>❌ Press Unsintall first: <br><br>${error.message}`);
     }
   },
   uninstallAddon: async (addonName) => {
@@ -14,14 +14,14 @@ contextBridge.exposeInMainWorld('electronAPI', {
       const result = await ipcRenderer.invoke('uninstall-addon', addonName);
       console.log(result);
     } catch (error) {
-      ipcRenderer.send('show-alert', `Error uninstall ⚠️<b>${addonName}</b> <br><br>${error.message}`);
+      ipcRenderer.send('show-alert', `Error uninstall ❌<b>${addonName}</b>❌ <br><br>${error.message}`);
     }
   },
   updateAddon: async (githubUrl, addonName) => {
     try {
       const addonExists = await ipcRenderer.invoke('check-addon-exists', addonName);
       if (!addonExists) {
-        ipcRenderer.send('show-alert', `Addon ⚠️<b>${addonName}</b>: it is not in your folder. you must install it.`);
+        ipcRenderer.send('show-alert', `Addon ❌<b>${addonName}</b>❌: it is not in your folder. you must install it.`);
         return;
       }
 
@@ -30,7 +30,7 @@ contextBridge.exposeInMainWorld('electronAPI', {
       await ipcRenderer.invoke('install-addon', githubUrl, addonName);
       ipcRenderer.send('show-alert', `Addon ✅<b>${addonName}</b>: updated correctly..`);
     } catch (error) {
-      ipcRenderer.send('show-alert', `Error when updating addon ⚠️<b>${addonName}</b>: <b><b>${error.message}`);
+      ipcRenderer.send('show-alert', `Error when updating addon ❌<b>${addonName}</b>:❌ <b><b>${error.message}`);
     }
   },
   readAddonsStatus: async () => {
