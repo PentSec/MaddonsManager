@@ -66,8 +66,8 @@
     {
         "name": "WotLK-Auctionator",
         "githubRepo": "https://github.com/alchem1ster/WotLK-Auctionator",
+        "imageUrl": "https://wow.zamimg.com/images/wow/icons/large/inv_10_fishing_dragonislescoins_gold.jpg",
         "addonType": "Utility",
-        "imageUrl": "",
         "author": "alchem1ster",
         "description": "Auctionator is designed for casual everyday auction house users. Auctionator makes the auction house easier to use, by presenting auction house listings clearly and succinctly",
         "lastCommitDate": "2024-10-08",
@@ -112,6 +112,17 @@
         "addonType": "Utility",
         "author": "Bunny67",
         "description": "World of Warcraft addon that provides a powerful framework to display customizable graphics on your screen.",
+        "lastCommitDate": "2024-12-4",
+        "addonInfolder": true,
+        "Hot": ""
+    },
+    {
+        "name": "TidyPlates_WoTLK",
+        "githubRepo": "https://github.com/bkader/TidyPlates_WoTLK",
+        "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/55/451/256/256/636141352218161611.jpg",
+        "addonType": "UI",
+        "author": "bkader",
+        "description": "Look a diferent nameplates",
         "lastCommitDate": "2024-12-4",
         "addonInfolder": true,
         "Hot": ""

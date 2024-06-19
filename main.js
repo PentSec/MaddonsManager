@@ -121,22 +121,38 @@ ipcMain.handle('install-addon', async (event, githubUrl, addonName) => {
     const tempAddonDir = path.join(wowDir, 'Interface', 'Addons', `${addonName}-temp`);
     const finalAddonDir = path.join(wowDir, 'Interface', 'Addons', addonName);
 
-    const downloadUrl = `${githubUrl}/archive/refs/heads/main.zip`;
-    const zipFilePath = path.join(wowDir, 'temp.zip');
+    const branches = ['main', 'master'];
+    let downloadUrl = '';
+    let zipFilePath = path.join(wowDir, 'temp.zip');
+    let success = false;
 
-    const response = await axios({
-      url: downloadUrl,
-      method: 'GET',
-      responseType: 'stream',
-    });
+    for (const branch of branches) {
+      try {
+        downloadUrl = `${githubUrl}/archive/refs/heads/${branch}.zip`;
+        const response = await axios({
+          url: downloadUrl,
+          method: 'GET',
+          responseType: 'stream',
+        });
 
-    const writer = fs.createWriteStream(zipFilePath);
-    response.data.pipe(writer);
+        const writer = fs.createWriteStream(zipFilePath);
+        response.data.pipe(writer);
 
-    await new Promise((resolve, reject) => {
-      writer.on('finish', resolve);
-      writer.on('error', reject);
-    });
+        await new Promise((resolve, reject) => {
+          writer.on('finish', resolve);
+          writer.on('error', reject);
+        });
+
+        success = true;
+        break; // Exit the loop if the download is successful
+      } catch (error) {
+        console.log(`Branch ${branch} not found. Trying next branch.`);
+      }
+    }
+
+    if (!success) {
+      throw new Error('Neither main nor master branches are available.');
+    }
 
     await extractZip(zipFilePath, tempAddonDir);
     console.log(`Addon ${addonName} downloaded and unzipped.`);
@@ -160,20 +176,23 @@ ipcMain.handle('install-addon', async (event, githubUrl, addonName) => {
         }
       });
       // Remove finalAddonDir since it's empty now
-      fs.promises.rm(finalAddonDir, { recursive: true });
+      await fs.promises.rm(finalAddonDir, { recursive: true });
       return `Addon '${addonName}' installed correctly (move the folders to the main directory).`;
     }
 
     return `Addon '${addonName}' installed correctly.`;
   } catch (error) {
-    mainWindow.webContents.send('show-modal', `Error installing the addon ${addonName}: ${error.message}`);
+    mainWindow.webContents.send('show-modal', `Error installing the addon ⚠️<b>${addonName}</b> <br><br>${error.message}`);
     throw error;
   }
 });
 
 async function renameAddonFolder(tempAddonDir, addonName, finalAddonDir) {
   const files = await fs.promises.readdir(tempAddonDir);
-  const addonFolder = files.find(file => file.startsWith(addonName) && file.endsWith('-main'));
+  const addonFolder = files.find(file => 
+    file.startsWith(addonName) && 
+    (file.endsWith('-main') || file.endsWith('-master'))
+  );
 
   if (!addonFolder) {
     throw new Error('The addon folder was not found after unzipping.');
