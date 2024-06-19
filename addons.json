@@ -64,14 +64,57 @@
         "Hot": ""
     },
     {
-        "name": "Prat_WOTLK",
-        "githubRepo": "https://github.com/PentSec/Prat_WOTLK",
-        "imageUrl": "https://media.forgecdn.net/attachments/110/574/WoWScrnShot_091410_180921.jpg",
+        "name": "WotLK-Auctionator",
+        "githubRepo": "https://github.com/alchem1ster/WotLK-Auctionator",
+        "imageUrl": "https://camo.githubusercontent.com/9d0afd5e5b54ba61b54fed2e8bdd7b00ce33be7d48c741562a3831fe5ac7166a/68747470733a2f2f693131352e666173747069632e6f72672f6269672f323032312f303932362f65362f30323065626466326466613330316561353032333362353331356333313865362e706e67",
         "addonType": "Utility",
-        "author": "Prat",
-        "description": "Prat-3.0 is a chat enhancement addon for World of Warcraft.",
-        "lastCommitDate": "2022-10-08",
+        "author": "alchem1ster",
+        "description": "Auctionator is designed for casual everyday auction house users. Auctionator makes the auction house easier to use, by presenting auction house listings clearly and succinctly",
+        "lastCommitDate": "2024-10-08",
         "addonInfolder": true,
         "Hot": ""
-    }
+    },
+    {
+        "name": "pretty_minimap",
+        "githubRepo": "https://github.com/s0h2x/pretty_minimap",
+        "imageUrl": "https://user-images.githubusercontent.com/33549022/192892515-3298df8d-d938-4ad4-b01d-f5ff1f3a4626.png",
+        "addonType": "UI",
+        "author": "s0h2x",
+        "description": "Lightweight Minimap addon like Dragonflight style.",
+        "lastCommitDate": "2023-09-28",
+        "Hot": ""
+    },
+    {
+        "name": "TradeSkillMaster",
+        "githubRepo": "https://github.com/andrew6180/TradeSkillMaster",
+        "imageUrl": "https://www.tradeskillmaster.com/apple-touch-icon-180x180.png",
+        "addonType": "Utility",
+        "author": "s0h2x",
+        "description": "TradeSkillMaster 2.8 backported to 3.3.5",
+        "lastCommitDate": "2021-12-12",
+        "addonInfolder": true,
+        "Hot": ""
+    },
+    {
+        "name": "BNetToas",
+        "githubRepo": "https://github.com/crumdidlyumshis/BNetToast",
+        "imageUrl": "https://pics.computerbase.de/7/7/6/6/4/logo-256.png",
+        "addonType": "Utility",
+        "author": "crumdidlyumshis",
+        "description": "online notification like a bnet.",
+        "lastCommitDate": "2015-12-12",
+        "Hot": ""
+    },
+    {
+        "name": "WeakAuras-WotLK",
+        "githubRepo": "https://github.com/Bunny67/WeakAuras-WotLK",
+        "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/62/782/256/256/636142194921799650.png",
+        "addonType": "Utility",
+        "author": "Bunny67",
+        "description": "World of Warcraft addon that provides a powerful framework to display customizable graphics on your screen.",
+        "lastCommitDate": "2024-12-4",
+        "addonInfolder": true,
+        "Hot": ""
+    },
+    
 ]
