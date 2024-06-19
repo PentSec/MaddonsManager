@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     addonTypeFilter.addEventListener('change', loadAddons);
   }
 });
-
+// https://raw.githubusercontent.com/PentSec/MasterAddonManager/main/addons.json
 async function loadAddonsJson() {
   try {
     const response = await fetch('https://raw.githubusercontent.com/PentSec/MasterAddonManager/main/addons.json');
@@ -31,7 +31,7 @@ async function loadAddonsJson() {
 }
 
 let currentPage = 1;
-const pageSize = 5;
+const pageSize = 10;
 // Upload addons to container.
 async function loadAddons() {
   clearTimeout(timeoutId);

@@ -7,10 +7,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
           const wowDir = await window.electronAPI.invoke('open-file-dialog');
           if (wowDir) {
-              alert(`Selected WoW route: ${wowDir}`);
+              alert(`Selected WoW path: ${wowDir}`);
               window.location.href = 'index.html';
           } else {
-              mainWindow.webContents.send('show-modal', 'You must select a valid route.');
+            alert('You must select a valid route.');
           }
       } catch (error) {
           console.error('Error when selecting the WoW path:', error.message);
