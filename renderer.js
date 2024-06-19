@@ -260,6 +260,20 @@ document.getElementById('okButton').addEventListener('click', () => {
   window.electronAPI.closeModal();
 });
 
+window.electronAPI.receive('update-available', (info) => {
+  document.getElementById('message').innerHTML = `Update available: Go to Github repo to see Changelogs.`;
+  document.getElementById('modal').showModal();
+});
+
+window.electronAPI.receive('update-downloaded', (info) => {
+  document.getElementById('message').innerHTML = `Update downloaded: The app will restart to apply the update.`;
+  document.getElementById('modal').showModal();
+
+  setTimeout(() => {
+    window.electronAPI.send('restart-app');
+  }, 5000); 
+});
+
 // Actualiza el estado de instalación del addon en la lista de addons instalados
 async function updateAddonsStatus(addonName, isInstalled) {
   try {

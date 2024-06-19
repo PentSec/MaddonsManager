@@ -4,6 +4,11 @@ const fs = require('fs');
 const fsp = fs.promises;
 const unzipper = require('unzipper');
 const axios = require('axios');
+const { autoUpdater } = require('electron-updater');
+const log = require('electron-log');
+
+log.transports.file.level = 'info';
+autoUpdater.logger = log;
 
 let mainWindow;
 const configFilePath = path.join(app.getPath('userData'), 'config.json');
@@ -31,8 +36,16 @@ function createWindow() {
     mainWindow.loadFile('index.html');
   }
 }
+autoUpdater.on('error', (err) => {
+  log.error('Error in auto-updater:', err);
+});
+
+app.on('ready', () => {
+  autoUpdater.checkForUpdatesAndNotify();
+});
 
 app.on('ready', createWindow);
+
 
 app.on('window-all-closed', () => {
   if (process.platform !== 'darwin') {
@@ -44,6 +57,18 @@ app.on('activate', () => {
   if (BrowserWindow.getAllWindows().length === 0) {
     createWindow();
   }
+});
+
+autoUpdater.on('update-available', (info) => {
+  mainWindow.webContents.send('update-available', info);
+});
+
+autoUpdater.on('update-downloaded', (info) => {
+  mainWindow.webContents.send('update-downloaded', info);
+});
+
+ipcMain.on('restart-app', () => {
+  autoUpdater.quitAndInstall();
 });
 
 ipcMain.on('minimize-window', () => {

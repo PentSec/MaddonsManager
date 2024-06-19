@@ -17,7 +17,6 @@
         "author": "Sitoz",
         "description": "MogIt with Custom modules. This version has been edited and improved by PentSec. It includes new features specifically designed for https://MasterWow.net",
         "lastCommitDate": "2024-06-07",
-        "addonInfolder": true,
         "Hot": "🔥"
     },
     {
@@ -38,7 +37,6 @@
         "author": "Bkader",
         "description": "Skada for WoTLK, Revisited. If you have issues, suggestions or ideas, feel free to use GitHub issues or to report them on Discord.",
         "lastCommitDate": "2024-03-23",
-        "addonInfolder": true,
         "Hot": ""
     },
     {
@@ -49,18 +47,16 @@
         "author": "Bkader",
         "description": "This addon will unite the 3 talent tree in one window and you will be able to add your talent points more easily than usual.",
         "lastCommitDate": "2022-07-08",
-        "addonInfolder": true,
         "Hot": ""
     },
     {
-        "name": "ElvUI",
-        "githubRepo": "https://github.com/ElvUI-WotLK/ElvUI",
+        "name": "ElvUI-WOTLK",
+        "githubRepo": "https://github.com/YoharJB/ElvUI-WOTLK",
         "imageUrl": "https://i.gyazo.com/4c42aa8f405e5dcf0f27808547cb5a5e.png",
         "addonType": "UI",
         "author": "ElvUI",
-        "description": "ElvUI for World of Warcraft - Wrath of the Lich King (3.3.5a)",
+        "description": "ElvUI for World of Warcraft - This ElvUI contains all Plugins",
         "lastCommitDate": "2022-10-08",
-        "addonInfolder": true,
         "Hot": ""
     },
     {
@@ -71,7 +67,6 @@
         "author": "alchem1ster",
         "description": "Auctionator is designed for casual everyday auction house users. Auctionator makes the auction house easier to use, by presenting auction house listings clearly and succinctly",
         "lastCommitDate": "2024-10-08",
-        "addonInfolder": true,
         "Hot": ""
     },
     {
@@ -85,14 +80,13 @@
         "Hot": ""
     },
     {
-        "name": "TradeSkillMaster",
-        "githubRepo": "https://github.com/andrew6180/TradeSkillMaster",
+        "name": "TradeSkillMaster_WOTLK",
+        "githubRepo": "https://github.com/YoharJB/TradeSkillMaster_WOTLK",
         "imageUrl": "https://www.tradeskillmaster.com/apple-touch-icon-180x180.png",
         "addonType": "Utility",
         "author": "s0h2x",
         "description": "TradeSkillMaster 2.8 backported to 3.3.5",
         "lastCommitDate": "2021-12-12",
-        "addonInfolder": true,
         "Hot": ""
     },
     {
@@ -113,7 +107,6 @@
         "author": "Bunny67",
         "description": "World of Warcraft addon that provides a powerful framework to display customizable graphics on your screen.",
         "lastCommitDate": "2024-12-4",
-        "addonInfolder": true,
         "Hot": ""
     },
     {
@@ -124,7 +117,16 @@
         "author": "bkader",
         "description": "Look a diferent nameplates",
         "lastCommitDate": "2024-12-4",
-        "addonInfolder": true,
+        "Hot": ""
+    },
+    {
+        "name": "RUF-WoTLK",
+        "githubRepo": "https://github.com/bkader/RUF-WoTLK",
+        "imageUrl": "https://user-images.githubusercontent.com/4732702/136260639-7f31e51f-39c3-418d-85cc-230e72b1cdad.png",
+        "addonType": "Utility",
+        "author": "bkader",
+        "description": "Raeli's Unit Frames backported for Wrath of The Lich King",
+        "lastCommitDate": "2024-12-4",
         "Hot": ""
     }
     
