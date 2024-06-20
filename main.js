@@ -172,6 +172,8 @@ ipcMain.handle('install-addon', async (event, githubUrl, addonName) => {
         break; // Exit the loop if the download is successful
       } catch (error) {
         console.log(`Branch ${branch} not found. Trying next branch.`);
+        // Introduce a delay before trying the next branch
+        await new Promise(resolve => setTimeout(resolve, 1000)); // Adjust delay time as needed
       }
     }
 
