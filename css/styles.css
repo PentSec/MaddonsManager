@@ -1,21 +1,22 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
 
 body {
   font-family: Arial, sans-serif;
   backdrop-filter: blur(5px); 
 }
-#margin-container{
+
+#margin-container {
   margin-top: 3px;
+  height: calc(80vh - 3px); 
 }
+
 .alert-html {
-  /* Ejemplo de estilos específicos para config.html */
   background-color: #f0f0f000;
 }
 
 .config-html {
-  /* Ejemplo de estilos específicos para config.html */
   background-color: #f0f0f000;
 }
 
@@ -77,6 +78,8 @@ body {
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2); 
   margin: 0 auto; 
   min-width: 300px;
+  --scrollbar-thumb-active: rgb(16 185 129 / 0.5) !important;
+  --scrollbar-thumb-hover: #059668e1 !important;
 }
 
 #DropD1 {

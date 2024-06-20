@@ -22,11 +22,11 @@ follow this template to  `<include>`  a new Addon
 
 - [ ] Fix icon and logo image.
 - [x] Fix the problem that it does not stop the uninstall process when there is an error and not writing the addons name in addonsStatus.json the uninstall process can not switch to install.
-- [ ] ^ The same problem but in reverse in the installation process.
+- [x] ^ The same problem but in reverse in the installation process.
 - [x] Create modal windows for any type of warnings.
 - [ ] Improve the progress bar. it can be any of daisyUI but that works, that shows when it is downloading, when it is decompressing and when the installation of the addon is finished.
 - [ ] verify all error handling.
-- [ ] Fix the window manager icons Minimize Maximize Close to stick in the same position
+- [x] Fix the window manager icons Minimize Maximize Close to stick in the same position
 
 ### Things to know
     📁C:\Users\USER\AppData\Roaming\electron-app
