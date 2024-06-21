@@ -1,6 +1,6 @@
 {
     "name": "master-addon-manager",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "description": "Master Addons manager",
     "author": "Sitoz <pentsec.2@protonmail.com>",
     "main": "main.js",

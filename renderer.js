@@ -4,12 +4,14 @@ const themeToggle = document.querySelector('.theme-controller');
 const searchInput = document.getElementById('search-input');
 const addonTypeFilter = document.getElementById('addonTypeFilter');
 
+let installedAddons = [];
 let addons = [];
 let timeoutId;
 
 
 document.addEventListener('DOMContentLoaded', async () => {
   await loadAddonsJson();
+  await loadInstalledAddons();
   await loadAddons();
   await applyInitialTheme();
 
@@ -20,6 +22,16 @@ document.addEventListener('DOMContentLoaded', async () => {
     addonTypeFilter.addEventListener('change', loadAddons);
   }
 });
+
+async function loadInstalledAddons() {
+  try {
+    const data = await window.electronAPI.readAddonsStatus();
+    installedAddons = JSON.parse(data);
+  } catch (error) {
+    console.error(`Error reading installed addons: ${error.message}`);
+  }
+}
+
 // https://raw.githubusercontent.com/PentSec/MasterAddonManager/main/addons.json
 async function loadAddonsJson() {
   try {
@@ -71,7 +83,11 @@ async function loadAddons() {
     try {
       let filteredAddons = addons.filter(addon => addon.name.toLowerCase().includes(searchTerm));
       // AddonType Filter
-      if (addonType) {
+      if (addonType === 'Installed') {
+        filteredAddons = filteredAddons.filter(addon => installedAddons.includes(addon.name));
+      } else if (addonType === 'NonInstalled') {
+        filteredAddons = filteredAddons.filter(addon => !installedAddons.includes(addon.name));
+      } else if (addonType) {
         filteredAddons = filteredAddons.filter(addon => addon.addonType === addonType);
       }
 
@@ -128,7 +144,7 @@ async function loadAddons() {
     } catch (error) {
       console.error(`Error loading addons: ${error.message}`);
     }
-  }, 500); // millisecond time wait to request again
+  }, 300); // millisecond time wait to request again Disable atm
 }
 // page button
 function showPaginationButtons(totalPages) {
@@ -168,12 +184,12 @@ document.getElementById('search-input').addEventListener('input', loadAddons);
 // check if addons if installed on addonsStatus.json
 async function checkAddonInstalled(addonName) {
   try {
-    const response = await window.electronAPI.readAddonsStatus();
-    const installedAddons = response ? JSON.parse(response) : [];
-    return installedAddons.includes(addonName);
+      const response = await window.electronAPI.readAddonsStatus();
+      const installedAddons = response ? JSON.parse(response) : [];
+      return installedAddons.includes(addonName);
   } catch (error) {
-    console.error(`Error checking addon status: ${error.message}`);
-    return false;
+      console.error(`Error checking addon status: ${error.message}`);
+      return false; // Devolver false si hay un error o el addon no está instalado
   }
 }
 
