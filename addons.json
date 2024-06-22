@@ -298,5 +298,15 @@
         "description": "Utility to mail",
         "lastCommitDate": "2024-12-4",
         "Hot": ""
+    },
+    {
+        "name": "GearScore",
+        "githubRepo": "https://github.com/YoharJB/GearScore",
+        "imageUrl": "https://github.com/YoharJB/GearScore/blob/main/images.jpg?raw=true",
+        "addonType": "Utility",
+        "author": "Github",
+        "description": "Displays the gearscore of all players. BonusScanner is implemented together with GearScore.",
+        "lastCommitDate": "2024-12-4",
+        "Hot": ""
     }
 ]
