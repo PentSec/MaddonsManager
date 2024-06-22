@@ -308,5 +308,15 @@
         "description": "Displays the gearscore of all players. BonusScanner is implemented together with GearScore.",
         "lastCommitDate": "2024-12-4",
         "Hot": ""
+    },
+    {
+        "name": "SlashIn",
+        "githubRepo": "https://github.com/YoharJB/SlashIn",
+        "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/231/993/256/256/637064120845479885.png",
+        "addonType": "Utility",
+        "author": "Github",
+        "description": "Slash command in World of Warcraft.",
+        "lastCommitDate": "2024-12-4",
+        "Hot": ""
     }
 ]
