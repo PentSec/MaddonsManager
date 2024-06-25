@@ -318,5 +318,15 @@
         "description": "Slash command in World of Warcraft.",
         "lastCommitDate": "2024-12-4",
         "Hot": ""
+    },
+    {
+        "name": "Molinari",
+        "githubRepo": "https://github.com/YoharJB/Molinari",
+        "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/60/949/256/256/636141586082612330.png",
+        "addonType": "Utility",
+        "author": "Github",
+        "description": "One-click Milling, Prospecting, Disenchanting",
+        "lastCommitDate": "2024-12-4",
+        "Hot": ""
     }
 ]
