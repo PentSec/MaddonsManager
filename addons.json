@@ -328,5 +328,15 @@
         "description": "One-click Milling, Prospecting, Disenchanting and Lockpicking!",
         "lastCommitDate": "2024-12-4",
         "Hot": ""
+    },
+    {
+        "name": "Bartender4",
+        "githubRepo": "https://github.com/YoharJB/Bartender4",
+        "imageUrl": "https://media.forgecdn.net/attachments/82/85/Radial.png",
+        "addonType": "Utility",
+        "author": "Github",
+        "description": "Bartender4 is a full ActionBar replacement mod. It provides you with all the features needed to fully customization most aspects of your action and related bars.",
+        "lastCommitDate": "2024-12-4",
+        "Hot": ""
     }
 ]
