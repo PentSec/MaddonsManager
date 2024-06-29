@@ -1,5 +1,15 @@
 [
     {
+        "name": "SuperEmotes",
+        "githubRepo": "https://github.com/PentSec/SuperEmotes",
+        "imageUrl": "https://github.com/PentSec/SuperEmotes/blob/main/SuperEmotes.png?raw=true",
+        "addonType": "UI",
+        "author": "Sitoz",
+        "description": "Show some emotes from Discord, 7TV, BTTV and some custom stuff. Backport of TwitchEmotes",
+        "lastCommitDate": "2024-06-29",
+        "Hot": "🔥"
+    },
+    {
         "name": "MasterMount",
         "githubRepo": "https://github.com/PentSec/MasterMount",
         "imageUrl": "https://wow.zamimg.com/images/wow/icons/large/inv_mount_spectralhorse.jpg",
