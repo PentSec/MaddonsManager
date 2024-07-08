@@ -348,5 +348,15 @@
         "description": "Bartender4 is a full ActionBar replacement mod. It provides you with all the features needed to fully customization most aspects of your action and related bars.",
         "lastCommitDate": "2024-12-4",
         "Hot": ""
+    },
+    {
+        "name": "Bagnon_WOTLK",
+        "githubRepo": "https://github.com/YoharJB/Bagnon_WOTLK",
+        "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/647/705/256/256/638048338012580367.png",
+        "addonType": "Utility",
+        "author": "Github",
+        "description": "Bagnon backport for 3.3.5 with search and sort (reversed) functionality",
+        "lastCommitDate": "2024-12-4",
+        "Hot": ""
     }
 ]
