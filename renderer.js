@@ -214,7 +214,6 @@ async function toggleInstallStatus(buttonElement, githubUrl, addonName) {
     };
 
     if (isInstalled) {
-      // Desinstalar el addon
       await window.electronAPI.uninstallAddon(addonName);
 
       await updateAddonsStatus(addonName, false);
@@ -222,7 +221,6 @@ async function toggleInstallStatus(buttonElement, githubUrl, addonName) {
       buttonElement.classList.remove('btn-error');
       buttonElement.classList.add('btn-success');
     } else {
-      // Instalar el addon
       const addonInfo = addons.find(addon => addon.name === addonName);
       if (!addonInfo) {
         throw new Error(`Addon '${addonName}' not found in addons.json`);
@@ -246,7 +244,6 @@ async function toggleInstallStatus(buttonElement, githubUrl, addonName) {
       buttonElement.classList.add('btn-error');
     }
 
-    // Ocultar la barra de progreso después de un tiempo
     setTimeout(() => {
       progressBarContainer.style.display = 'none';
     }, 2000);
@@ -286,7 +283,7 @@ window.electronAPI.receive('update-downloaded', (info) => {
   }, 5000); 
 });
 
-// Actualiza el estado de instalación del addon en la lista de addons instalados
+
 async function updateAddonsStatus(addonName, isInstalled) {
   try {
     const response = await window.electronAPI.readAddonsStatus();
@@ -332,17 +329,17 @@ window.updateAddon = async (githubUrl, addonName) => {
 themeToggle.addEventListener('change', () => {
   const addonsContainer = document.getElementById('addons-container');
   if (themeToggle.checked) {
-    // Aplicar tema oscuro usando clases de DaisyUI
+    // set dark theme with DaisyUI
     addonsContainer.classList.remove('bg-white', 'text-black');
     addonsContainer.classList.add('bg-gray-800', 'text-white');
   } else {
-    // Aplicar tema claro usando clases de DaisyUI
+    // set light theme with DaisyUI
     addonsContainer.classList.remove('bg-gray-800', 'text-white');
     addonsContainer.classList.add('bg-white', 'text-black');
   }
 });
 
-// Función para aplicar el tema inicial basado en el estado inicial del toggle
+// Function for applying the initial theme based on the initial state of the toggle
 const applyInitialTheme = () => {
   const addonsContainer = document.getElementById('addons-container');
   if (themeToggle.checked) {

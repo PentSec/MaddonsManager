@@ -114,14 +114,12 @@ ipcMain.handle('open-file-dialog', async () => {
       } else {
           const wowPath = result.filePaths[0];
 
-          // Verificar si el archivo seleccionado es wow.exe
           if (path.basename(wowPath).toLowerCase() !== 'wow.exe') {
               throw new Error('The selected file is not wow.exe');
           }
 
           const wowDir = path.dirname(wowPath);
 
-          // Verificar si el directorio contiene las carpetas Interface y WTF
           const interfaceDir = path.join(wowDir, 'Interface');
           const wtfDir = path.join(wowDir, 'WTF');
 
