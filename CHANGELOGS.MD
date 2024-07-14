@@ -1,6 +1,10 @@
 # Changelog
 
-## [1.0.9] - Lasted Version
+## [1.1.0] - Lasted Version
+### 🆕 New Features
+- New Logo
+
+## [1.0.9]
 ### 🆕 New Features
 - added an option in the logo menu to choose again the location of wow.exe
 - added About me modal to see the version and some other things about the app
