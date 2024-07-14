@@ -1,7 +1,7 @@
 {
     "name": "master-addon-manager",
-    "version": "1.0.8",
-    "description": "Master Addons manager",
+    "version": "1.0.9",
+    "description": "Save your best addons for version 3.3.5 and custom as well. ",
     "author": "Sitoz <pentsec.2@protonmail.com>",
     "main": "main.js",
     "scripts": {

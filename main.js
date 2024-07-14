@@ -21,13 +21,14 @@ function createWindow() {
     minHeight: 300,
     minWidth: 300,
     frame: false,
+    menu: null,
     titleBarStyle: 'hidden',
     webPreferences: {
       preload: path.join(__dirname, 'preload.js'),
       contextIsolation: true,
       nodeIntegration: true,
       enableRemoteModule: false,
-      sandbox: true,
+      sandbox: true
     }
   });
   if (!fs.existsSync(configFilePath)) {
@@ -308,3 +309,13 @@ async function extractZip(zipFilePath, extractPath) {
 async function removeFolder(folderPath) {
   await fsp.rm(folderPath, { recursive: true, force: true });
 }
+
+ipcMain.handle('get-package-info', async () => {
+  const packagePath = path.join(__dirname, 'package.json');
+  const packageData = JSON.parse(fs.readFileSync(packagePath, 'utf-8'));
+  return {
+    description: packageData.description,
+    author: packageData.author,
+    version: packageData.version
+  };
+});

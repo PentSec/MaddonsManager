@@ -348,3 +348,17 @@ const applyInitialTheme = () => {
     addonsContainer.classList.add('bg-white', 'text-black');
   }
 };
+
+document.querySelector('a[href="#about"]').addEventListener('click', async () => {
+  const packageData = await window.electronAPI.getPackageInfo();
+  document.getElementById('program-description').textContent = `📄・Description: ${packageData.description}`;
+  document.getElementById('program-author').textContent = `🧑🏽‍💻・Author: ${packageData.author}`;
+  document.getElementById('program-version').textContent = `🚩・Version: ${packageData.version}`;
+  document.getElementById('program-changelogs').innerHTML  = `💻・Changelogs: <a href="https://github.com/PentSec/MasterAddonManager/blob/main/CHANGELOGS.MD" target="_blank">Click Here</a>`;
+  document.getElementById('about-modal').showModal();
+});
+
+document.getElementById('request-addon-link').addEventListener('click', function(event) {
+  event.preventDefault();
+  window.open('https://discord.com/channels/376650959532589057/1252760316320677919', '_blank');
+});

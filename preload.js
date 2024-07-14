@@ -1,6 +1,7 @@
 const { contextBridge, ipcRenderer } = require('electron');
 
 contextBridge.exposeInMainWorld('electronAPI', {
+  getPackageInfo: () => ipcRenderer.invoke('get-package-info'),
   installAddon: async (githubUrl, addonName) => {
     try {
         const result = await ipcRenderer.invoke('install-addon', githubUrl, addonName);

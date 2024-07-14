@@ -1,6 +1,13 @@
 # Changelog
 
-## [1.0.8] - Lasted Version
+## [1.0.9] - Lasted Version
+### 🆕 New Features
+- added an option in the logo menu to choose again the location of wow.exe
+- added About me modal to see the version and some other things about the app
+
+[Full Changelog](https://github.com/PentSec/MasterAddonManager/compare/v1.0.8...v1.0.9)
+
+## [1.0.8]
 ### 🛠️ Corrections
 - Fixed error when trying to update addons split with `_` or `-`
 - Fixed Spanish words
@@ -49,3 +56,6 @@
 - Added autoUpdater
 
 [Full Changelog](https://github.com/PentSec/MasterAddonManager/compare/v1.0.1...v1.0.2)
+
+## [1.0.0]
+### ✅ RELEASE

@@ -21,13 +21,14 @@
                 </summary>
                 <ul tabIndex="0" class="mt-3 z-10 p-2 shadow menu menu-sm dropdown-content bg-base-100 rounded-lg w-52">
                     <li>
-                        <a class="justify-between">
-                            unused
+                        <label for="select-wow-path" class="justify-between">
+                            <span>Wow.exe (again)</span>
                             <span class="badge">New</span>
-                        </a>
+                        </label>
+                        <input type="file" id="select-wow-path" class="hidden" />
                     </li>
-                    <li><a>unused</a></li>
-                    <li><a>unused</a></li>
+                    <li><a id="request-addon-link" href="#">Request add new Addon</a></li>
+                    <li><a href="#about">About me</a></li>
                 </ul>
             </details>
         </div>
@@ -84,6 +85,33 @@
             </div>
         </div>
     </dialog>
+    <dialog id="about-modal" class="modal w-auto">
+        <form method="dialog" class="modal-box">
+            <div role="alert" class="alert alert-info">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  fill="none"
+                  viewBox="0 0 24 24"
+                  class="h-6 w-6 shrink-0 stroke-current">
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                    d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                </svg>
+                <span class="font-bold text-lg">About This Program.</span>
+              </div>
+              <div class="divider divider-info"></div>
+            <p id="program-description"></p>
+            <p id="program-author"></p>
+            <p id="program-version"></p>
+            <p id="program-changelogs"></p>
+            <div class="modal-action">
+                <button class="btn">Close</button>
+            </div>
+        </form>
+    </dialog>
     <script src="renderer.js"></script>
+    <script src="config.js"></script>
 </body>
 </html>
