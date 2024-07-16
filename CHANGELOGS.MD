@@ -1,5 +1,25 @@
 # Changelog
 
+## [1.1.2] - Lasted Version
+### 🆕 New Features and 🛠️ Corrections
+- New emojis in Menu logo
+- New emojis in Filter utility
+- New Three modals added
+  - Warning modal
+  - Error modal
+  - Succes modal
+- all errors are now directed at modal.
+- update modal now is the correct.
+- add request addon in Menu logo.
+- Fixed a bug that caused the menu to close automatically when opening it
+- Fixed the modal when searching wow.exe
+- Fixed error when you try select wow patch on first screen
+   
+
+## [1.1.1]
+### 🆕 Testing incoming update
+- Testing incoming update
+
 ## [1.1.0] - Lasted Version
 ### 🆕 New Features
 - New Logo

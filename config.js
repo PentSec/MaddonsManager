@@ -1,20 +1,32 @@
 document.addEventListener('DOMContentLoaded', () => {
   document.getElementById('select-wow-path').addEventListener('click', async (event) => {
       try {
-          // Prevent default action if any (e.g., submitting a form)
           event.preventDefault();
           event.stopPropagation();
 
           const wowDir = await window.electronAPI.invoke('open-file-dialog');
           if (wowDir) {
-              alert(`Selected WoW path: ${wowDir}`);
               window.location.href = 'index.html';
           } else {
-            alert('You must select a valid route.');
+              showModal('❌    You need select the wow.exe the path must also contain the 📂Interface folder', 'modalError');
           }
       } catch (error) {
-          console.error('Error when selecting the WoW path:', error.message);
-          alert('Error when selecting the WoW path. Check the selection.');
+              showModal('❌    You need select the wow.exe the path must also contain the 📂Interface folder', 'modalError');
       }
   });
 });
+
+function showModal(message, type) {
+  const modal = document.getElementById(type);
+  const messageElement = document.getElementById(`${type}-message`);
+
+  if (modal && messageElement) {
+    messageElement.innerHTML = message;
+    modal.showModal();
+    modal.querySelector('.close-button').addEventListener('click', () => {
+      modal.close();
+    });
+  } else {
+    console.error(`Modal or message element for "${type}" not found.`);
+  }
+}

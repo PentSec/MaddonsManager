@@ -256,27 +256,46 @@ async function toggleInstallStatus(buttonElement, githubUrl, addonName) {
   }
 }
 
-window.electronAPI.receive('show-modal', (event, message) => {
-  document.getElementById('message').innerHTML = message;
-  document.getElementById('modal').showModal();
+window.electronAPI.receive('show-modal', (event, message, type = 'modal') => {
+  const modal = document.getElementById(type);
+  const messageElement = document.getElementById(`${type}-message`);
+
+  if (modal && messageElement) {
+    messageElement.innerHTML = message;
+    modal.showModal();
+  } else {
+    console.error(`Modal or message element for "${type}" not found.`);
+  }
 });
 
-window.electronAPI.receive('close-modal', () => {
-  document.getElementById('modal').close();
+window.electronAPI.receive('close-modal', (type = 'modal') => {
+  const modal = document.getElementById(type);
+  if (modal) {
+    modal.close();
+  } else {
+    console.error(`Modal with ID "${type}" not found.`);
+  }
 });
 
-document.getElementById('okButton').addEventListener('click', () => {
-  window.electronAPI.closeModal();
+document.querySelectorAll('.close-button').forEach(button => {
+  button.addEventListener('click', (event) => {
+    const modal = event.target.closest('dialog');
+    if (modal) {
+      modal.close();
+    } else {
+      console.error('Parent modal not found.');
+    }
+  });
 });
 
 window.electronAPI.receive('update-available', (info) => {
-  document.getElementById('message').innerHTML = `Update available: Go to Github repo to see Changelogs.`;
-  document.getElementById('modal').showModal();
+  const message = `⬆️・New Update Available: <a href="https://github.com/PentSec/MasterAddonManager/blob/main/CHANGELOGS.MD" target="_blank" class="link link-success">Click Here</a>`;
+  window.electronAPI.send('show-modal', message, 'modal');
 });
 
 window.electronAPI.receive('update-downloaded', (info) => {
-  document.getElementById('message').innerHTML = `Update downloaded: The app will restart to apply the update.`;
-  document.getElementById('modal').showModal();
+  const message = `Update downloaded👌🏽: The app will restart to apply the update.🔃`;
+  window.electronAPI.send('show-modal', message, 'modalSuccess');
 
   setTimeout(() => {
     window.electronAPI.send('restart-app');
@@ -354,11 +373,31 @@ document.querySelector('a[href="#about"]').addEventListener('click', async () =>
   document.getElementById('program-description').textContent = `📄・Description: ${packageData.description}`;
   document.getElementById('program-author').textContent = `🧑🏽‍💻・Author: ${packageData.author}`;
   document.getElementById('program-version').textContent = `🚩・Version: ${packageData.version}`;
-  document.getElementById('program-changelogs').innerHTML  = `💻・Changelogs: <a href="https://github.com/PentSec/MasterAddonManager/blob/main/CHANGELOGS.MD" target="_blank">Click Here</a>`;
+  document.getElementById('program-changelogs').innerHTML  = `💻・Changelogs: <a href="https://github.com/PentSec/MasterAddonManager/blob/main/CHANGELOGS.MD" target="_blank" class="link link-success">Click Here</a>`;
   document.getElementById('about-modal').showModal();
 });
 
 document.getElementById('request-addon-link').addEventListener('click', function(event) {
   event.preventDefault();
   window.open('https://discord.com/channels/376650959532589057/1252760316320677919', '_blank');
+});
+
+document.getElementById('select-wow-path').addEventListener('click', async (event) => {
+  try {
+    event.preventDefault();
+    event.stopPropagation();
+
+    const wowDir = await window.electronAPI.invoke('open-file-dialog');
+    if (wowDir) {
+      const message = `✅  Selected WoW path: ${wowDir}`;
+      window.electronAPI.send('show-modal-success', message);
+    } else {
+      const message = `❌    You need select the wow.exe the path must also contain the 📂Interface folder`;
+      window.electronAPI.send('show-modal-error', message);
+    }
+  } catch (error) {
+    console.error('Error when selecting the WoW path:', error.message);
+    const message = `Error when selecting the WoW path: ${error.message}`;
+    window.electronAPI.send('show-modal-error', message);
+  }
 });

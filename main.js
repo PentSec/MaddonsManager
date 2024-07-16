@@ -94,14 +94,32 @@ ipcMain.on('close-window', () => {
   }
 });
 
-ipcMain.on('show-alert', (event, message) => {
-  mainWindow.webContents.send('show-modal', message);
+ipcMain.on('show-alert', (event, message, type = 'modal') => {
+  mainWindow.webContents.send('show-modal', message, type);
 });
 
 ipcMain.on('close-alert', () => {
   mainWindow.webContents.send('close-modal');
 });
 
+ipcMain.on('close-modal', () => {
+});
+
+ipcMain.on('show-modal', (event, message, type = 'modal') => {
+  mainWindow.webContents.send('show-modal', message, type);
+});
+
+ipcMain.on('close-modal', (event, type = 'modal') => {
+  mainWindow.webContents.send('close-modal', type);
+});
+
+ipcMain.on('show-modal-error', (event, message, type = 'modalError') => {
+  mainWindow.webContents.send('show-modal', message, type);
+});
+
+ipcMain.on('show-modal-success', (event, message, type = 'modalSuccess') => {
+  mainWindow.webContents.send('show-modal', message, type);
+});
 
 ipcMain.handle('open-file-dialog', async () => {
   try {
@@ -133,7 +151,7 @@ ipcMain.handle('open-file-dialog', async () => {
           return wowDir;
       }
   } catch (error) {
-      mainWindow.webContents.send('show-modal', 'Error when selecting the WoW path:', error);
+      mainWindow.webContents.send('show-modal', 'Error when selecting the WoW path:', error.message, 'modalError');
       throw error;
   }
 });
@@ -208,7 +226,7 @@ ipcMain.handle('install-addon', async (event, githubUrl, addonName) => {
 
     return `Addon '${addonName}' installed correctly.`;
   } catch (error) {
-    mainWindow.webContents.send('show-modal', `Error installing the addon ❌<b>${addonName}</b>❌ <br><br>${error.message}`);
+    mainWindow.webContents.send('show-modal', `Error installing the addon ❌<b>${addonName}</b>❌ <br><br>${error.message}`, 'modalError');
     throw error;
   }
 });
@@ -257,7 +275,7 @@ ipcMain.handle("uninstall-addon", async (event, addonName) => {
 
     return `Addon(s) starting with '${addonName}' deleted.`;
   } catch (error) {
-    mainWindow.webContents.send('show-modal', `Error when uninstalling addon ${addonName}: ${error.message}`);
+    mainWindow.webContents.send('show-modal', `Error when uninstalling addon ${addonName}: ${error.message}`, 'modalError');
     throw error;
   }
 });
