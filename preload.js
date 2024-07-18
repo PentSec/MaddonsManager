@@ -1,13 +1,16 @@
 const { contextBridge, ipcRenderer } = require('electron');
 
 contextBridge.exposeInMainWorld('electronAPI', {
+  checkAddonExists: (addonName) => ipcRenderer.invoke('check-addon-exists', addonName),
+  installAddon: (githubUrl, addonName, options) => ipcRenderer.invoke('install-addon', githubUrl, addonName, options),
+  uninstallAddon: (addonName) => ipcRenderer.invoke('uninstall-addon', addonName),
   getPackageInfo: () => ipcRenderer.invoke('get-package-info'),
   installAddon: async (githubUrl, addonName) => {
     try {
         const result = await ipcRenderer.invoke('install-addon', githubUrl, addonName);
         console.log(result);
     } catch (error) {
-        ipcRenderer.send('show-alert', `Error installing ❌<b>${addonName}</b>❌ Press Uninstall first: <br><br>${error.message}`, 'modalError');
+        ipcRenderer.send('show-alert', `Error: Close MasterAddonManager and open it again. <br><br>something happened when trying to install the addons. ❌<b>${addonName}</b>❌ <br><br>${error.message}`, 'modalError');
     }
   },
   uninstallAddon: async (addonName) => {
@@ -22,15 +25,22 @@ contextBridge.exposeInMainWorld('electronAPI', {
     try {
       const baseAddonName = addonName.split(/[_-]/)[0];
       const addonExists = await ipcRenderer.invoke('check-addon-exists', baseAddonName);
+  
       if (!addonExists) {
         ipcRenderer.send('show-alert', `Addon ❌<b>${addonName}</b>❌: it is not in your folder. You must install it.`, 'modal');
         return;
       }
       await ipcRenderer.invoke('uninstall-addon', baseAddonName);
+      console.log(`Addon ${baseAddonName} uninstalled successfully.`);
+      ipcRenderer.send('show-alert', `Addon <b>$${baseAddonName}</b> ❌UNINSTALLED❌ successfully.`, 'modalSuccess');
       await ipcRenderer.invoke('install-addon', githubUrl, addonName);
-      ipcRenderer.send('show-alert', `Addon ✅<b>${addonName}</b>: updated correctly..`, 'modalSuccess');
+      console.log(`Addon ${addonName} installed successfully.`);
+      ipcRenderer.send('show-alert', `Addon <b>${addonName}</b> ✅INSTALLED successfully.`, 'modalSuccess');
+  
+      ipcRenderer.send('show-alert', `Addon ✅<b>${addonName}</b>: updated correctly.`, 'modalSuccess');
     } catch (error) {
-      ipcRenderer.send('show-alert', `ERROR when updating addon ❌<b>${addonName}</b>:❌ <b><b>${error.message}`, 'modalError');
+      console.error(`Error updating addon ${addonName}:`, error);
+      ipcRenderer.send('show-alert', `ERROR when updating addon ❌<b>${addonName}</b>❌: ${error.message}`, 'modalError');
     }
   },
   readAddonsStatus: async () => {

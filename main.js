@@ -167,50 +167,65 @@ ipcMain.handle('install-addon', async (event, githubUrl, addonName) => {
     let downloadUrl = '';
     let zipFilePath = path.join(wowDir, 'temp.zip');
     let success = false;
+    let attempts = 0;
+    const maxAttempts = 5;
 
-    for (const branch of branches) {
-      try {
-        downloadUrl = `${githubUrl}/archive/refs/heads/${branch}.zip`;
-        const response = await axios({
-          url: downloadUrl,
-          method: 'GET',
-          responseType: 'stream',
-        });
+    while (attempts < maxAttempts && !success) {
+      for (const branch of branches) {
+        try {
+          downloadUrl = `${githubUrl}/archive/refs/heads/${branch}.zip`;
+          console.log(`Trying branch: ${branch}, URL: ${downloadUrl}`);
+          
+          const response = await axios({
+            url: downloadUrl,
+            method: 'GET',
+            responseType: 'stream',
+          });
 
-        const writer = fs.createWriteStream(zipFilePath);
-        response.data.pipe(writer);
+          const writer = fs.createWriteStream(zipFilePath);
+          response.data.pipe(writer);
 
-        await new Promise((resolve, reject) => {
-          writer.on('finish', resolve);
-          writer.on('error', reject);
-        });
+          await new Promise((resolve, reject) => {
+            writer.on('finish', resolve);
+            writer.on('error', reject);
+          });
 
-        success = true;
-        break; // Exit the loop if the download is successful
-      } catch (error) {
-        console.log(`Branch ${branch} not found. Trying next branch.`);
-        // Introduce a delay before trying the next branch
-        await new Promise(resolve => setTimeout(resolve, 1000)); // Adjust delay time as needed
+          success = true;
+          break; // Exit the loop if the download is successful
+        } catch (error) {
+          mainWindow.webContents.send('show-modal', `Branch ${branch} not found. Trying next branch.`, 'modal');
+          if (fs.existsSync(zipFilePath)) {
+            fs.unlinkSync(zipFilePath);
+          }
+
+          await new Promise(resolve => setTimeout(resolve, 1000)); // Adjust delay time as needed
+        }
+      }
+
+      if (!success) {
+        attempts++;
+        mainWindow.webContents.send('show-modal', `Attempt ${attempts} failed. Retrying...`, 'modal');
       }
     }
 
     if (!success) {
-      throw new Error('Neither main nor master branches are available.');
+      const errorMessage = 'Neither main nor master branches are available after multiple attempts.';
+      mainWindow.webContents.send('show-modal', `Error: ${errorMessage}`, 'modalError');
+      throw new Error(errorMessage);
     }
 
     await extractZip(zipFilePath, tempAddonDir);
-    console.log(`Addon ${addonName} downloaded and unzipped.`);
+    mainWindow.webContents.send('close-modal');
+    mainWindow.webContents.send('show-modal', `Addon ${addonName} downloaded and unzipped.`, 'modalSuccess');
 
     await renameAddonFolder(tempAddonDir, addonName, finalAddonDir);
 
     fs.unlinkSync(zipFilePath);
 
-    // Check if finalAddonDir contains a .toc file
     const filesInAddonDir = fs.readdirSync(finalAddonDir);
     const tocFile = filesInAddonDir.find(file => path.extname(file).toLowerCase() === '.toc');
 
     if (!tocFile) {
-      // Move only folders from addonName to Interface/Addons
       const itemsToMove = fs.readdirSync(finalAddonDir);
       itemsToMove.forEach(item => {
         const srcPath = path.join(finalAddonDir, item);
@@ -219,14 +234,16 @@ ipcMain.handle('install-addon', async (event, githubUrl, addonName) => {
           fs.renameSync(srcPath, destPath);
         }
       });
-      // Remove finalAddonDir since it's empty now
       await fs.promises.rm(finalAddonDir, { recursive: true });
+      mainWindow.webContents.send('show-modal', `Addon ✅<b>${addonName}</b> installed correctly and (move the folders to the main directory).`, 'modalSuccess');
       return `Addon '${addonName}' installed correctly (move the folders to the main directory).`;
     }
 
+    mainWindow.webContents.send('show-modal', `Addon ✅<b>${addonName}</b> installed correctly.`, 'modalSuccess');
     return `Addon '${addonName}' installed correctly.`;
   } catch (error) {
-    mainWindow.webContents.send('show-modal', `Error installing the addon ❌<b>${addonName}</b>❌ <br><br>${error.message}`, 'modalError');
+    const errorMessage = `Error installing the addon ❌<b>${addonName}</b>❌ <br><br>${error.message}`;
+    mainWindow.webContents.send('show-modal', errorMessage, 'modalError');
     throw error;
   }
 });
@@ -270,6 +287,7 @@ ipcMain.handle("uninstall-addon", async (event, addonName) => {
     for (const folder of matchingFolders) {
       const addonPath = path.join(addonsDir, folder);
       await removeFolder(addonPath);
+      mainWindow.webContents.send('show-modal', `Addons ❌<b>${addonName}</b>❌ Uninstalled`, 'modalSuccess');
       console.log(`Addon ${folder} deleted.`);
     }
 

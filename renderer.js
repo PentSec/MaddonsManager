@@ -189,7 +189,7 @@ async function checkAddonInstalled(addonName) {
       return installedAddons.includes(addonName);
   } catch (error) {
       console.error(`Error checking addon status: ${error.message}`);
-      return false; // Devolver false si hay un error o el addon no está instalado
+      return false;
   }
 }
 
@@ -268,8 +268,26 @@ window.electronAPI.receive('show-modal', (event, message, type = 'modal') => {
   }
 });
 
-window.electronAPI.receive('close-modal', (type = 'modal') => {
-  const modal = document.getElementById(type);
+window.electronAPI.receive('close-modal', () => {
+  const modal = document.getElementById('modal');
+  if (modal) {
+    modal.close();
+  } else {
+    console.error(`Modal with ID "${type}" not found.`);
+  }
+});
+
+window.electronAPI.receive('close-modal-error', () => {
+  const modal = document.getElementById('modalError');
+  if (modal) {
+    modal.close();
+  } else {
+    console.error(`Modal with ID "${type}" not found.`);
+  }
+});
+
+window.electronAPI.receive('close-modal-success', () => {
+  const modal = document.getElementById('modalSuccess');
   if (modal) {
     modal.close();
   } else {
@@ -322,19 +340,16 @@ async function updateAddonsStatus(addonName, isInstalled) {
 // Minimize Button
 document.getElementById('minimize-button').addEventListener('click', () => {
   window.electronAPI.send('minimize-window');
-  console.log("minimizar");
 });
 
 // Maximize Button
 document.getElementById('maximize-button').addEventListener('click', () => {
   window.electronAPI.send('maximize-window');
-  console.log("maximizar");
 });
 
 // Close Button
 document.getElementById('close-button').addEventListener('click', () => {
   window.electronAPI.send('close-window');
-  console.log("cerrar");
 });
 
 window.updateAddon = async (githubUrl, addonName) => {

@@ -1,13 +1,32 @@
 # Changelog
 
-## [1.1.2] - Lasted Version
-### 🆕 New Features and 🛠️ Corrections
+## [1.1.5] - Lasted Version
+### 🛠️ Corrections
+- Fixed some folders were not deleted
+[Full Changelog](https://github.com/PentSec/MasterAddonManager/compare/v1.1.4...v1.1.5)
+
+## [1.1.4]
+### 🛠️ Corrections
+- Fixed some error when try update addons. (not at all)
+- Fixed and Added alerts on update addon.
+- Fixed and Added alerts on Deleted addon.
+- Fixed some emojis on modal
+[Full Changelog](https://github.com/PentSec/MasterAddonManager/compare/v1.1.3...v1.1.4)
+
+## [1.1.3]
+### 🛠️ Corrections
+- Fixed some error when try update addons. (not at all)
+- Added alerts on update addon.
+[Full Changelog](https://github.com/PentSec/MasterAddonManager/compare/v1.1.0...v1.1.3)
+
+## [1.1.2]
+### 🆕 New Features and 
 - New emojis in Menu logo
 - New emojis in Filter utility
 - New Three modals added
   - Warning modal
   - Error modal
-  - Succes modal
+  - Success modal
 - all errors are now directed at modal.
 - update modal now is the correct.
 - add request addon in Menu logo.
