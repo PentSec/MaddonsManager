@@ -383,18 +383,37 @@ const applyInitialTheme = () => {
   }
 };
 
+const footerContainer = document.getElementById('OwnerLink');
+  if (footerContainer) {
+    const footerContent = `
+      <div class="flex justify-end pr-4 pb-4">
+        <p class="text-xs text-right">Developed by <a href="#" id="Owner-link" target="_blank" class="text-blue-500 hover:underline">Jeff</a></p>
+      </div>
+    `;
+    footerContainer.innerHTML = footerContent;
+    document.getElementById('Owner-link').addEventListener('click', (event) => {
+      event.preventDefault();
+      window.electronAPI.openExternalLink('https://github.com/PentSec');
+    });
+  }
+
 document.querySelector('a[href="#about"]').addEventListener('click', async () => {
   const packageData = await window.electronAPI.getPackageInfo();
   document.getElementById('program-description').textContent = `📄・Description: ${packageData.description}`;
   document.getElementById('program-author').textContent = `🧑🏽‍💻・Author: ${packageData.author}`;
   document.getElementById('program-version').textContent = `🚩・Version: ${packageData.version}`;
-  document.getElementById('program-changelogs').innerHTML  = `💻・Changelogs: <a href="https://github.com/PentSec/MasterAddonManager/blob/main/CHANGELOGS.MD" target="_blank" class="link link-success">Click Here</a>`;
+  document.getElementById('program-changelogs').innerHTML = `💻・Changelogs: <a href="#" id="changelog-link" class="link link-success">Click Here</a>`;
   document.getElementById('about-modal').showModal();
-});
+
+  document.getElementById('changelog-link').addEventListener('click', (event) => {
+    event.preventDefault();
+    window.electronAPI.openExternalLink('https://github.com/PentSec/MasterAddonManager/blob/main/CHANGELOGS.MD');
+  });
+})
 
 document.getElementById('request-addon-link').addEventListener('click', function(event) {
   event.preventDefault();
-  window.open('https://discord.com/channels/376650959532589057/1252760316320677919', '_blank');
+  window.electronAPI.openExternalLink('https://discord.com/channels/376650959532589057/1252760316320677919');
 });
 
 document.getElementById('select-wow-path').addEventListener('click', async (event) => {
@@ -404,10 +423,10 @@ document.getElementById('select-wow-path').addEventListener('click', async (even
 
     const wowDir = await window.electronAPI.invoke('open-file-dialog');
     if (wowDir) {
-      const message = `✅  Selected WoW path: ${wowDir}`;
+      const message = `✅ Selected WoW path: ${wowDir}`;
       window.electronAPI.send('show-modal-success', message);
     } else {
-      const message = `❌    You need select the wow.exe the path must also contain the 📂Interface folder`;
+      const message = `❌ You need select the wow.exe the path must also contain the 📂Interface folder`;
       window.electronAPI.send('show-modal-error', message);
     }
   } catch (error) {

@@ -1,13 +1,13 @@
 {
     "name": "master-addon-manager",
-    "version": "1.1.5",
+    "version": "1.1.6",
     "description": "Save your best addons for version 3.3.5 and custom as well. ",
     "author": "Sitoz <pentsec.2@protonmail.com>",
-    "main": "main.js",
+    "main": "./src/main.js",
     "scripts": {
         "start": "electron .",
-        "watch:tailwind": "tailwindcss -i ./css/styles.css -o ./styles.css --watch",
-        "build:css": "tailwindcss -i ./css/styles.css -o ./styles.css --watch",
+        "watch:tailwind": "tailwindcss -i ./css/styles.css -o ./src/css/AddonStyles.css --watch",
+        "build:css": "tailwindcss -i ./css/styles.css -o ./src/css/AddonStyles.css --watch",
         "package": "electron-builder build",
         "publish": "electron-builder --publish always"
     },
@@ -45,14 +45,14 @@
             }
         ],
         "mac": {
-            "icon": "images/icon.icns"
+            "icon": "./src/assets/images/icon.icns"
         },
         "win": {
             "target": "nsis",
-            "icon": "images/ico.ico"
+            "icon": "./src/assets/images/ico.ico"
         },
         "linux": {
-            "icon": "images/logo.png"
+            "icon": "./src/assets/images/logo.png"
         }
     }
 }

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'">
+  <link href="../../src/css/AddonStyles.css" rel="stylesheet">
+</head>
+<body class="config-html" class="scrollbar-thumb-custom scrollbar-track-custom-light hover:scrollbar-thumb-[#059669] active:scrollbar-thumb-emerald-500/50 scrollbar h-32 overflow-y-scroll">
+  <div class=""></div>
+  <div id="window-controls" class="draggable">
+  </div>
+  <div class="container">
+    <div class="card w-auto bg-base-100 shadow-xl image-full">
+      <figure><img src="../assets/images/select.jpg" alt="Shoes" /></figure>
+      <div class="card-body w-auto">
+        <h1 class="card-title border-succes">Master Addon Manager</h1>
+        <p></p>
+        <div class="card-actions justify-between w-auto">
+          <input type="file" id="select-wow-path" class="file-input file-input-bordered file-input-success w-full" />
+          <p>Go to your World of Warcraft folder and select your wow.exe</p>
+          <div id="OwnerLink"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <dialog id="modal" class="modal w-auto">
+    <div class="modal-box">
+      <div role="alert" class="alert alert-warning">
+        <svg xmlns="http://www.w3.org/2000/svg" class="stroke-current shrink-0 h-6 w-6" fill="none" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"/>
+        </svg>
+        <span>Warning: AddonManager!</span>
+      </div>
+      <p id="modal-message" class="py-4"></p>
+      <div class="modal-action">
+        <button class="close-button btn">Close</button>
+      </div>
+    </div>
+  </dialog>
+  
+  <dialog id="modalError" class="modal w-auto">
+    <div class="modal-box">
+      <div role="alert" class="alert alert-error">
+        <svg xmlns="http://www.w3.org/2000/svg" class="stroke-current shrink-0 h-6 w-6" fill="none" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"/>
+        </svg>
+        <span>ERROR: AddonManager!</span>
+      </div>
+      <p id="modalError-message" class="py-4"></p>
+      <div class="modal-action">
+        <button class="close-button btn">Close</button>
+      </div>
+    </div>
+  </dialog>
+  
+  <dialog id="modalSuccess" class="modal w-auto">
+    <div class="modal-box">
+      <div role="alert" class="alert alert-success">
+        <svg xmlns="http://www.w3.org/2000/svg" class="stroke-current shrink-0 h-6 w-6" fill="none" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"/>
+        </svg>
+        <span>Success: AddonManager!</span>
+      </div>
+      <p id="modalSuccess-message" class="py-4"></p>
+      <div class="modal-action">
+        <button class="close-button btn">Close</button>
+      </div>
+    </div>
+  </dialog>
+  <script src="config.js"></script>
+</body>
+</html>

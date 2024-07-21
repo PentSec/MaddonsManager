@@ -1,6 +1,7 @@
 const { contextBridge, ipcRenderer } = require('electron');
 
 contextBridge.exposeInMainWorld('electronAPI', {
+  openExternalLink: (url) => ipcRenderer.invoke('open-external-link', url),
   checkAddonExists: (addonName) => ipcRenderer.invoke('check-addon-exists', addonName),
   installAddon: (githubUrl, addonName, options) => ipcRenderer.invoke('install-addon', githubUrl, addonName, options),
   uninstallAddon: (addonName) => ipcRenderer.invoke('uninstall-addon', addonName),

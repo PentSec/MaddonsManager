@@ -32,7 +32,7 @@ function createWindow() {
     }
   });
   if (!fs.existsSync(configFilePath)) {
-    mainWindow.loadFile('config.html');
+    mainWindow.loadFile('./src/components/config.html');
   } else {
     mainWindow.loadFile('index.html');
   }
@@ -347,11 +347,32 @@ async function removeFolder(folderPath) {
 }
 
 ipcMain.handle('get-package-info', async () => {
-  const packagePath = path.join(__dirname, 'package.json');
+  const packagePath = path.join(__dirname, '../package.json');
   const packageData = JSON.parse(fs.readFileSync(packagePath, 'utf-8'));
   return {
     description: packageData.description,
     author: packageData.author,
     version: packageData.version
   };
+});
+
+ipcMain.handle('open-external-link', (event, url) => {
+  const externalWindow = new BrowserWindow({
+    width: 800,
+    height: 600,
+    icon: path.join(__dirname, './assets/images/ico.ico'),
+    webPreferences: {
+      nodeIntegration: false,
+      contextIsolation: true,
+      sandbox: true,
+    },
+  });
+
+  externalWindow.loadURL(url);
+
+  externalWindow.webContents.on('did-finish-load', () => {
+    externalWindow.setTitle('Mater Addon Manager by Jeff');
+  });
+
+  externalWindow.setMenu(null);
 });

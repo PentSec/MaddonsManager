@@ -1,0 +1,362 @@
+[
+    {
+        "name": "SuperEmotes",
+        "githubRepo": "https://github.com/PentSec/SuperEmotes",
+        "imageUrl": "https://github.com/PentSec/SuperEmotes/blob/main/SuperEmotes.png?raw=true",
+        "addonType": "UI",
+        "author": "Sitoz",
+        "description": "Show some emotes from Discord, 7TV, BTTV and some custom stuff. Backport of TwitchEmotes",
+        "lastCommitDate": "2024-06-29",
+        "Hot": "🔥"
+    },
+    {
+        "name": "MasterMount",
+        "githubRepo": "https://github.com/PentSec/MasterMount",
+        "imageUrl": "https://wow.zamimg.com/images/wow/icons/large/inv_mount_spectralhorse.jpg",
+        "addonType": "Mounts/Companion",
+        "author": "Sitoz",
+        "description": "Addons for Searching and Viewing mount model in Masterwow.net",
+        "lastCommitDate": "2024-06-11",
+        "Hot": "🔥"
+    },
+    {
+        "name": "MogIt_MasterWow",
+        "githubRepo": "https://github.com/PentSec/MogIt_MasterWow",
+        "imageUrl": "https://github.com/PentSec/MogIt_MasterWow/blob/main/mogit.png?raw=true",
+        "addonType": "Transmog",
+        "author": "Sitoz",
+        "description": "MogIt with Custom modules. This version has been edited and improved by PentSec. It includes new features specifically designed for https://MasterWow.net",
+        "lastCommitDate": "2024-06-07",
+        "Hot": "🔥"
+    },
+    {
+        "name": "ACP",
+        "githubRepo": "https://github.com/YoharJB/ACP",
+        "imageUrl": "https://github.com/YoharJB/ACP/blob/main/images.jpg?raw=true",
+        "addonType": "Utility",
+        "author": "Github",
+        "description": "Stop logging out of the game just to change your addons! ACP adds the Addons button to the game's main menu to disable/enable Addons.",
+        "lastCommitDate": "2024-06-07",
+        "Hot": "🔥"
+    },
+    {
+        "name": "DragonflightUI",
+        "githubRepo": "https://github.com/PentSec/DragonflightUI",
+        "imageUrl": "https://wow.zamimg.com/images/wow/icons/large/inv_cerberusmount.jpg",
+        "addonType": "UI",
+        "author": "Sitoz",
+        "description": "World of Warcraft Dragonflight UI for 3.3.5a (Still WIP)",
+        "lastCommitDate": "2024-06-16",
+        "Hot": ""
+    },
+    {
+        "name": "Skada-WoTLK",
+        "githubRepo": "https://github.com/PentSec/Skada-WoTLK",
+        "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/62/287/256/256/636142135917313783.png",
+        "addonType": "Utility",
+        "author": "Bkader",
+        "description": "Skada for WoTLK, Revisited. If you have issues, suggestions or ideas, feel free to use GitHub issues or to report them on Discord.",
+        "lastCommitDate": "2024-03-23",
+        "Hot": ""
+    },
+    {
+        "name": "Talented_WoTLK",
+        "githubRepo": "https://github.com/bkader/Talented_WoTLK",
+        "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/228/151/256/256/637048648466465610.png",
+        "addonType": "Utility",
+        "author": "Bkader",
+        "description": "This addon will unite the 3 talent tree in one window and you will be able to add your talent points more easily than usual.",
+        "lastCommitDate": "2022-07-08",
+        "Hot": ""
+    },
+    {
+        "name": "ElvUI-WOTLK",
+        "githubRepo": "https://github.com/YoharJB/ElvUI-WOTLK",
+        "imageUrl": "https://i.gyazo.com/4c42aa8f405e5dcf0f27808547cb5a5e.png",
+        "addonType": "UI",
+        "author": "ElvUI",
+        "description": "ElvUI for World of Warcraft - This ElvUI contains all Plugins",
+        "lastCommitDate": "2022-10-08",
+        "Hot": ""
+    },
+    {
+        "name": "WotLK-Auctionator",
+        "githubRepo": "https://github.com/alchem1ster/WotLK-Auctionator",
+        "imageUrl": "https://wow.zamimg.com/images/wow/icons/large/inv_10_fishing_dragonislescoins_gold.jpg",
+        "addonType": "Utility",
+        "author": "alchem1ster",
+        "description": "Auctionator is designed for casual everyday auction house users. Auctionator makes the auction house easier to use, by presenting auction house listings clearly and succinctly",
+        "lastCommitDate": "2024-10-08",
+        "Hot": ""
+    },
+    {
+        "name": "TradeSkillMaster_WOTLK",
+        "githubRepo": "https://github.com/YoharJB/TradeSkillMaster_WOTLK",
+        "imageUrl": "https://www.tradeskillmaster.com/apple-touch-icon-180x180.png",
+        "addonType": "Utility",
+        "author": "s0h2x",
+        "description": "TradeSkillMaster 2.8 backported to 3.3.5",
+        "lastCommitDate": "2021-12-12",
+        "Hot": ""
+    },
+    {
+        "name": "BNetToast",
+        "githubRepo": "https://github.com/crumdidlyumshis/BNetToast",
+        "imageUrl": "https://pics.computerbase.de/7/7/6/6/4/logo-256.png",
+        "addonType": "Utility",
+        "author": "crumdidlyumshis",
+        "description": "online notification like a bnet.",
+        "lastCommitDate": "2015-12-12",
+        "Hot": ""
+    },
+    {
+        "name": "WeakAuras-WotLK",
+        "githubRepo": "https://github.com/Bunny67/WeakAuras-WotLK",
+        "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/62/782/256/256/636142194921799650.png",
+        "addonType": "Utility",
+        "author": "Bunny67",
+        "description": "World of Warcraft addon that provides a powerful framework to display customizable graphics on your screen.",
+        "lastCommitDate": "2024-12-4",
+        "Hot": ""
+    },
+    {
+        "name": "TidyPlates_WoTLK",
+        "githubRepo": "https://github.com/bkader/TidyPlates_WoTLK",
+        "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/55/451/256/256/636141352218161611.jpg",
+        "addonType": "UI",
+        "author": "bkader",
+        "description": "Look a diferent nameplates",
+        "lastCommitDate": "2024-12-4",
+        "Hot": ""
+    },
+    {
+        "name": "RUF-WoTLK",
+        "githubRepo": "https://github.com/bkader/RUF-WoTLK",
+        "imageUrl": "https://user-images.githubusercontent.com/4732702/136260639-7f31e51f-39c3-418d-85cc-230e72b1cdad.png",
+        "addonType": "Utility",
+        "author": "bkader",
+        "description": "Raeli's Unit Frames backported for Wrath of The Lich King",
+        "lastCommitDate": "2024-12-4",
+        "Hot": ""
+    },
+    {
+        "name": "SexyMap",
+        "githubRepo": "https://github.com/YoharJB/SexyMap",
+        "imageUrl": "https://github.com/YoharJB/SexyMap/blob/main/SexyMap.jpg?raw=true",
+        "addonType": "UI",
+        "author": "Github",
+        "description": "SexyMap completely redesigns your mini-map to give it a more “sexy” look. You can choose from a couple of pre-defined styles.",
+        "lastCommitDate": "2024-12-4",
+        "Hot": ""
+    },
+    {
+        "name": "Carbonite_WOTLK",
+        "githubRepo": "https://github.com/YoharJB/Carbonite_WOTLK",
+        "imageUrl": "https://github.com/YoharJB/Carbonite_WOTLK/blob/main/636141463188861085.jpg?raw=true",
+        "addonType": "Utility",
+        "author": "Github",
+        "description": "Carbonite is a google style map replacement for the world of World of Warcraft.",
+        "lastCommitDate": "2024-12-4",
+        "Hot": ""
+    },
+    {
+        "name": "TurnIn",
+        "githubRepo": "https://github.com/YoharJB/TurnIn",
+        "imageUrl": "https://github.com/YoharJB/TurnIn/blob/main/TurnIn.png?raw=true",
+        "addonType": "Utility",
+        "author": "Github",
+        "description": "An add-on that automates the clicking of Quests and NPC Gossip dialogues. Automatically turns in repeatable or regular quests",
+        "lastCommitDate": "2024-12-4",
+        "Hot": ""
+    },
+    {
+        "name": "Critline",
+        "githubRepo": "https://github.com/YoharJB/Critline",
+        "imageUrl": "https://github.com/YoharJB/TurnIn/blob/main/TurnIn.png?raw=true",
+        "addonType": "Utility",
+        "author": "Github",
+        "description": "Critline is an addon that will remember your highest hits and crits (including heals and pet attacks), and display them in a fairly simple tooltip. It sports many features by default, including advanced filtering, a standalone frame, splash on new record and more",
+        "lastCommitDate": "2024-12-4",
+        "Hot": ""
+    },
+    {
+        "name": "Cooldowns",
+        "githubRepo": "https://github.com/YoharJB/Cooldowns",
+        "imageUrl": "https://github.com/YoharJB/Cooldowns/blob/main/4288678_orig.jpg?raw=true",
+        "addonType": "Utility",
+        "author": "Github",
+        "description": "See ur ability Cooldown in ur actionbars",
+        "lastCommitDate": "2024-12-4",
+        "Hot": ""
+    },
+    {
+        "name": "Details-WotLK",
+        "githubRepo": "https://github.com/NoM0Re/Details-WotLK",
+        "imageUrl": "https://media.forgecdn.net/attachments/215/323/mainwindow.png",
+        "addonType": "Utility",
+        "author": "Github",
+        "description": "Details Damage Meter for WotLK (3.3.5a)",
+        "lastCommitDate": "2024-12-4",
+        "Hot": ""
+    },
+    {
+        "name": "MBB",
+        "githubRepo": "https://github.com/YoharJB/MBB",
+        "imageUrl": "https://media.forgecdn.net/attachments/106/503/MBB.png",
+        "addonType": "Utility",
+        "author": "Github",
+        "description": "Minimal Button Bag this collect all addons button in a one button on minimap.",
+        "lastCommitDate": "2024-12-4",
+        "Hot": ""
+    },
+    {
+        "name": "oGlow",
+        "githubRepo": "https://github.com/YoharJB/oGlow",
+        "imageUrl": "https://cdn-wow.mmoui.com/preview/pvw7953.png",
+        "addonType": "UI",
+        "author": "Github",
+        "description": "oGlow will light up your items, by adding a quality border to them. It will only display this border for common quality items and above.",
+        "lastCommitDate": "2024-12-4",
+        "Hot": ""
+    },
+    {
+        "name": "pw_lossofcontrol",
+        "githubRepo": "https://github.com/s0h2x/pw_lossofcontrol",
+        "imageUrl": "https://user-images.githubusercontent.com/33549022/204646710-3ec5da44-fb66-4edf-b9b8-c07233ff9aae.png",
+        "addonType": "UI",
+        "author": "s0h2x",
+        "description": "Dragonflight Style  Makes it easy to see the duration of crowd control spells by displaying them on screen.",
+        "lastCommitDate": "2024-12-4",
+        "Hot": ""
+    },
+    {
+        "name": "pw_unitframes",
+        "githubRepo": "https://github.com/s0h2x/pw_unitframes",
+        "imageUrl": "https://www.wowisclassic.com/media/CACHE/images/wow/addons/unitframesimproved/b133b95a-3805-4efc-949c-50921313c410/cf64a8e8b846b088aa325f52178f3bc8.png",
+        "addonType": "UI",
+        "author": "s0h2x",
+        "description": "Dragonflight Style  Includes: frames: player, target, focus, target of target, focus of target, party, party-targets, arena, arena-targets elements: castbars, arena trinkets, auras, cooldowns, class portraits",
+        "lastCommitDate": "2024-12-4",
+        "Hot": ""
+    },
+    {
+        "name": "KIbsItemLevel",
+        "githubRepo": "https://github.com/s0h2x/KIbsItemLevel",
+        "imageUrl": "https://camo.githubusercontent.com/28b2c61b5b3b957f69c5385cad36e3554ef799a1595fed7e578a5b9f9e5987c4/68747470733a2f2f692e696d6775722e636f6d2f4a586c4f534d592e706e67",
+        "addonType": "UI",
+        "author": "s0h2x",
+        "description": "KIbsItemLevel for 3.3.5a WoTLK item level next to each item gems, relics, and enchants, or placeholders if missing average item leve",
+        "lastCommitDate": "2024-12-4",
+        "Hot": ""
+    },
+    {
+        "name": "OPie",
+        "githubRepo": "https://github.com/YoharJB/OPie",
+        "imageUrl": "https://github.com/YoharJB/OPie/blob/main/Opie.png?raw=true",
+        "addonType": "Utility",
+        "author": "Github",
+        "description": "Macros spell and more in one macro.",
+        "lastCommitDate": "2024-12-4",
+        "Hot": ""
+    },
+    {
+        "name": "WIM",
+        "githubRepo": "https://github.com/YoharJB/WIM",
+        "imageUrl": "https://i.imgur.com/6LLcGJ8.png",
+        "addonType": "Utility",
+        "author": "Github",
+        "description": "Nice UI to get whisper in one windos like a messenger.",
+        "lastCommitDate": "2024-12-4",
+        "Hot": ""
+    },
+    {
+        "name": "AdiBags",
+        "githubRepo": "https://github.com/YoharJB/AdiBags",
+        "imageUrl": "https://user-images.githubusercontent.com/74269253/229909788-3782f7b8-a995-4095-b997-37bf895675b6.png",
+        "addonType": "Utility",
+        "author": "Sattva-108",
+        "description": "AdiBags backport with improved UI and functions for 3.3.5 WoTLK client..",
+        "lastCommitDate": "2024-12-4",
+        "Hot": ""
+    },
+    {
+        "name": "EasyDestroy",
+        "githubRepo": "https://github.com/YoharJB/EasyDestroy",
+        "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/247/62/256/256/637161100817148820.png",
+        "addonType": "Utility",
+        "author": "Github",
+        "description": "Destroy items by picking them up and pressing the [Delete] key or by Alt-Shift-Right-Click on the item. Comes with a safe list and makes you do it twice on green or better items and quest items.",
+        "lastCommitDate": "2024-12-4",
+        "Hot": ""
+    },
+    {
+        "name": "OmniCC_WOTLK",
+        "githubRepo": "https://github.com/YoharJB/OmniCC_WOTLK",
+        "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/137/516/256/256/636515481273843403.jpeg",
+        "addonType": "Utility",
+        "author": "Github",
+        "description": "OmniCC is an addon that adds text to items, spell and abilities that are on cooldown to indicate when they will be ready to use. In other words: it turns all the standard analogue cooldowns into digital ones.",
+        "lastCommitDate": "2024-12-4",
+        "Hot": ""
+    },
+    {
+        "name": "Postal",
+        "githubRepo": "https://github.com/YoharJB/Postal",
+        "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/62/440/256/256/636142158871422044.jpg",
+        "addonType": "Utility",
+        "author": "Github",
+        "description": "Utility to mail",
+        "lastCommitDate": "2024-12-4",
+        "Hot": ""
+    },
+    {
+        "name": "GearScore",
+        "githubRepo": "https://github.com/YoharJB/GearScore",
+        "imageUrl": "https://github.com/YoharJB/GearScore/blob/main/images.jpg?raw=true",
+        "addonType": "Utility",
+        "author": "Github",
+        "description": "Displays the gearscore of all players. BonusScanner is implemented together with GearScore.",
+        "lastCommitDate": "2024-12-4",
+        "Hot": ""
+    },
+    {
+        "name": "SlashIn",
+        "githubRepo": "https://github.com/YoharJB/SlashIn",
+        "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/231/993/256/256/637064120845479885.png",
+        "addonType": "Utility",
+        "author": "Github",
+        "description": "Slash command in World of Warcraft.",
+        "lastCommitDate": "2024-12-4",
+        "Hot": ""
+    },
+    {
+        "name": "Molinari",
+        "githubRepo": "https://github.com/YoharJB/Molinari",
+        "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/60/949/256/256/636141586082612330.png",
+        "addonType": "Utility",
+        "author": "Github",
+        "description": "One-click Milling, Prospecting, Disenchanting and Lockpicking!",
+        "lastCommitDate": "2024-12-4",
+        "Hot": ""
+    },
+    {
+        "name": "Bartender4",
+        "githubRepo": "https://github.com/YoharJB/Bartender4",
+        "imageUrl": "https://media.forgecdn.net/attachments/82/85/Radial.png",
+        "addonType": "Utility",
+        "author": "Github",
+        "description": "Bartender4 is a full ActionBar replacement mod. It provides you with all the features needed to fully customization most aspects of your action and related bars.",
+        "lastCommitDate": "2024-12-4",
+        "Hot": ""
+    },
+    {
+        "name": "Bagnon_WOTLK",
+        "githubRepo": "https://github.com/YoharJB/Bagnon_WOTLK",
+        "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/647/705/256/256/638048338012580367.png",
+        "addonType": "Utility",
+        "author": "Github",
+        "description": "Bagnon backport for 3.3.5 with search and sort (reversed) functionality",
+        "lastCommitDate": "2024-12-4",
+        "Hot": ""
+    }
+]
