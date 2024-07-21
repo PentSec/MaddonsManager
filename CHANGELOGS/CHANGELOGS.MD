@@ -1,6 +1,17 @@
 # Changelog
 
-## [1.1.5] - Lasted Version
+## [1.1.6] - Lasted Version
+
+### 🆕 New Features and 🛠️ Corrections
+
+- Scaffolding all files
+- Fixed windows when open any URL
+- Move Addons.json path
+- Move changelogs.md path
+
+  [Full Changelog](https://github.com/PentSec/MasterAddonManager/compare/v1.1.5...v1.1.6)
+
+## [1.1.5]
 
 ### 🛠️ Corrections
 
@@ -27,7 +38,7 @@
 
 ## [1.1.2]
 
-### 🆕 New Features and
+### 🆕 New Features
 
 - New emojis in Menu logo
 - New emojis in Filter utility

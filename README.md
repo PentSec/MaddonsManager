@@ -1,6 +1,6 @@
 # MasterAddonManager
 
-![](https://github.com/PentSec/MasterAddonManager/blob/main/images/logo.png?raw=true)
+![](https://github.com/PentSec/MasterAddonManager/blob/main/src/assets/images/logo.png?raw=true)
 
 # 💻Include new Addon
 
@@ -19,6 +19,8 @@ follow this template to `<include>` a new Addon
     }
 
 # 📄ToDo list
+
+[FULL CHANGELOGS](https://github.com/PentSec/MasterAddonManager/blob/main/CHANGELOGS/CHANGELOGS.MD)
 
 - [x] Fix icon and logo image.
 - [x] Fix the problem that it does not stop the uninstall process when there is an error and not writing the addons name in addonsStatus.json the uninstall process can not switch to install.
