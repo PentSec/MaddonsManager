@@ -32,10 +32,10 @@ async function loadInstalledAddons() {
   }
 }
 
-// https://raw.githubusercontent.com/PentSec/MasterAddonManager/main/addons.json
+// https://raw.githubusercontent.com/PentSec/MasterAddonManager/main/JSON/addons.json
 async function loadAddonsJson() {
   try {
-    const response = await fetch('https://raw.githubusercontent.com/PentSec/MasterAddonManager/main/addons.json');
+    const response = await fetch('https://raw.githubusercontent.com/PentSec/MasterAddonManager/main/JSON/addons.json');
     addons = await response.json();
   } catch (error) {
     console.error(`Error loading addons.json: ${error.message}`);
@@ -307,7 +307,7 @@ document.querySelectorAll('.close-button').forEach(button => {
 });
 
 window.electronAPI.receive('update-available', (info) => {
-  const message = `⬆️・New Update Available: <a href="https://github.com/PentSec/MasterAddonManager/blob/main/CHANGELOGS.MD" target="_blank" class="link link-success">Click Here</a>`;
+  const message = `⬆️・New Update Available: <a href="https://github.com/PentSec/MasterAddonManager/blob/main/CHANGELOGS/CHANGELOGS.MD" target="_blank" class="link link-success">Click Here</a>`;
   window.electronAPI.send('show-modal', message, 'modal');
 });
 
@@ -407,7 +407,7 @@ document.querySelector('a[href="#about"]').addEventListener('click', async () =>
 
   document.getElementById('changelog-link').addEventListener('click', (event) => {
     event.preventDefault();
-    window.electronAPI.openExternalLink('https://github.com/PentSec/MasterAddonManager/blob/main/CHANGELOGS.MD');
+    window.electronAPI.openExternalLink('https://github.com/PentSec/MasterAddonManager/blob/main/CHANGELOGS/CHANGELOGS.MD');
   });
 })
 

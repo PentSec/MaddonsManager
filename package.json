@@ -6,8 +6,8 @@
     "main": "./src/main.js",
     "scripts": {
         "start": "electron .",
-        "watch:tailwind": "tailwindcss -i ./css/styles.css -o ./src/css/AddonStyles.css --watch",
-        "build:css": "tailwindcss -i ./css/styles.css -o ./src/css/AddonStyles.css --watch",
+        "watch:tailwind": "tailwindcss -i ./src/css/styles.css -o ./src/css/AddonStyles.css --watch",
+        "build:css": "tailwindcss -i ./src/css/styles.css -o ./src/css/AddonStyles.css --watch",
         "package": "electron-builder build",
         "publish": "electron-builder --publish always"
     },
