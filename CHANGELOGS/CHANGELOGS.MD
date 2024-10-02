@@ -1,6 +1,43 @@
-# Changelog
+<center><h1>CHANGELOGS</h1></center>
 
-## [1.1.6] - Lasted Version
+## [1.2.0] 
+### 🆕 New Features and 🛠️ Corrections
+**🛠️IMPROVED**
+- About content modal added
+- Control toggle menu to close on click any item
+- 
+**🪲BUG FIXED**
+
+- some translates fixed
+- parse html fixed
+- remove shadowscroll from modals, we need fix the new scroll
+
+## [1.1.9]
+### 🆕 New Features and 🛠️ Corrections
+Hello, new factures and important bug fixes.
+
+**🛠️Improved**
+
+- Progress bar to install/uninstall addon
+
+**🪲 Bug Fixes**
+
+- Fixed update notifications
+- Fixed visual uninstall button on install addons.
+
+## [1.1.8]
+### 🆕 New Features and 🛠️ Corrections
+- Fixed backend issues.
+- Rename Window to Master Addon Manager
+
+## [1.1.7]
+### 🆕 New Features and 🛠️ Corrections
+- New version based on react.
+- This version is on Dev
+- it will be constantly updated and will receive several upgrades
+
+
+## [1.1.6]
 
 ### 🆕 New Features and 🛠️ Corrections
 

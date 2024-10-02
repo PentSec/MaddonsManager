@@ -1,27 +1,27 @@
-# MasterAddonManager
+<center><h1>Master Addon Manager</h1></center>
 This project arose with the inspiration of Masterwow.net server and now takes another way, and now we focus on saving and providing you with the largest amount of addons of the 3 most played versions of wow Lichking 3.3.5, Cataclysm 4. 3.4 and Pandarian 5.4.8 from today 30 Sep 2024, a new app is born that will grow with the help of the community for now being very small and basing and creating itself from the hand of free services like github. who knows where we will arrive later. 
 
 
-<img src="https://github.com/PentSec/MasterAddonManager/blob/main/src/assets/images/logo.png?raw=true" alt="Logo" width="200"/>
+<img src="https://github.com/PentSec/MasterAddonManager/blob/main/src/assets/images/logo.png?raw=true" alt="Logo" width="200" style="display: block; margin: 0 auto;" />
 
 
 # 💻Include new Addon
 
-follow this template to `<include>` a new Addon
+follow this template to `<include>` a new Addon with pr on this repo [Request Addons](https://github.com/PentSec/wowAddonsAPI/issues) or via [Discord](https://discord.gg/c3NafGk8Dh)
 
     {
-        "name": "Same name as Repo",
+        "name": "MasterMount",
         "githubRepo": "https://github.com/PentSec/MasterMount", --Link repo
         "imageUrl": "https://wow.zamimg.com/images/wow/icons/large/inv_mount_spectralhorse.jpg", --a logo referent to addon
         "addonType": "Mounts/Companion", -- addonType if there are any addons that are not in the list please notify.
         "author": "Sitoz", --author or contributor of the Addons
         "description": "Addons for Searching and Viewing mount model in Masterwow.net", --Real Description of addons
         "lastCommitDate": "2024-06-11",
-    	"addonInfolder": true, --if it is necessary to include this line only if the adons is in a subfolder.
         "Hot": "🔥" -- dont use this xd
     }
 
-# 📄ToDo list
+
+# 📄FULL CHANGELOGS
 
 [FULL CHANGELOGS](https://github.com/PentSec/MasterAddonManager/blob/main/CHANGELOGS/CHANGELOGS.MD)
 
