@@ -1,5 +1,24 @@
 <center><h1>CHANGELOGS</h1></center>
 
+## [1.2.2] 
+###  🛠️ Corrections
+
+🛠️ Fixeeees moment.
+
+fixes the process of how the app recognized the installed
+addons and now only deleting specific folders that are
+written in the API no longer makes splits.
+
+## [1.2.1] 
+### 🆕 New Features and 🛠️ Corrections
+
+Hello everyone in this update we bring
+
+New custom TitleBar.
+New clean logo.
+Cards in contentaddon is now fixed
+some UI issue is now fixed
+
 ## [1.2.0] 
 ### 🆕 New Features and 🛠️ Corrections
 **🛠️IMPROVED**
