@@ -9,17 +9,19 @@ This project arose with the inspiration of Masterwow.net server and now takes an
 
 follow this template to `<include>` a new Addon with pr on this repo [Request Addons](https://github.com/PentSec/wowAddonsAPI/issues) or via [Discord](https://discord.gg/c3NafGk8Dh)
 
+```json
     {
         "name": "MasterMount",
-        "githubRepo": "https://github.com/PentSec/MasterMount", --Link repo
-        "imageUrl": "https://wow.zamimg.com/images/wow/icons/large/inv_mount_spectralhorse.jpg", --a logo referent to addon
-        "addonType": "Mounts/Companion", -- addonType if there are any addons that are not in the list please notify.
-        "author": "Sitoz", --author or contributor of the Addons
-        "description": "Addons for Searching and Viewing mount model in Masterwow.net", --Real Description of addons
+        "folders": ["MasterMount"],
+        "githubRepo": "https://github.com/PentSec/MasterMount",
+        "imageUrl": "https://maddons.github.io/logo.jpg",
+        "addonType": "Mounts/Companion",
+        "author": "Sitoz",
+        "description": "Addons for Searching and Viewing mount model in Masterwow.net",
         "lastCommitDate": "2024-06-11",
-        "Hot": "🔥" -- dont use this xd
+        "Hot": "🔥"
     }
-
+```
 
 # 📄FULL CHANGELOGS
 
