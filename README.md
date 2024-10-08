@@ -1,11 +1,11 @@
-<center><h1>Master Addon Manager</h1></center>
+<center><h1>Maddons Manager</h1></center>
 This project arose with the inspiration of Masterwow.net server and now takes another way, and now we focus on saving and providing you with the largest amount of addons of the 3 most played versions of wow Lichking 3.3.5, Cataclysm 4. 3.4 and Pandarian 5.4.8 from today 30 Sep 2024, a new app is born that will grow with the help of the community for now being very small and basing and creating itself from the hand of free services like github. who knows where we will arrive later. 
 
 
 <img src="https://github.com/PentSec/MasterAddonManager/blob/main/IMAGES/logo.png?raw=true" alt="Logo" width="200" style="display: block; margin: 0 auto;" />
 
 
-# 💻Include new Addon
+# 💻 PR to new Addon
 
 follow this template to `<include>` a new Addon with pr on this repo [Request Addons](https://github.com/PentSec/wowAddonsAPI/issues) or via [Discord](https://discord.gg/c3NafGk8Dh)
 
@@ -30,7 +30,7 @@ follow this template to `<include>` a new Addon with pr on this repo [Request Ad
 
 ### Things to know
 
-    📁C:\Users\USER\AppData\Roaming\master-addon-manager
+    📁C:\Users\USER\AppData\Roaming\maddons-manager
 
 > 1 files will be stored here.
 
@@ -44,4 +44,4 @@ follow this template to `<include>` a new Addon with pr on this repo [Request Ad
 
 ## ScreanShots
 
-[![Image from Gyazo](https://i.gyazo.com/05a9aad2c491735417540d727f36a082.png)](https://gyazo.com/05a9aad2c491735417540d727f36a082)
+[![Image from Github](https://github.com/PentSec/MasterAddonManager/blob/main/IMAGES/preview.png?raw=true)](https://github.com/PentSec/MasterAddonManager/blob/main/IMAGES/preview.png?raw=true)
