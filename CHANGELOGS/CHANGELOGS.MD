@@ -1,5 +1,26 @@
 <center><h1>CHANGELOGS</h1></center>
 
+## [1.2.4] 
+
+Howdy, for this new update we fixed a few problems in the installation of the addons.
+
+### 🪲BUG FIXED
+
+- fixed the problem with the addon names when installing them is fixed.
+- fixed the problem with the loading button being removed when there was a concurrent installation
+- fixed the problem with the progress bar being removed during simultaneous installation
+
+### 🛠️IMPROVED
+
+- added a class to handle multiple downloads, now all downloads are queued and start when the previous one finishes.
+
+## [1.2.3] 
+ In this update... 🔥
+
+###  🛠️ Corrections
+- fixes the unpacking and copying process of the addons folders for a better optimization in the process. this will make the addon names more stylized.
+- Change name to Maddons Manager.
+
 ## [1.2.2] 
 ###  🛠️ Corrections
 
