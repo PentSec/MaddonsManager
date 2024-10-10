@@ -36,12 +36,12 @@ follow this template to `<include>` a new Addon with pr on this repo [Request Ad
 
 📄CONFIG.Json
 
-> they will contain information about the program.
+> this will contain information about the program.
 > deleting them lost the program storage about the address of your
 > world of warcraft folder
 
 
 
-## ScreanShots
+## ScreenShots
 
 [![Image from Github](https://github.com/PentSec/MasterAddonManager/blob/main/IMAGES/preview.png?raw=true)](https://github.com/PentSec/MasterAddonManager/blob/main/IMAGES/preview.png?raw=true)

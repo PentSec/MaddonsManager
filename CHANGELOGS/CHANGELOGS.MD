@@ -1,5 +1,20 @@
 <center><h1>CHANGELOGS</h1></center>
 
+
+## [1.2.4] 
+
+## 🚀 Patch Notes for Electron App Update
+
+### 🔧 Refactor & Code Improvement
+- Complete refactor of the app's codebase to make it cleaner, more maintainable, and scalable.
+### 📊 Dynamic Addon Types
+
+- The Select component now dynamically pulls all addon types directly from the API's JSON files. These will now auto-update without manual intervention! 🎉
+
+### 🔢 Multiple Selection Support
+
+- The Select component now supports multiple selections! You can easily filter addons by multiple types, making addon management more flexible and efficient.
+
 ## [1.2.4] 
 
 Howdy, for this new update we fixed a few problems in the installation of the addons.
