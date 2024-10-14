@@ -9,8 +9,7 @@
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/pentsec/MaddonsManager">
 <img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/pentsec/MaddonsManager/total">
 <img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues/pentsec/MaddonsManager">
-<img alt="GitHub last commit" src="https://img.shields.io/github/
-last-commit/PentSec/MaddonsManager">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/PentSec/MaddonsManager">
 <a href="https://github.com/PentSec/MasterAddonManager/releases">
 <img alt="GitHub Release" src="https://img.shields.io/github/v/release/pentsec/MaddonsManager">
 </a>
