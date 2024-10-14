@@ -1,5 +1,16 @@
 <center><h1>CHANGELOGS</h1></center>
 
+## [1.2.5]
+
+- 🔃 Loading page...
+- 🛠️ Refactor: Move useWowPath logic to its own hook for better structure.
+- 🐛 Fix: Ensure handleWowPathChange properly triggers addon refresh.
+- 🧹 Cleanup: Simplify path selection logic in handleMenuItemClick.
+- ✨ Feature: Add success/error handling in Wow path selection with modals.
+- ⚡ Optimization: Use modal context for error and success messages during path selection.
+- 🗂️ Config: Add openFileDialog handler in the main process for Wow expansions.
+- 📂 Enhancement: Validate selected WoW paths for Interface and WTF directories.
+- 📝 Docs: Update get-config and path handlers to return detailed error messages.
 
 ## [1.2.4] 
 
