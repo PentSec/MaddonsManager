@@ -63,7 +63,7 @@ if you have addons that are compatible and are inside Maddons the app will recog
 
 --- 
 
-## 💻 PR to new Addon
+## 💻 PR to request a new Addon
 
 follow this template to `<include>` a new Addon with pr on this repo [Request Addons](https://github.com/PentSec/wowAddonsAPI/issues) or via [Discord](https://discord.gg/c3NafGk8Dh)
 

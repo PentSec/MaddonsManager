@@ -1,5 +1,41 @@
 <center><h1>CHANGELOGS</h1></center>
 
+## [1.2.8]
+
+🆙Big Update!
+
+- ✨ Updated updater timing and improved AppNavbar structure
+- ✨ Added delay for update checks.
+- 🛠️ Enhanced transition durations for smoother UI experience
+- ✨ Pass install/uninstall functions to AddonModal.
+- 🛠️ Refactor handling of addon actions
+- ✨ Added modal state management.
+- 🛠️ Improved styles and layout for addon details
+- 👠 stylized second Card ui
+- 🖼️ add more backgrounds
+- 😊 change grid 3 to 6 on lg windows still 3 on md windows
+- 😊 two styles are implemented, simple and compact
+- 📸 Some logos are optimized
+- 🏜️ New fuction to implemented new UIX
+- 🍫 Titlebar litle change
+- 🔗 Modal to view more addon info are implemented
+
+## [1.2.7]
+
+- 🐛 Fixed several bugs when trying to use the menu items and it bucle on Loading page..
+
+## [1.2.6]
+
+- 🔃 Loading page...
+- 🛠️ Refactor: Move useWowPath logic to its own hook for - better structure.
+- 🐛 Fix: Ensure handleWowPathChange properly triggers addon refresh.
+- 🧹 Cleanup: Simplify path selection logic in handleMenuItemClick.
+- ✨ Feature: Add success/error handling in Wow path selection with modals.
+- ⚡ Optimization: Use modal context for error and success messages during path selection.
+- 🗂️ Config: Add openFileDialog handler in the main process for Wow expansions.
+- 📂 Enhancement: Validate selected WoW paths for Interface and WTF directories.
+- 📝 Docs: Update get-config and path handlers to return detailed error messages.
+
 ## [1.2.5]
 
 - 🔃 Loading page...
