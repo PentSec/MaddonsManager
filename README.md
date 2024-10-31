@@ -18,7 +18,8 @@
 </a>
 </a>
 
-📝This project arose with the inspiration of Masterwow.net server and now takes another way, now we focus on saving and providing you with the largest amount of addons of the 3 most played versions of wow Lichking 3.3.5, Cataclysm 4. 3.4 and Pandarian 5.4.8 from today 30 Sep 2024, a new app is born that will grow with the help of the community for now being very small and basing and creating itself from the hand of free services like github. who knows where we will 
+> [!IMPORTANT]
+> 📝This project arose with the inspiration of Masterwow.net server and now takes another way, now we focus on saving and providing you with the largest amount of addons of the 3 most played versions of wow Lichking 3.3.5, Cataclysm 4. 3.4 and Pandarian 5.4.8 from today 30 Sep 2024, a new app is born that will grow with the help of the community for now being very small and basing and creating itself from the hand of free services like github. who knows where we will 
 
 ### 🌟 if you think this App is useful for you, please give me a Star 🌟 
 </p>
