@@ -50,6 +50,7 @@ and many updates are coming, roadmap coming soon...
 4. 😊 Enjoy.
 
 if you have addons that are compatible and are inside Maddons the app will recognize them as installed. 
+From manual download go to [Maddons](https://MaddonsManager.github.io)
 
 ## 🤔 Need Help?
 
