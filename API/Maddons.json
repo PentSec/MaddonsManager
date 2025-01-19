@@ -6,9 +6,2661 @@
         "author": "Crum",
         "pr_author": "Sitoz",
         "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
-        "expansion": ["Cataclysm"],
-        "tags": ["General", "PvE", "PvP"],
-        "roles": ["DPS", "TANK", "HEALER"],
-        "class": ["all"]
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "AckisRecipeList",
+        "file_name": "AckisRecipeList",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "ACP",
+        "file_name": "ACP",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "ActionBarSaver",
+        "file_name": "ActionBarSaver",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "addemote",
+        "file_name": "addemote",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "AddFriend",
+        "file_name": "AddFriend",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "AdiBags",
+        "file_name": "AdiBags",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Afflicted",
+        "file_name": "Afflicted",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "AllStats",
+        "file_name": "AllStats",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Altoholic",
+        "file_name": "Altoholic",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "AmILockedOut",
+        "file_name": "AmILockedOut",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Atlas",
+        "file_name": "Atlas",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "AtlasLoot",
+        "file_name": "AtlasLoot",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Auctionator",
+        "file_name": "Auctionator",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Auctionator+",
+        "file_name": "Auctionator+",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Auctionator_WatchList",
+        "file_name": "Auctionator_WatchList",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "autoflood",
+        "file_name": "autoflood",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "AutoInvite",
+        "file_name": "AutoInvite",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "autorepair",
+        "file_name": "autorepair",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Bagnon",
+        "file_name": "Bagnon",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Bartender4",
+        "file_name": "Bartender4",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "BindPad",
+        "file_name": "BindPad",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "BlizzMove",
+        "file_name": "BlizzMove",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "BLT",
+        "file_name": "BLT",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "BNetToast",
+        "file_name": "BNetToast",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "BugSack",
+        "file_name": "BugSack",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Carbonite",
+        "file_name": "Carbonite",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Cartographer",
+        "file_name": "Cartographer",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "ChatFilter",
+        "file_name": "ChatFilter",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Chatter",
+        "file_name": "Chatter",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Cheese",
+        "file_name": "Cheese",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "ClassLoot",
+        "file_name": "ClassLoot",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "CleanMinimap",
+        "file_name": "CleanMinimap",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Clique",
+        "file_name": "Clique",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Collectinator",
+        "file_name": "Collectinator",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "cooldowns",
+        "file_name": "cooldowns",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Critline",
+        "file_name": "Critline",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "DBM",
+        "file_name": "DBM",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Decursive",
+        "file_name": "Decursive",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Details",
+        "file_name": "Details",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "DocsCorporeality_r3",
+        "file_name": "DocsCorporeality_r3",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Dominos",
+        "file_name": "Dominos",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "DrDamage",
+        "file_name": "DrDamage",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "ElvUI",
+        "file_name": "ElvUI",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "EnsidiaFails",
+        "file_name": "EnsidiaFails",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "EventHorizon",
+        "file_name": "EventHorizon",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "EveryQuest",
+        "file_name": "EveryQuest",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "ForteXorcist",
+        "file_name": "ForteXorcist",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "FriendShare",
+        "file_name": "FriendShare",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Gatherer_Wowhead335",
+        "file_name": "Gatherer_Wowhead335",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "GearScore",
+        "file_name": "GearScore",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "GearScoreLite",
+        "file_name": "GearScoreLite",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "GladiusEx",
+        "file_name": "GladiusEx",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Grid2",
+        "file_name": "Grid2",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "HalionHelper",
+        "file_name": "HalionHelper",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "HealBot",
+        "file_name": "HealBot",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "IgnoreMore",
+        "file_name": "IgnoreMore",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "InspectEquip",
+        "file_name": "InspectEquip",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "InterruptBar",
+        "file_name": "InterruptBar",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "KeyBindingsProfiler",
+        "file_name": "KeyBindingsProfiler",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "KRU",
+        "file_name": "KRU",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "LoseControl",
+        "file_name": "LoseControl",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Ludwig",
+        "file_name": "Ludwig",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "MageNuggets",
+        "file_name": "MageNuggets",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Mapster",
+        "file_name": "Mapster",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "MarketWatcher+",
+        "file_name": "MarketWatcher+",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "MikScrollingBattleText",
+        "file_name": "MikScrollingBattleText",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "MogIt",
+        "file_name": "MogIt",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "NeedToKnow",
+        "file_name": "NeedToKnow",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Omen",
+        "file_name": "Omen",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "OPie",
+        "file_name": "OPie",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Outfitter",
+        "file_name": "Outfitter",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Overachiever",
+        "file_name": "Overachiever",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "PallyPower",
+        "file_name": "PallyPower",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "PhoenixStyle",
+        "file_name": "PhoenixStyle",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Plagued",
+        "file_name": "Plagued",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Plugins",
+        "file_name": "Plugins",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "pMinimap",
+        "file_name": "pMinimap",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Postal",
+        "file_name": "Postal",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Profession_Capper",
+        "file_name": "Profession_Capper",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Quartz",
+        "file_name": "Quartz",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "QuestHelper",
+        "file_name": "QuestHelper",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "RaidBrowser",
+        "file_name": "RaidBrowser",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "RaidBuffStatus",
+        "file_name": "RaidBuffStatus",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "RaidComp",
+        "file_name": "RaidComp",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "RaidRoll",
+        "file_name": "RaidRoll",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "RaitingBuster",
+        "file_name": "RaitingBuster",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Redeemer",
+        "file_name": "Redeemer",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "RSA",
+        "file_name": "RSA",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "SexyCooldown",
+        "file_name": "SexyCooldown",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "SexyMap",
+        "file_name": "SexyMap",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "ShadowedUnitFrames",
+        "file_name": "ShadowedUnitFrames",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "SharedMedia",
+        "file_name": "SharedMedia",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Skada",
+        "file_name": "Skada",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "SmartTrack",
+        "file_name": "SmartTrack",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "SnowfallKeyPress",
+        "file_name": "SnowfallKeyPress",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "SoundAlerter",
+        "file_name": "SoundAlerter",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "SpellID",
+        "file_name": "SpellID",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "SpellReplay",
+        "file_name": "SpellReplay",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "spy",
+        "file_name": "spy",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Talented",
+        "file_name": "Talented",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "TellMeWhen",
+        "file_name": "TellMeWhen",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "TidyPlates",
+        "file_name": "TidyPlates",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "TipTac",
+        "file_name": "TipTac",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "TradeSkillMaster+",
+        "file_name": "TradeSkillMaster+",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "TrufiGCD",
+        "file_name": "TrufiGCD",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "TurnIn-2.1",
+        "file_name": "TurnIn-2.1",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "VuhDo",
+        "file_name": "VuhDo",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Weakaura",
+        "file_name": "Weakaura",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "WIM",
+        "file_name": "WIM",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "xCT+",
+        "file_name": "xCT+",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
     }
 ]
