@@ -1,12 +1,12 @@
 [
     {
-        "title": "Elvui WOTLK",
-        "file_name": "elvui",
-        "description": "Elvui backport for wotlk 3.3.5",
+        "title": "Elvui Cataclysm",
+        "file_name": "elvui4.3.4",
+        "description": "Elvui backport for Cataclysm 4.3.4",
         "author": "Crum",
         "pr_author": "Sitoz",
         "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
-        "expansion": ["Lichking"],
+        "expansion": ["Cataclysm"],
         "tags": ["General", "PvE", "PvP"],
         "roles": ["DPS", "TANK", "HEALER"],
         "class": ["all"]
