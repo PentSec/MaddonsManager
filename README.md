@@ -26,31 +26,16 @@
 
 ## Getting Started
 
-Download the latest version from [releases](https://github.com/PentSec/MasterAddonManager/releases)
 
-## 🔥 Features
 
-- 🔥 Addons Manager.
-- ⏬ Install all addons compatible with our version. 
-- 🛂 Keep a better control of your installed addons.
-- 🗑️ Easy removal of addons.
-- 💿 Easy installation directly to folder.
-- 🆙 all addons are updated.
-- 🔎 Search for specific addons.
-- 🤳🏽 Filter addon by category.
-- 🔗 Go to the addon link to know everything about it just by clicking.
+## 🔥 Features of [MaddonsManager](https://maddonsmanager.github.io/)
+
+- 🔥 Addons for private server to Lichking, Cataclysm, Pandarian.
+- 🔥 ElvUI profiles
+- 🔥 WeakAuras profiles
+- 📝 Alot of Guides
   
 and many updates are coming, roadmap coming soon...
-
-## ⚙️ Configuration
-
-1. 📭 Open Maddons Manager. 
-2. 👆🏽 Click on menu icon.
-3. 👆🏽 Click on Slect wow.exe.
-4. 😊 Enjoy.
-
-if you have addons that are compatible and are inside Maddons the app will recognize them as installed. 
-From manual download go to [Maddons](https://MaddonsManager.github.io)
 
 ## 🤔 Need Help?
 
@@ -61,41 +46,94 @@ From manual download go to [Maddons](https://MaddonsManager.github.io)
 
 ## 📷 ScreenShots
 
-[![Image from Github](https://github.com/PentSec/MasterAddonManager/blob/main/IMAGES/preview.png?raw=true)](https://github.com/PentSec/MasterAddonManager/blob/main/IMAGES/preview.png?raw=true)
+![image](https://github.com/user-attachments/assets/28f84d47-d1e1-4fe5-bd4d-c617397698b6)
 
 --- 
 
-## 💻 PR to request a new Addon
+## 💻 PR to add a new Addon
 
-follow this template to `<include>` a new Addon with pr on this repo [Request Addons](https://github.com/PentSec/wowAddonsAPI/issues) or via [Discord](https://discord.gg/c3NafGk8Dh)
+follow this template to `include` a new Addon with pr on this repo
+
+[Fork](https://github.com/PentSec/MaddonsManager/fork) this repository and clone it locally:
+```bash
+git clone https://github.com/PentSec/MaddonsManager.git
+```
+
+1. Go to the [**`API/Addons/`**](https://github.com/PentSec/MaddonsManager/tree/main/API/Addons) folder and inside create new Folder with name of addon and version `/Example3.3.5/` , then put the addon.zip file image and post.md. 
+    - same instructions for ElvUI and WeakAuras profiles but in [API/ElvUI](https://github.com/PentSec/MaddonsManager/tree/main/API/ElvUI) and [API/WeakAuras](https://github.com/PentSec/MaddonsManager/tree/main/API/WeakAuras)
+
+2. in post.md you can add Description, Guide, Screenshots, Videos, etc. all as you want and you can use [markdown](https://www.markdownguide.org/basic-syntax/) to format your text.
+
+3. Go to the [**`API/Maddons.json`**](https://github.com/PentSec/MaddonsManager/tree/main/API/Maddons.json), [**`API/ElvUI.json`**](https://github.com/PentSec/MaddonsManager/tree/main/API/ElvUI.json) [**`API/WeakAuras.json`**](https://github.com/PentSec/MaddonsManager/tree/main/API/WeakAuras.json) and add the information about your Addons, ElvUI or WeakAuras, following the structure:
+    - same instructions for ElvUI and WeakAuras profiles but in [API/ElvUI](https://github.com/PentSec/MaddonsManager/tree/main/API/ElvUI) and [API/WeakAuras](https://github.com/PentSec/MaddonsManager/tree/main/API/WeakAuras)
+
+> [!WARNING]
+>
+> - The name of folder must be the same as the file_name in the json.
+> - The name of the file.zip must be the same as the file_name in the json.
+> - name of the webp image must be the same as the file_name in the json.
+> - file_name cant be spaced or special characters.
+> - Remember to optimize image for web to webp, you can use [squoosh](https://squoosh.app/) or my python script.
+> - post.md, image.webp, .zip must be in the same folder
+> - Only .webp images are supported.
+> - The size limit for webp is **50kb**.
 
 ```json
     {
-        "name": "MasterMount",
-        "folders": ["MasterMount"],
-        "githubRepo": "https://github.com/PentSec/MasterMount",
-        "imageUrl": "https://maddons.github.io/logo.jpg",
-        "addonType": "Mounts/Companion",
-        "author": "Sitoz",
-        "description": "Addons for Searching and Viewing mount model in Masterwow.net",
-        "lastCommitDate": "2024-06-11",
-        "Hot": "🔥"
-    }
+        "title": "Your Addon Title",
+        "file_name": "name_of_folder",
+        "description": "short descriptions of your addons",
+        "author": "Addons Author",
+        "pr_author": "Your Github Username",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
 ```
 
-# 📄FULL CHANGELOGS
+## availables expansions, tags, roles, classes
+> [!WARNING]
+>
+> - This are cases sensitive.
 
-[FULL CHANGELOGS](https://github.com/PentSec/MasterAddonManager/blob/main/CHANGELOGS/CHANGELOGS.MD)
+- expansions:
+    - Cataclysm
+    - Lichking
+    - Pandarian
+- tags:
+    - General
+    - PvE
+    - PvP
+- roles:
+    - All
+    - DPS
+    - TANK
+    - HEALER
+- classes:
+    - All
+    - Rogue
+    - Warrior
+    - Paladin
+    - Death Knight
+    - Druid
+    - Hunter
+    - Mage
+    - Monk
+    - Priest
+    - Shaman
+    - Warlock
 
-
-### Things to know
-
-    📁C:\Users\USER\AppData\Roaming\maddons-manager
-
-> 1 files will be stored here.
-
-📄CONFIG.Json
-
-> this will contain information about the program.
-> deleting them lost the program storage about the address of your
-> world of warcraft folder
