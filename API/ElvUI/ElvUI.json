@@ -1,0 +1,50 @@
+[
+    {
+        "uuid": "1",
+        "title": "Caydys anti weakaura (liquid maximum)",
+        "description": "wanted a ui without having to depend on weakauras just by using elvui actions bar you might have to drag spell to the bars so you can see the cd",
+        "author": "Clancy",
+        "expansion":[ "Lichking"],
+        "version": "1.0.0",
+        "changelog": ["1.0.0 - Initial Release"],
+        "tags": ["General", "PvE", "PvP"],
+        "roles": ["DPS"],
+        "class": ["Rogue", "Warrior", "Paladin", "Death Knight"],
+        "logo": "banner.bmp",
+        "preview": "preview.webp",
+        "preview2": "preview1.webp",
+        "preview3": "preview2.webp"
+    },
+    {
+        "uuid": "2",
+        "title": "ToxiUI WOTLK 3.3.5 [PServers Only]",
+        "description": "ToxiUI for World of Warcraft: Wrath of the Lich King [3.3.5 Private Servers]",
+        "author": "Nethanos",
+        "expansion":[ "Lichking"],
+        "version": "1.0.0",
+        "changelog": ["1.0.0 - Initial Release"],
+        "tags": ["General", "PvE", "PvP"],
+        "roles": ["DPS", "TANK", "HEALER"],
+        "class": ["All"],
+        "logo": "banner.bmp",
+        "preview": "preview.webp",
+        "preview2": "preview1.webp",
+        "preview3": "preview2.webp"
+    },
+    {
+        "uuid": "3",
+        "title": "Clean ElvUI Preset for PRO Gamers",
+        "description": "tired of every elvui preset looking the same? try this one then",
+        "author": "Danielwow123",
+        "expansion": ["Pandaria", "Lichking"],
+        "version": "1.0.0",
+        "changelog": ["1.0.0 - Initial Release"],
+        "tags": ["General", "PvE", "PvP"],
+        "roles": ["DPS", "TANK", "HEALER"],
+        "class": ["All"],
+        "logo": "banner.bmp",
+        "preview": "preview.bmp",
+        "preview2": "preview1.bmp",
+        "preview3": "preview2.bmp"
+    }
+]

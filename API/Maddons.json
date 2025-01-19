@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Elvui WOTLK",
+        "file_name": "elvui",
+        "description": "Elvui backport for wotlk 3.3.5",
+        "author": "Crum",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": ["Lichking"],
+        "tags": ["General", "PvE", "PvP"],
+        "roles": ["DPS", "TANK", "HEALER"],
+        "class": ["all"]
+    }
+]
