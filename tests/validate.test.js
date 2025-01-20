@@ -20,7 +20,7 @@ describe('validate json and folder structure', () => {
     const baseDir = path.resolve('API');
 
     jsonFiles.forEach((jsonFile) => {
-        test(`Validar estructura de ${jsonFile}`, () => {
+        test(`validate ${jsonFile}`, () => {
             const jsonPath = path.resolve(baseDir, jsonFile);
             if (!fs.existsSync(jsonPath)) {
                 console.log(`${jsonFile} dont exist, skipping...`);
