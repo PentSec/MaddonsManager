@@ -28,6 +28,7 @@ Unless explicitly specified otherwise by a **owner**, **helper** or in the requi
 - [ ] The name of folder must be the same as the file_name in the json.
 - [ ] The name of the file.zip must be the same as the file_name in the json.
 - [ ] My name of the webp image must be the same as the file_name in the json.
+- [ ] My PR is a WeakAuras or ElvUI profile and add the .txt with string profile with the same name as the file_name in the json.
 - [ ] My file_name not be spaced or special characters.<!-- correct Name3.2.3/ not Na*&^%me2.  or Na Me2.3/ -->
 - [ ] My image is a `.webp` file and optimized and size less of `51kb`. 
 - [ ] My post.md have a good description
