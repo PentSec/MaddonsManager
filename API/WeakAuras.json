@@ -1,50 +1,36 @@
 [
     {
-        "uuid": "1",
         "title": "Rogue WA Package - WOTLK 3.3.5",
+        "file_name": "Quazii3.3.5",
         "description": "## Quazii's Rogue Package\n\nThis Weakaura is **Quazii's Rogue Package**, and I just skinned everything to fit with *NaowhUI WOTLK 3.3.5* and added some new weakauras to make it more helpful.",
         "author": "Nethanos",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
         "expansion": ["Lichking"],
-        "version": "1.0.0",
-        "changelog": ["1.0.0 - Initial Release"],
         "tags": ["General", "PvE", "PvP"],
         "roles": ["DPS", "TANK", "HEALER"],
-        "class": ["Rogue"],
-        "logo": "banner.webp",
-        "preview": "preview.webp",
-        "preview2": "preview1.webp",
-        "preview3": "preview2.webp"
+        "class": ["Rogue"]
     },
     {
-        "uuid": "2",
         "title": "Complete Feral Cat DPS suite for 3.3.5",
+        "file_name": "FeralCat3.3.5",
         "description": "Everything you need 4 FITE !!! Optimized for PVE",
         "author": "napnap",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
         "expansion": ["Cataclysm"],
-        "version": "1.0.0",
-        "changelog": ["1.0.0 - Initial Release"],
         "tags": ["General", "PvE", "PvP"],
         "roles": ["DPS", "TANK"],
-        "class": ["Druid"],
-        "logo": "banner.bmp",
-        "preview": "preview.webp",
-        "preview2": "preview1.webp",
-        "preview3": "preview2.webp"
+        "class": ["Druid"]
     },
     {
-        "uuid": "3",
         "title": "Rogue UI (ChromieCraft Level 64 bracket)",
+        "file_name": "ChromieCraft3.3.5",
         "description": "This collection helps to keep track on all relevant information (energy, combo points, poisons, cooldowns, buffs, …) for rogues. All specializations are supported.",
         "author": "ishidinho",
         "expansion": ["Pandaria", "Lichking"],
-        "version": "1.0.0",
-        "changelog": ["1.0.0 - Initial Release"],
         "tags": ["General", "PvE", "PvP"],
         "roles": ["DPS", "TANK", "HEALER"],
-        "class": ["Rogue"],
-        "logo": "banner.bmp",
-        "preview": "preview.bmp",
-        "preview2": "preview1.bmp",
-        "preview3": "preview2.bmp"
+        "class": ["Rogue"]
     }
 ]

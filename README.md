@@ -60,12 +60,30 @@ git clone https://github.com/PentSec/MaddonsManager.git
 ```
 
 1. Go to the [**`API/Addons/`**](https://github.com/PentSec/MaddonsManager/tree/main/API/Addons) folder and inside create new Folder with name of addon and version `/Example3.3.5/` , then put the addon.zip file image and post.md. 
-    - same instructions for ElvUI and WeakAuras profiles but in [API/ElvUI](https://github.com/PentSec/MaddonsManager/tree/main/API/ElvUI) and [API/WeakAuras](https://github.com/PentSec/MaddonsManager/tree/main/API/WeakAuras)
+    - same instructions for ElvUI and WeakAuras profiles but in [API/ElvUI](https://github.com/PentSec/MaddonsManager/tree/main/API/ElvUI) and [API/WeakAuras](https://github.com/PentSec/MaddonsManager/tree/main/API/WeakAuras) and need add extra file.txt with string of profile and without .zip of course.
 
 2. in post.md you can add Description, Guide, Screenshots, Videos, etc. all as you want and you can use [markdown](https://www.markdownguide.org/basic-syntax/) to format your text.
 
 3. Go to the [**`API/Maddons.json`**](https://github.com/PentSec/MaddonsManager/tree/main/API/Maddons.json), [**`API/ElvUI.json`**](https://github.com/PentSec/MaddonsManager/tree/main/API/ElvUI.json) [**`API/WeakAuras.json`**](https://github.com/PentSec/MaddonsManager/tree/main/API/WeakAuras.json) and add the information about your Addons, ElvUI or WeakAuras, following the structure:
     - same instructions for ElvUI and WeakAuras profiles but in [API/ElvUI](https://github.com/PentSec/MaddonsManager/tree/main/API/ElvUI) and [API/WeakAuras](https://github.com/PentSec/MaddonsManager/tree/main/API/WeakAuras)
+
+final estructure of Folders and files: 
+```bash
+├── API
+│   ├── Addons
+│   │   ├── Addon-name3.3.5
+│   │   │   ├── Addon-name3.3.5.zip
+│   │   │   ├── post.md
+│   │   │   └── Addon-name3.3.5.webp
+```
+```bash
+├── API
+│   ├── ElvUI or WeakAuras
+|   │   ├── ElvUI-name3.3.5
+│   │   │   ├── ElvUI-name3.3.5.txt
+│   │   │   ├── post.md
+│   │   │   └── ElvUI-name3.3.5.webp
+```
 
 > [!WARNING]
 >
@@ -78,6 +96,7 @@ git clone https://github.com/PentSec/MaddonsManager.git
 > - Only .webp images are supported.
 > - The size limit for webp is **50kb**.
 
+- **JSON Template**:
 ```json
     {
         "title": "Your Addon Title",
@@ -109,6 +128,8 @@ git clone https://github.com/PentSec/MaddonsManager.git
 > [!WARNING]
 >
 > - This are cases sensitive.
+> - You can obtain the avatar link from your github profile right click on your avatar and copy the link.
+> - You can see the Author addons in the .toc file inside folder addons
 
 - expansions:
     - Cataclysm
@@ -137,3 +158,19 @@ git clone https://github.com/PentSec/MaddonsManager.git
     - Shaman
     - Warlock
 
+## Developed and Maintained by
+
+created and maintened with 💖 by [PentSec](https://jeff.is-a.dev/)
+
+Help me with a tip
+
+<a href="https://www.paypal.me/Jeffreysfu/1">
+  <img src="https://svgl.app/library/paypal-wordmark.svg" alt="paypal" width="200" />
+</a>
+
+
+## Contributors
+
+<a href="https://github.com/PentSec/MaddonsManager/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=PentSec/MaddonsManager" />
+</a>
