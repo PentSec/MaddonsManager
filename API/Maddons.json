@@ -2662,5 +2662,29 @@
         "class": [
             "All"
         ]
+    },
+    {
+        "title": "xCT+s",
+        "file_name": "xCT+s",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "NoM0Re",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
     }
 ]
