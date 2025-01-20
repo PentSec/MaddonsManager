@@ -162,7 +162,7 @@ final estructure of Folders and files:
 
 created and maintened with 💖 by [PentSec](https://jeff.is-a.dev/)
 
-Help me with a tip
+Help me with a tip.
 
 <a href="https://www.paypal.me/Jeffreysfu/1">
   <img src="https://svgl.app/library/paypal-wordmark.svg" alt="paypal" width="200" />
