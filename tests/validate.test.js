@@ -23,11 +23,13 @@ describe('validate json and folder structure', () => {
         test(`Validar estructura de ${jsonFile}`, () => {
             const jsonPath = path.resolve(baseDir, jsonFile);
             if (!fs.existsSync(jsonPath)) {
-                console.warn(`${jsonFile} dont exist, skipping...`);
+                console.log(`${jsonFile} dont exist, skipping...`);
                 return;
             }
 
             const data = readJson(jsonPath);
+
+            const fileNamesSet = new Set();
 
             data.forEach((entry) => {
                 const { title, file_name, expansion, tags, roles, class: classes } = entry;
@@ -37,9 +39,14 @@ describe('validate json and folder structure', () => {
                 });
 
                 if (!isValidFileName(file_name)) {
-                    console.error(`The value of the "file_name" field that failed is: "${file_name}". It should contain only letters, numbers, hyphens (-) or underscores (_).`);
-                  }
-                  expect(isValidFileName(file_name)).toBe(true);
+                    console.log(`The value of the "file_name" field that failed is: "${file_name}". It should contain only letters, numbers, hyphens (-) or underscores (_).`);
+                }
+                expect(isValidFileName(file_name)).toBe(true);
+
+                if (fileNamesSet.has(file_name)) {
+                    throw new Error(` The file_name "${file_name}" is duplicated in the ${jsonFile} file.`);
+                }
+                fileNamesSet.add(file_name);
 
                 expansion.forEach((value) => expect(allowedValues.expansions).toContain(value));
                 tags.forEach((value) => expect(allowedValues.tags).toContain(value));
@@ -55,11 +62,18 @@ describe('validate json and folder structure', () => {
                     folderPath = path.join(baseDir, type, file_name);
                     expectedFiles = [`post.md`, `${file_name}.webp`, `${file_name}.txt`];
                 }
-
+                const folderExists = fs.existsSync(folderPath);
+                if (!folderExists) {
+                    console.log(`La carpeta no existe: ${folderPath}`);
+                }
                 expect(fs.existsSync(folderPath)).toBe(true);
 
                 expectedFiles.forEach((file) => {
                     const filePath = path.join(folderPath, file);
+                    const fileExists = fs.existsSync(filePath);
+                    if (!fileExists) {
+                        console.log(`El archivo no existe: ${filePath}`);
+                    }
                     expect(fs.existsSync(filePath)).toBe(true);
                 });
             });
