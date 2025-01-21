@@ -1,11 +1,9 @@
-# Addon Control Panel (ACP) for WoW 3.3.5
+# WRITE HERE YOUR ADDON TITLE DESCRIPTION
 
 ## Overview
-Addon Control Panel (ACP) is an addon for World of Warcraft (WoW) version 3.3.5 that enhances addon management within the game. It allows players to enable, disable, or configure addons without needing to log out or restart the game, offering unmatched convenience and flexibility for managing their addon setups.
+EAXMPLE: Addon Control Panel (ACP) is an addon for World of Warcraft (WoW) version 3.3.5 that enhances addon management within the game. It allows players to enable, disable, or configure addons without needing to log out or restart the game, offering unmatched convenience and flexibility for managing their addon setups.
 
 ---
-
-![Image](https://github.com/user-attachments/assets/000e73ea-6846-4ba9-98f5-cd302bcf1c53)
 
 ## Key Features
 
@@ -61,29 +59,19 @@ Addon Control Panel (ACP) is an addon for World of Warcraft (WoW) version 3.3.5 
 
 ---
 
-## Compatibility
-
-- **Game Version:** World of Warcraft 3.3.5 (Wrath of the Lich King).
-- **Dependencies:** None required; works independently.
-
----
-
 ## Common Issues and Troubleshooting
 
 1. **Addon Changes Not Applying**
-   - Ensure you click "Reload UI" after making changes.
-   - Verify that the addon folder is correctly installed.
+   - text
 
 2. **Outdated Addon Warnings**
-   - Check if the addon has been updated for WoW 3.3.5.
-   - Use compatible versions of addons to avoid conflicts.
+   - text
 
 3. **Performance Issues**
-   - Monitor memory usage for heavy addons.
-   - Disable unnecessary addons to improve performance.
+   - text
 
 ---
 
-## Conclusion
-Addon Control Panel is an essential tool for players who rely on multiple addons in WoW 3.3.5. Its ease of use, profile management, and debugging tools make it an invaluable addition to any player's setup. Download ACP today and take control of your addons like never before!
+## changelog
+
 
