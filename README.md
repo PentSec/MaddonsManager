@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://maddons.github.io/">
-<img width="20%" src="https://github.com/PentSec/MasterAddonManager/blob/main/IMAGES/logo.png?raw=true" alt="Maddons Manager" />
+<img width="20%" src="https://github.com/user-attachments/assets/a2f88c6e-98df-48e3-b03a-dc8093d19706" alt="Maddons Manager" />
 <h1 align="center">Maddons Manager</h1>
 </a>
 </p>
@@ -84,7 +84,7 @@ final estructure of Folders and files:
 ```bash
 ├── API
 │   ├── ElvUI or WeakAuras
-|   │   ├── ElvUI-name3.3.5
+│   │   ├── ElvUI-name3.3.5
 │   │   │   ├── ElvUI-name3.3.5.txt
 │   │   │   ├── post.md
 │   │   │   └── ElvUI-name3.3.5.webp

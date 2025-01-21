@@ -8,6 +8,7 @@ pnpm-debug.log*
 lerna-debug.log*
 MaddonsManager.github.io.code-workspace
 .react-router/
+CHANGELOGS
 
 .env
 .env.production
