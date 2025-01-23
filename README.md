@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://maddons.github.io/">
+<a href="https://maddonsmanager.github.io/">
 <img width="20%" src="https://github.com/user-attachments/assets/a2f88c6e-98df-48e3-b03a-dc8093d19706" alt="Maddons Manager" />
 <h1 align="center">Maddons Manager</h1>
 </a>
@@ -163,9 +163,7 @@ final estructure of Folders and files:
     - Shaman
     - Warlock
 
-## Developed and Maintained by
-
-created and maintened with 💖 by [PentSec](https://jeff.is-a.dev/)
+## created and maintened with 💖 by [PentSec](https://jeff.is-a.dev/)
 
 Help me with a tip.
 
