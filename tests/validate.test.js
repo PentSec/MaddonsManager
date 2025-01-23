@@ -34,6 +34,10 @@ describe('validate json and folder structure', () => {
             data.forEach((entry) => {
                 const { title, file_name, expansion, tags, roles, class: classes } = entry;
 
+                if (!file_name) {
+                    throw new Error(`the field file_name is required: ${JSON.stringify(entry)}`);
+                }
+
                 Object.keys(entry).forEach((key) => {
                     expect(key).toBe(key.toLowerCase());
                 });

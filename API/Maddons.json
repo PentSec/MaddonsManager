@@ -48,7 +48,7 @@
         ]
     },
     {
-        "title": "ACP",
+        "title": "Addons Control Panel ACP",
         "file_name": "ACP",
         "description": "Description here.",
         "author": "Author Name",
@@ -888,7 +888,7 @@
         ]
     },
     {
-        "title": "DBM",
+        "title": "Deadly boss mods dbm",
         "file_name": "DBM",
         "description": "Description here.",
         "author": "Author Name",
@@ -1896,7 +1896,7 @@
         ]
     },
     {
-        "title": "Profession_Capper",
+        "title": "Profession Capper",
         "file_name": "Profession_Capper",
         "description": "Description here.",
         "author": "Author Name",
@@ -2646,6 +2646,1566 @@
         "author": "Author Name",
         "pr_author": "NoM0Re",
         "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "align",
+        "file_name": "align",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "aloft",
+        "file_name": "aloft",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "ArenaGCD",
+        "file_name": "ArenaGCD",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "arkinventory",
+        "file_name": "arkinventory",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "attackbartimer",
+        "file_name": "attackbartimer",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "auctioneersuite",
+        "file_name": "auctioneersuite",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "BigAuras",
+        "file_name": "BigAuras",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Bistooltip",
+        "file_name": "Bistooltip",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "bonusscannercontinued",
+        "file_name": "bonusscannercontinued",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "buttonfacade",
+        "file_name": "buttonfacade",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "chromiecraft",
+        "file_name": "chromiecraft",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "cromulent",
+        "file_name": "cromulent",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Cursor",
+        "file_name": "Cursor",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "displaydungeon",
+        "file_name": "displaydungeon",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "doomcooldownpulse",
+        "file_name": "doomcooldownpulse",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "dragonhide",
+        "file_name": "dragonhide",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "EasyFrames",
+        "file_name": "EasyFrames",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "equipcompare",
+        "file_name": "equipcompare",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "examiner",
+        "file_name": "examiner",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "gathermate-2",
+        "file_name": "gathermate-2",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "gtfo",
+        "file_name": "gtfo",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "handynotes",
+        "file_name": "handynotes",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "healershavetodie",
+        "file_name": "healershavetodie",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "icehud",
+        "file_name": "icehud",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "KiwiFarm",
+        "file_name": "KiwiFarm",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "kuinameplates",
+        "file_name": "kuinameplates",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Leatrix",
+        "file_name": "Leatrix",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "lortiui",
+        "file_name": "lortiui",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "minimalui",
+        "file_name": "minimalui",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "minimapbuttonframe",
+        "file_name": "minimapbuttonframe",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "moveanything",
+        "file_name": "moveanything",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "necrosis",
+        "file_name": "necrosis",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "nicedamage",
+        "file_name": "nicedamage",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "NotPlater",
+        "file_name": "NotPlater",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "npcscan",
+        "file_name": "npcscan",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "npcscanoverlay",
+        "file_name": "npcscanoverlay",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "oglow",
+        "file_name": "oglow",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "omen3",
+        "file_name": "omen3",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "omnicc",
+        "file_name": "omnicc",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "onebag3",
+        "file_name": "onebag3",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Ovale",
+        "file_name": "Ovale",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "pawn",
+        "file_name": "pawn",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "platebuff",
+        "file_name": "platebuff",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "prat",
+        "file_name": "prat",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "QuestCompletis",
+        "file_name": "QuestCompletis",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Questie",
+        "file_name": "Questie",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "quickmark",
+        "file_name": "quickmark",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "rangedisplay",
+        "file_name": "rangedisplay",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "rarespawnoverlay",
+        "file_name": "rarespawnoverlay",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "recount",
+        "file_name": "recount",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "RetailUI",
+        "file_name": "RetailUI",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "santaui",
+        "file_name": "santaui",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "scrap",
+        "file_name": "scrap",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "silverdragon",
+        "file_name": "silverdragon",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "superdupermacro",
+        "file_name": "superdupermacro",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Drop the Cheapes thing",
+        "file_name": "dropthecheapestthing",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "titan-panel",
+        "file_name": "titan-panel",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "tomtom",
+        "file_name": "tomtom",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "trinketscds",
+        "file_name": "trinketscds",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "whatstraining-wotlk-v3.0.2",
+        "file_name": "whatstraining-wotlk-v3.0.2",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "wowinstantmessenger",
+        "file_name": "wowinstantmessenger",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "x-perlunitframes",
+        "file_name": "x-perlunitframes",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "xperl",
+        "file_name": "xperl",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "zoom",
+        "file_name": "zoom",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "zygor",
+        "file_name": "zygor",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
         "expansion": [
             "Lichking"
         ],
