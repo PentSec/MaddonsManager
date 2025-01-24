@@ -17507,5 +17507,2014 @@
         "class": [
             "All"
         ]
+    },
+    {
+        "title": "Addon Control Panel",
+        "file_name": "Addon Control Panel",
+        "description": "Description here.",
+        "author": "lucifercatnip",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Development Tools",
+            "Libraries"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Bagnon",
+        "file_name": "Bagnon",
+        "description": "Description here.",
+        "author": "jaliborc",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Bags & Inventory"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "AtlasLoot Enhanced",
+        "file_name": "AtlasLoot Enhanced",
+        "description": "Description here.",
+        "author": "Hegarol",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "Map & Minimap"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "WeakAuras",
+        "file_name": "WeakAuras",
+        "description": "Description here.",
+        "author": "Stanzilla",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "Buffs & Debuffs",
+            "Class",
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "GearScore Lite",
+        "file_name": "GearScore Lite",
+        "description": "Description here.",
+        "author": "Mirrikat45",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Tooltip"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Prat",
+        "file_name": "Prat",
+        "description": "Description here.",
+        "author": "Sylvanaar",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Chat & Communication"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "OmniCC",
+        "file_name": "OmniCC",
+        "description": "Description here.",
+        "author": "Tuller",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Action Bars",
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Questie",
+        "file_name": "Questie",
+        "description": "Description here.",
+        "author": "TheCrux_BB",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Map & Minimap",
+            "Quests & Leveling"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Auctionator",
+        "file_name": "Auctionator",
+        "description": "Description here.",
+        "author": "Zirco",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Auction & Economy"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Deadly Boss Mods",
+        "file_name": "Deadly Boss Mods",
+        "description": "Description here.",
+        "author": "MysticalOS",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "Combat",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Cartographer",
+        "file_name": "Cartographer",
+        "description": "Description here.",
+        "author": "ckknight",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Map & Minimap"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Pawn",
+        "file_name": "Pawn",
+        "description": "Description here.",
+        "author": "VgerAN",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Bags & Inventory",
+            "Quests & Leveling",
+            "Tooltip"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "NiceDamage",
+        "file_name": "NiceDamage",
+        "description": "Description here.",
+        "author": "Montyburns",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Artwork",
+            "Combat",
+            "Miscellaneous",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Postal",
+        "file_name": "Postal",
+        "description": "Description here.",
+        "author": "Xinhuan",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Mail"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Zygor Guides",
+        "file_name": "Zygor Guides",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Quests & Leveling",
+            "Tooltip"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "QuestHelper",
+        "file_name": "QuestHelper",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Map & Minimap",
+            "Quests & Leveling"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "NotPlater",
+        "file_name": "NotPlater",
+        "description": "Description here.",
+        "author": "RichSteini",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Aloft",
+        "file_name": "Aloft",
+        "description": "Description here.",
+        "author": "acapela",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "VendorValues",
+        "file_name": "VendorValues",
+        "description": "Description here.",
+        "author": "Saeris",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Auction & Economy",
+            "Bags & Inventory",
+            "Tooltip"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "DPSMate",
+        "file_name": "DPSMate",
+        "description": "Description here.",
+        "author": "Shino",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "ShadowedUnitFrames",
+        "file_name": "ShadowedUnitFrames",
+        "description": "Description here.",
+        "author": "Shadowed",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "WoWInstantMessenger",
+        "file_name": "WoWInstantMessenger",
+        "description": "Description here.",
+        "author": "lucifercatnip",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Chat & Communication"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Ackis Recipe List",
+        "file_name": "Ackis Recipe List",
+        "description": "Description here.",
+        "author": "Torhal",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Data Export",
+            "Professions"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Bartender 4",
+        "file_name": "Bartender 4",
+        "description": "Description here.",
+        "author": "Nevcairiel",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Action Bars"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "AutoQuest",
+        "file_name": "AutoQuest",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Quests & Leveling"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "XLoot",
+        "file_name": "XLoot",
+        "description": "Description here.",
+        "author": "kalimash",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Bags & Inventory"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "InterruptBar",
+        "file_name": "InterruptBar",
+        "description": "Description here.",
+        "author": "nydas3k",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Gatherer",
+        "file_name": "Gatherer",
+        "description": "Description here.",
+        "author": "Esamynn",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Map & Minimap",
+            "Professions"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Quartz",
+        "file_name": "Quartz",
+        "description": "Description here.",
+        "author": "Nymbia",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Buffs & Debuffs",
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "ClearFont2",
+        "file_name": "ClearFont2",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Artwork"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Decursive",
+        "file_name": "Decursive",
+        "description": "Description here.",
+        "author": "archarodim",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "Buffs & Debuffs",
+            "Combat",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "TitanPanel",
+        "file_name": "TitanPanel",
+        "description": "Description here.",
+        "author": "HonorGoG",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Libraries",
+            "Tooltip"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "MoveAnything",
+        "file_name": "MoveAnything",
+        "description": "Description here.",
+        "author": "VincentSDSH",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Miscellaneous",
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Swatter",
+        "file_name": "Swatter",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Libraries",
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Gladius",
+        "file_name": "Gladius",
+        "description": "Description here.",
+        "author": "Proditor",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "PvP",
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "HealBot",
+        "file_name": "HealBot",
+        "description": "Description here.",
+        "author": "StrifeCUK",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Combat",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "SaySapped",
+        "file_name": "SaySapped",
+        "description": "Description here.",
+        "author": "bitbyte",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Icicle",
+        "file_name": "Icicle",
+        "description": "Description here.",
+        "author": "xthothx",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "eCastingBar",
+        "file_name": "eCastingBar",
+        "description": "Description here.",
+        "author": "NeuroMedivh",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Combat",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Align",
+        "file_name": "Align",
+        "description": "Description here.",
+        "author": "Akeru",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Artwork",
+            "Development Tools"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "MiksScrollingBattleText",
+        "file_name": "MiksScrollingBattleText",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Combat",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "AuctionMaster",
+        "file_name": "AuctionMaster",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Auction & Economy"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Bongos",
+        "file_name": "Bongos",
+        "description": "Description here.",
+        "author": "Tuller",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Action Bars"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "X-PerlUnitFrames",
+        "file_name": "X-PerlUnitFrames",
+        "description": "Description here.",
+        "author": "MysticalOS",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Outfitter",
+        "file_name": "Outfitter",
+        "description": "Description here.",
+        "author": "mundocani",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Bags & Inventory"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Fishing Buddy",
+        "file_name": "Fishing Buddy",
+        "description": "Description here.",
+        "author": "Sutorix",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Professions"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Omen3",
+        "file_name": "Omen3",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "PallyPower",
+        "file_name": "PallyPower",
+        "description": "Description here.",
+        "author": "Aznamir",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "HuntersHelperFeedOMatic",
+        "file_name": "HuntersHelperFeedOMatic",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Capping",
+        "file_name": "Capping",
+        "description": "Description here.",
+        "author": "funkydude",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Chinchilla Minimap",
+        "file_name": "Chinchilla Minimap",
+        "description": "Description here.",
+        "author": "ckknight",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Map & Minimap"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "ArenaLive",
+        "file_name": "ArenaLive",
+        "description": "Description here.",
+        "author": "Schaka",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "PvP",
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Scrolling Combat Text",
+        "file_name": "Scrolling Combat Text",
+        "description": "Description here.",
+        "author": "Grayhoof",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Totem Timers",
+        "file_name": "Totem Timers",
+        "description": "Description here.",
+        "author": "Zulah",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Altoholic",
+        "file_name": "Altoholic",
+        "description": "Description here.",
+        "author": "Thaoky",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Bags & Inventory",
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Equip Compare",
+        "file_name": "Equip Compare",
+        "description": "Description here.",
+        "author": "Legorol",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Tooltip"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "SpellReplay",
+        "file_name": "SpellReplay",
+        "description": "Description here.",
+        "author": "Oldsalt0",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Chatter",
+        "file_name": "Chatter",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Chat & Communication"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "DrDamage",
+        "file_name": "DrDamage",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Aesa",
+        "file_name": "Aesa",
+        "description": "Description here.",
+        "author": "Ananhaid",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Combat",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "SexyMap",
+        "file_name": "SexyMap",
+        "description": "Description here.",
+        "author": "funkydude",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Map & Minimap"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Totemus",
+        "file_name": "Totemus",
+        "description": "Description here.",
+        "author": "Poolpy",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Arena Countdown",
+        "file_name": "Arena Countdown",
+        "description": "Description here.",
+        "author": "sammys",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Artwork",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "AlarArtRemover",
+        "file_name": "AlarArtRemover",
+        "description": "Description here.",
+        "author": "alar",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Artwork",
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "AddonMan",
+        "file_name": "AddonMan",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Development Tools",
+            "Libraries"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "AutoSave",
+        "file_name": "AutoSave",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Advanced Trade Skill Window",
+        "file_name": "Advanced Trade Skill Window",
+        "description": "Description here.",
+        "author": "Slarti",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Professions",
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Speedy Actions",
+        "file_name": "Speedy Actions",
+        "description": "Description here.",
+        "author": "Shadowed",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "ArcHud2",
+        "file_name": "ArcHud2",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "RatingBuster",
+        "file_name": "RatingBuster",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Tooltip"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "AuctioneerSuite",
+        "file_name": "AuctioneerSuite",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Auction & Economy"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "oGlow",
+        "file_name": "oGlow",
+        "description": "Description here.",
+        "author": "haste",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Artwork",
+            "Bags & Inventory"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Clique",
+        "file_name": "Clique",
+        "description": "Description here.",
+        "author": "Cladhaire",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Action Bars",
+            "PvP",
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "MobInfo2",
+        "file_name": "MobInfo2",
+        "description": "Description here.",
+        "author": "ileclerk",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Tooltip"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Buffalo",
+        "file_name": "Buffalo",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Buffs & Debuffs"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "FuBar",
+        "file_name": "FuBar",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Action Bars"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Arcanum",
+        "file_name": "Arcanum",
+        "description": "Description here.",
+        "author": "Erina29",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "SellFish",
+        "file_name": "SellFish",
+        "description": "Description here.",
+        "author": "Tuller",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Bags & Inventory",
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "AggroNotifier",
+        "file_name": "AggroNotifier",
+        "description": "Description here.",
+        "author": "squelchywelchy",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Arena Calculator",
+        "file_name": "Arena Calculator",
+        "description": "Description here.",
+        "author": "Toppe",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "ZooKeeper",
+        "file_name": "ZooKeeper",
+        "description": "Description here.",
+        "author": "CheshireKatt",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Chat & Communication"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Action Bar Saver",
+        "file_name": "Action Bar Saver",
+        "description": "Description here.",
+        "author": "Shadowed",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Action Bars"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "PitBull Unit Frames",
+        "file_name": "PitBull Unit Frames",
+        "description": "Description here.",
+        "author": "Shefki",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "AlphaMap",
+        "file_name": "AlphaMap",
+        "description": "Description here.",
+        "author": "Telic",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Map & Minimap"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Skinner",
+        "file_name": "Skinner",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Artwork",
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Afflicted",
+        "file_name": "Afflicted",
+        "description": "Description here.",
+        "author": "Shadowed",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Buffs & Debuffs",
+            "Combat",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Grid",
+        "file_name": "Grid",
+        "description": "Description here.",
+        "author": "Phanx",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Range Display",
+        "file_name": "Range Display",
+        "description": "Description here.",
+        "author": "mitch0",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Carbonite",
+        "file_name": "Carbonite",
+        "description": "Description here.",
+        "author": "Rythal",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "TBC"
+        ],
+        "tags": [
+            "Chat & Communication",
+            "Map & Minimap",
+            "PvP",
+            "Quests & Leveling"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
     }
 ]
