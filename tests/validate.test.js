@@ -2,7 +2,7 @@ const fs = require('fs-extra');
 const path = require('path');
 
 const allowedValues = {
-    expansions: ['Cataclysm', 'Lichking', 'Pandarian'],
+    expansions: ['Cataclysm', 'Lichking', 'Pandarian', 'Vanilla', 'TBC'],
     tags: [
         'General',
         'PvE', 
@@ -52,19 +52,19 @@ describe('validate json and folder structure', () => {
         test(`validate ${jsonFile}`, () => {
             const jsonPath = path.resolve(baseDir, jsonFile);
             if (!fs.existsSync(jsonPath)) {
-                console.log(`${jsonFile} dont exist, skipping...`);
+                console.log(`${jsonFile} does not exist, skipping...`);
                 return;
             }
 
             const data = readJson(jsonPath);
 
-            const fileNamesSet = new Set();
+            const fileNamesByExpansion = {};
 
             data.forEach((entry) => {
                 const { title, file_name, expansion, tags, roles, class: classes } = entry;
 
                 if (!file_name) {
-                    throw new Error(`the field file_name is required: ${JSON.stringify(entry)}`);
+                    throw new Error(`The field file_name is required: ${JSON.stringify(entry)}`);
                 }
 
                 Object.keys(entry).forEach((key) => {
@@ -72,32 +72,49 @@ describe('validate json and folder structure', () => {
                 });
 
                 if (!isValidFileName(file_name)) {
-                    console.log(`The value of the "file_name" field that failed is: "${file_name}". It should contain only letters, numbers, hyphens (-) or underscores (_).`);
+                    console.log(`Invalid "file_name" value: "${file_name}". Allowed characters are letters, numbers, hyphens (-), underscores (_), and spaces.`);
                 }
                 expect(isValidFileName(file_name)).toBe(true);
 
-                if (fileNamesSet.has(file_name)) {
-                    throw new Error(` The file_name "${file_name}" is duplicated in the ${jsonFile} file.`);
+                if (!Array.isArray(expansion)) {
+                    if (!allowedValues.expansions.includes(expansion)) {
+                        throw new Error(`Invalid expansion "${expansion}" in ${JSON.stringify(entry)}`);
+                    }
+                } else {
+                    expansion.forEach((value) => {
+                        expect(allowedValues.expansions).toContain(value);
+                    });
                 }
-                fileNamesSet.add(file_name);
 
-                expansion.forEach((value) => expect(allowedValues.expansions).toContain(value));
+                if (!fileNamesByExpansion[expansion]) {
+                    fileNamesByExpansion[expansion] = new Set();
+                }
+                if (fileNamesByExpansion[expansion].has(file_name)) {
+                    throw new Error(`The file_name "${file_name}" is duplicated in the expansion "${expansion}" in the ${jsonFile} file.`);
+                }
+                fileNamesByExpansion[expansion].add(file_name);
+
                 tags.forEach((value) => expect(allowedValues.tags).toContain(value));
                 roles.forEach((value) => expect(allowedValues.roles).toContain(value));
                 classes.forEach((value) => expect(allowedValues.classes).toContain(value));
 
-                let folderPath, expectedFiles;
+                // Define folder path based on the JSON file being validated
+                let folderPath;
+                let expectedFiles;
                 if (jsonFile === 'Maddons.json') {
-                    folderPath = path.join(baseDir, 'Addons', file_name);
+                    folderPath = path.join(baseDir, 'Addons', Array.isArray(expansion) ? expansion[0] : expansion, file_name);
                     expectedFiles = [`post.md`, `${file_name}.webp`, `${file_name}.zip`];
-                } else {
-                    const type = jsonFile.replace('.json', '');
-                    folderPath = path.join(baseDir, type, file_name);
+                } else if (jsonFile === 'ElvUI.json') {
+                    folderPath = path.join(baseDir, 'ElvUI', Array.isArray(expansion) ? expansion[0] : expansion, file_name);
+                    expectedFiles = [`post.md`, `${file_name}.webp`, `${file_name}.txt`];
+                } else if (jsonFile === 'WeakAuras.json') {
+                    folderPath = path.join(baseDir, 'WeakAuras', Array.isArray(expansion) ? expansion[0] : expansion, file_name);
                     expectedFiles = [`post.md`, `${file_name}.webp`, `${file_name}.txt`];
                 }
+
                 const folderExists = fs.existsSync(folderPath);
                 if (!folderExists) {
-                    console.log(`La carpeta no existe: ${folderPath}`);
+                    console.log(`Folder does not exist: ${folderPath}`);
                 }
                 expect(fs.existsSync(folderPath)).toBe(true);
 
@@ -105,7 +122,7 @@ describe('validate json and folder structure', () => {
                     const filePath = path.join(folderPath, file);
                     const fileExists = fs.existsSync(filePath);
                     if (!fileExists) {
-                        console.log(`El archivo no existe: ${filePath}`);
+                        console.log(`File does not exist: ${filePath}`);
                     }
                     expect(fs.existsSync(filePath)).toBe(true);
                 });

@@ -18,7 +18,7 @@
         "author": "napnap",
         "pr_author": "Sitoz",
         "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
-        "expansion": ["Cataclysm"],
+        "expansion": ["Lichking"],
         "tags": ["General", "PvE", "PvP"],
         "roles": ["DPS", "TANK"],
         "class": ["Druid"]
@@ -28,7 +28,7 @@
         "file_name": "ChromieCraft3.3.5",
         "description": "This collection helps to keep track on all relevant information (energy, combo points, poisons, cooldowns, buffs, …) for rogues. All specializations are supported.",
         "author": "ishidinho",
-        "expansion": ["Pandarian", "Lichking"],
+        "expansion": ["Lichking"],
         "tags": ["General", "PvE", "PvP"],
         "roles": ["DPS", "TANK", "HEALER"],
         "class": ["Rogue"]

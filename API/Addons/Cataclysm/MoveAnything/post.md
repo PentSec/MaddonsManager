@@ -1,0 +1,3 @@
+# MoveAnything
+
+MoveAnything enables you to move, scale, hide and adjust the transparency of just about any screen element in WoW, offering tools to help you customize your UI. Some other frame modifications are also possible using MA’s Frame Editors (Introduced in 11.b2), including frame strata, frame grouping and more.Type/moveto show the main window or click the button below the game menu. This main window contains a list of Blizzard’s frames (any element not in the list can be added to the Custom Frames category by either /move frameName, /mafe frameName, /hide frameName or one of the move/mafe/hide keybindings).

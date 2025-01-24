@@ -11151,5 +11151,2622 @@
         "class": [
             "All"
         ]
+    },
+    {
+        "title": "WeakAuras",
+        "file_name": "WeakAuras",
+        "description": "Description here.",
+        "author": "Stanzilla",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "Buffs & Debuffs",
+            "Class",
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Deadly Boss Mods",
+        "file_name": "Deadly Boss Mods",
+        "description": "Description here.",
+        "author": "MysticalOS",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "Combat",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Tidy Plates",
+        "file_name": "Tidy Plates",
+        "description": "Description here.",
+        "author": "danltiger",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "FarmHud",
+        "file_name": "FarmHud",
+        "description": "Description here.",
+        "author": "CodeRedLin",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Map & Minimap",
+            "Professions"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Auctionator",
+        "file_name": "Auctionator",
+        "description": "Description here.",
+        "author": "Zirco",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Auction & Economy"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "SpellFlash",
+        "file_name": "SpellFlash",
+        "description": "Description here.",
+        "author": "BigRedBrent",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Action Bars",
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "AtlasLoot Enhanced",
+        "file_name": "AtlasLoot Enhanced",
+        "description": "Description here.",
+        "author": "Lag123",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "Map & Minimap",
+            "Professions",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Recount",
+        "file_name": "Recount",
+        "description": "Description here.",
+        "author": "Resike",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Postal",
+        "file_name": "Postal",
+        "description": "Description here.",
+        "author": "Xinhuan",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Mail"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Bagnon",
+        "file_name": "Bagnon",
+        "description": "Description here.",
+        "author": "jaliborc",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Bags & Inventory"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Addon Control Panel",
+        "file_name": "Addon Control Panel",
+        "description": "Description here.",
+        "author": "lucifercatnip",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Development Tools",
+            "Libraries"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Quest-o-matic",
+        "file_name": "Quest-o-matic",
+        "description": "Description here.",
+        "author": "Miratu",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Quests & Leveling"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "OmniCC",
+        "file_name": "OmniCC",
+        "description": "Description here.",
+        "author": "Tuller",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Action Bars",
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Bartender 4",
+        "file_name": "Bartender 4",
+        "description": "Description here.",
+        "author": "Nevcairiel",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Action Bars"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Gatherer",
+        "file_name": "Gatherer",
+        "description": "Description here.",
+        "author": "Esamynn",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Professions"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Skada Revisited",
+        "file_name": "Skada Revisited",
+        "description": "Description here.",
+        "author": "bkader",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Boss Encounters"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "OverAchiever",
+        "file_name": "OverAchiever",
+        "description": "Description here.",
+        "author": "Tuhljin",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Achievements"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "QuestHelper",
+        "file_name": "QuestHelper",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Map & Minimap",
+            "Quests & Leveling"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Quartz",
+        "file_name": "Quartz",
+        "description": "Description here.",
+        "author": "Nymbia",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Buffs & Debuffs",
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "NPCScan",
+        "file_name": "NPCScan",
+        "description": "Description here.",
+        "author": "Torhal",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Achievements",
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "TellMeWhen",
+        "file_name": "TellMeWhen",
+        "description": "Description here.",
+        "author": "orbenn",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Buffs & Debuffs",
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "AutoRepair",
+        "file_name": "AutoRepair",
+        "description": "Description here.",
+        "author": "markyxl",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Bags & Inventory"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "ArkInventory",
+        "file_name": "ArkInventory",
+        "description": "Description here.",
+        "author": "arkayenro",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Bags & Inventory"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Mapster",
+        "file_name": "Mapster",
+        "description": "Description here.",
+        "author": "nevcairiel",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Map & Minimap"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "AuctioneerSuite",
+        "file_name": "AuctioneerSuite",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Auction & Economy"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Scrap",
+        "file_name": "Scrap",
+        "description": "Description here.",
+        "author": "jaliborc",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Bags & Inventory"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "SilverDragon",
+        "file_name": "SilverDragon",
+        "description": "Description here.",
+        "author": "Kemayo",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Map & Minimap",
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Altoholic",
+        "file_name": "Altoholic",
+        "description": "Description here.",
+        "author": "Thaoky",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Bags & Inventory",
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "CrapAway",
+        "file_name": "CrapAway",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Bags & Inventory"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Sell-o-matic",
+        "file_name": "Sell-o-matic",
+        "description": "Description here.",
+        "author": "Silmano",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Bags & Inventory",
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "MonkeyQuest",
+        "file_name": "MonkeyQuest",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Quests & Leveling"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Outfitter",
+        "file_name": "Outfitter",
+        "description": "Description here.",
+        "author": "mundocani",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Bags & Inventory"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "PitBull Unit Frames",
+        "file_name": "PitBull Unit Frames",
+        "description": "Description here.",
+        "author": "Shefki",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "SmartBuff",
+        "file_name": "SmartBuff",
+        "description": "Description here.",
+        "author": "Aeldra",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Buffs & Debuffs"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Grid2",
+        "file_name": "Grid2",
+        "description": "Description here.",
+        "author": "bkader",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "MoveAnything",
+        "file_name": "MoveAnything",
+        "description": "Description here.",
+        "author": "VincentSDSH",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Miscellaneous",
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "MiksScrollingBattleText",
+        "file_name": "MiksScrollingBattleText",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Combat",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "GTFO",
+        "file_name": "GTFO",
+        "description": "Description here.",
+        "author": "Zensunim",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Skada",
+        "file_name": "Skada",
+        "description": "Description here.",
+        "author": "zarnivoop",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Gladius",
+        "file_name": "Gladius",
+        "description": "Description here.",
+        "author": "Proditor",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "PvP",
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Quest Completist",
+        "file_name": "Quest Completist",
+        "description": "Description here.",
+        "author": "AlistairJM",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Quests & Leveling"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "HandyNotes",
+        "file_name": "HandyNotes",
+        "description": "Description here.",
+        "author": "Xinhuan",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Map & Minimap"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Dominos",
+        "file_name": "Dominos",
+        "description": "Description here.",
+        "author": "Tuller",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Action Bars"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "InterruptBar",
+        "file_name": "InterruptBar",
+        "description": "Description here.",
+        "author": "nydas3k",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Decursive",
+        "file_name": "Decursive",
+        "description": "Description here.",
+        "author": "archarodim",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "Buffs & Debuffs",
+            "Combat",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "WoWInstantMessenger",
+        "file_name": "WoWInstantMessenger",
+        "description": "Description here.",
+        "author": "lucifercatnip",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Chat & Communication"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "OneBag3",
+        "file_name": "OneBag3",
+        "description": "Description here.",
+        "author": "Kaelten",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Bags & Inventory"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "TitanPanel",
+        "file_name": "TitanPanel",
+        "description": "Description here.",
+        "author": "HonorGoG",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Libraries",
+            "Tooltip"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "DrDamage",
+        "file_name": "DrDamage",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Class",
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Ackis Recipe List",
+        "file_name": "Ackis Recipe List",
+        "description": "Description here.",
+        "author": "Torhal",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Data Export",
+            "Professions"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Routes",
+        "file_name": "Routes",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Map & Minimap",
+            "Professions"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "EasyLoot",
+        "file_name": "EasyLoot",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Bags & Inventory"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Spell Alerter",
+        "file_name": "Spell Alerter",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Combat",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Examiner",
+        "file_name": "Examiner",
+        "description": "Description here.",
+        "author": "Aezay",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Elementarist",
+        "file_name": "Elementarist",
+        "description": "Description here.",
+        "author": "Taracque",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "GoGoMount",
+        "file_name": "GoGoMount",
+        "description": "Description here.",
+        "author": "tiker",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Action Bars"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Simple iLevel",
+        "file_name": "Simple iLevel",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "AutoBar",
+        "file_name": "AutoBar",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Action Bars"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Archy",
+        "file_name": "Archy",
+        "description": "Description here.",
+        "author": "Torhal",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Professions"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Magic Runes",
+        "file_name": "Magic Runes",
+        "description": "Description here.",
+        "author": "neotron",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Fizzle",
+        "file_name": "Fizzle",
+        "description": "Description here.",
+        "author": "polyhydride",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Bags & Inventory"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "pNameplates",
+        "file_name": "pNameplates",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "DiminishingReturns",
+        "file_name": "DiminishingReturns",
+        "description": "Description here.",
+        "author": "Adirelle",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Buffs & Debuffs",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Zygor Guides",
+        "file_name": "Zygor Guides",
+        "description": "Description here.",
+        "author": "ErebusAres",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Quests & Leveling",
+            "Tooltip"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "IceHUD",
+        "file_name": "IceHUD",
+        "description": "Description here.",
+        "author": "Parnic",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "ShadowedUnitFrames",
+        "file_name": "ShadowedUnitFrames",
+        "description": "Description here.",
+        "author": "Shadowed",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Skinner",
+        "file_name": "Skinner",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Artwork",
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "TomTom",
+        "file_name": "TomTom",
+        "description": "Description here.",
+        "author": "jnwhiteh",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Map & Minimap"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "TradeskillInfo",
+        "file_name": "TradeskillInfo",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Action Bars",
+            "Professions"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "TriviaBot",
+        "file_name": "TriviaBot",
+        "description": "Description here.",
+        "author": "marspett",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Chat & Communication",
+            "Guild",
+            "Minigames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Volumizer",
+        "file_name": "Volumizer",
+        "description": "Description here.",
+        "author": "Torhal",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Audio & Video"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "PallyPower",
+        "file_name": "PallyPower",
+        "description": "Description here.",
+        "author": "Aznamir",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "HealBot",
+        "file_name": "HealBot",
+        "description": "Description here.",
+        "author": "StrifeCUK",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Combat",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Carbonite",
+        "file_name": "Carbonite",
+        "description": "Description here.",
+        "author": "Rythal",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Chat & Communication",
+            "Map & Minimap",
+            "PvP",
+            "Quests & Leveling"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "LoseControl",
+        "file_name": "LoseControl",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Buffs & Debuffs",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "SexyMap",
+        "file_name": "SexyMap",
+        "description": "Description here.",
+        "author": "funkydude",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Map & Minimap"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "VuhDo",
+        "file_name": "VuhDo",
+        "description": "Description here.",
+        "author": "Iza",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Omen3",
+        "file_name": "Omen3",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Doom CooldownPulse",
+        "file_name": "Doom CooldownPulse",
+        "description": "Description here.",
+        "author": "Freki",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Class",
+            "Combat",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "X-PerlUnitFrames",
+        "file_name": "X-PerlUnitFrames",
+        "description": "Description here.",
+        "author": "MysticalOS",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Spy",
+        "file_name": "Spy",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "XLoot",
+        "file_name": "XLoot",
+        "description": "Description here.",
+        "author": "kalimash",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Bags & Inventory"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "NugComboBar",
+        "file_name": "NugComboBar",
+        "description": "Description here.",
+        "author": "d87",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Grid",
+        "file_name": "Grid",
+        "description": "Description here.",
+        "author": "Phanx",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "MogIt",
+        "file_name": "MogIt",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Libraries",
+            "Roleplay"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Fishing Buddy",
+        "file_name": "Fishing Buddy",
+        "description": "Description here.",
+        "author": "Sutorix",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Professions"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "TipTac",
+        "file_name": "TipTac",
+        "description": "Description here.",
+        "author": "Aezay",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Tooltip"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "SimpleUnitFrames",
+        "file_name": "SimpleUnitFrames",
+        "description": "Description here.",
+        "author": "rophy",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "BlizzMove",
+        "file_name": "BlizzMove",
+        "description": "Description here.",
+        "author": "yess",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "EventAlert",
+        "file_name": "EventAlert",
+        "description": "Description here.",
+        "author": "CurtisTheGreat",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Buffs & Debuffs",
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "RCLootCouncil",
+        "file_name": "RCLootCouncil",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "Chat & Communication"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "MobInfo2",
+        "file_name": "MobInfo2",
+        "description": "Description here.",
+        "author": "ileclerk",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Tooltip"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Range Display",
+        "file_name": "Range Display",
+        "description": "Description here.",
+        "author": "mitch0",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "RatingBuster",
+        "file_name": "RatingBuster",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Tooltip"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "OPie",
+        "file_name": "OPie",
+        "description": "Description here.",
+        "author": "Foxlit",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Action Bars"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Cursor",
+        "file_name": "Cursor",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Artwork"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Healers Have To Die",
+        "file_name": "Healers Have To Die",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Combat",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "oRA3",
+        "file_name": "oRA3",
+        "description": "Description here.",
+        "author": "funkydude",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "Buffs & Debuffs",
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Mage Nuggets",
+        "file_name": "Mage Nuggets",
+        "description": "Description here.",
+        "author": "b-buck",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "GladiatorlosSA",
+        "file_name": "GladiatorlosSA",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Audio & Video",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Killshot",
+        "file_name": "Killshot",
+        "description": "Description here.",
+        "author": "zwarmapapa",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Chat & Communication",
+            "Combat",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Parrot",
+        "file_name": "Parrot",
+        "description": "Description here.",
+        "author": "ckknight",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Combat",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "DebuffFilter",
+        "file_name": "DebuffFilter",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Buffs & Debuffs"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "RaidAchievement",
+        "file_name": "RaidAchievement",
+        "description": "Description here.",
+        "author": "shurshik",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Achievements",
+            "Boss Encounters",
+            "Guild"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "ForteXorcist",
+        "file_name": "ForteXorcist",
+        "description": "Description here.",
+        "author": "Xus",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Buffs & Debuffs",
+            "Class",
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "BindPad",
+        "file_name": "BindPad",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Chat & Communication"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Button Forge",
+        "file_name": "Button Forge",
+        "description": "Description here.",
+        "author": "Alternator",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Action Bars"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Afflicted",
+        "file_name": "Afflicted",
+        "description": "Description here.",
+        "author": "Shadowed",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Buffs & Debuffs",
+            "Combat",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "IgnoreMore",
+        "file_name": "IgnoreMore",
+        "description": "Description here.",
+        "author": "mikk",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Chat & Communication"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "WarlockReminder",
+        "file_name": "WarlockReminder",
+        "description": "Description here.",
+        "author": "CKlausi",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "iShadow",
+        "file_name": "iShadow",
+        "description": "Description here.",
+        "author": "selias2k",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Artwork"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "EPGPLootmaster",
+        "file_name": "EPGPLootmaster",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Bags & Inventory",
+            "Boss Encounters",
+            "Chat & Communication"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Critline",
+        "file_name": "Critline",
+        "description": "Description here.",
+        "author": "Lombra",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Combat",
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Shaman Friend",
+        "file_name": "Shaman Friend",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "BasicComboPoints",
+        "file_name": "BasicComboPoints",
+        "description": "Description here.",
+        "author": "funkydude",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Energized",
+        "file_name": "Energized",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Cataclysm"
+        ],
+        "tags": [
+            "Buffs & Debuffs"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
     }
 ]

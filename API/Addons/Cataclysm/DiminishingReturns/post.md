@@ -1,0 +1,3 @@
+# DiminishingReturns
+
+Diminishing Returns (DR) helps tracking your teammate and own diminishing returns on hostile players by attaching icons to unit frames.Featuresdisplay running diminishing returns as icons, showing the diminishing status and remaining time,uses DR category database from DRData-1.0,select which categories to show or enable the learning option so they are detected automatically,(new in v1.1-beta-3) can track diminishing returns on group members,main options and icon layout options are available using /dimret and in the addon tab of interface options,test mode available using /drtest.LibDualSpec-1.0 for per-spec profiles,AddonLoader support to reduce logon time,(new in v1.1-beta-3) ButtonFacade support.
