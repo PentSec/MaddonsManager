@@ -4222,5 +4222,29 @@
         "class": [
             "All"
         ]
+    },
+    {
+        "title": "Totem Timers",
+        "file_name": "Totem Timers",
+        "description": "Description here.",
+        "author": "Author Name",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "General",
+            "PvE",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
     }
 ]
