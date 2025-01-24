@@ -13768,5 +13768,3744 @@
         "class": [
             "All"
         ]
+    },
+    {
+        "title": "Details DamageMeter",
+        "file_name": "Details DamageMeter",
+        "description": "Description here.",
+        "author": "Terciob",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "Combat",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Deadly Boss Mods",
+        "file_name": "Deadly Boss Mods",
+        "description": "Description here.",
+        "author": "MysticalOS",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "Combat",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Auctionator",
+        "file_name": "Auctionator",
+        "description": "Description here.",
+        "author": "Zirco",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Auction & Economy"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "WeakAuras",
+        "file_name": "WeakAuras",
+        "description": "Description here.",
+        "author": "Stanzilla",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "Buffs & Debuffs",
+            "Class",
+            "Combat",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Bagnon",
+        "file_name": "Bagnon",
+        "description": "Description here.",
+        "author": "jaliborc",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Bags & Inventory"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "AtlasLoot Enhanced",
+        "file_name": "AtlasLoot Enhanced",
+        "description": "Description here.",
+        "author": "Hegarol",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "Map & Minimap",
+            "Professions",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Tidy Plates",
+        "file_name": "Tidy Plates",
+        "description": "Description here.",
+        "author": "binbwen",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Artwork",
+            "Combat",
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Leatrix Plus",
+        "file_name": "Leatrix Plus",
+        "description": "Description here.",
+        "author": "Leatrix",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Chat & Communication",
+            "Miscellaneous",
+            "Quests & Leveling",
+            "Tooltip",
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "OmniCC",
+        "file_name": "OmniCC",
+        "description": "Description here.",
+        "author": "Tuller",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Action Bars",
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "ReforgeLite",
+        "file_name": "ReforgeLite",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Bags & Inventory",
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Postal",
+        "file_name": "Postal",
+        "description": "Description here.",
+        "author": "Xinhuan",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Mail"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Profession Leveling Guide",
+        "file_name": "Profession Leveling Guide",
+        "description": "Description here.",
+        "author": "vonbek",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Professions"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Zygor Guides",
+        "file_name": "Zygor Guides",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Quests & Leveling",
+            "Tooltip"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "ElvUI",
+        "file_name": "ElvUI",
+        "description": "Description here.",
+        "author": "TukUI Team",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Action Bars",
+            "Artwork",
+            "Class",
+            "Combat",
+            "Mail",
+            "Map & Minimap",
+            "Tooltip",
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Pawn",
+        "file_name": "Pawn",
+        "description": "Description here.",
+        "author": "VgerAN",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Bags & Inventory",
+            "Quests & Leveling",
+            "Tooltip"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Mapster",
+        "file_name": "Mapster",
+        "description": "Description here.",
+        "author": "nevcairiel",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Map & Minimap"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Addon Control Panel",
+        "file_name": "Addon Control Panel",
+        "description": "Description here.",
+        "author": "lucifercatnip",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Development Tools",
+            "Libraries"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Bartender 4",
+        "file_name": "Bartender 4",
+        "description": "Description here.",
+        "author": "Nevcairiel",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Action Bars"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Gatherer",
+        "file_name": "Gatherer",
+        "description": "Description here.",
+        "author": "Esamynn",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Professions"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "NPCScan",
+        "file_name": "NPCScan",
+        "description": "Description here.",
+        "author": "Torhal",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Achievements",
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "GTFO",
+        "file_name": "GTFO",
+        "description": "Description here.",
+        "author": "Zensunim",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Minimap Button Frame",
+        "file_name": "Minimap Button Frame",
+        "description": "Description here.",
+        "author": "Bachlott",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Map & Minimap",
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Quartz",
+        "file_name": "Quartz",
+        "description": "Description here.",
+        "author": "Nymbia",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Buffs & Debuffs",
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "HandyNotes",
+        "file_name": "HandyNotes",
+        "description": "Description here.",
+        "author": "Xinhuan",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Map & Minimap"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "UnitFramesImproved",
+        "file_name": "UnitFramesImproved",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Artwork",
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "PlateBuffs",
+        "file_name": "PlateBuffs",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Buffs & Debuffs",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "OmniBar",
+        "file_name": "OmniBar",
+        "description": "Description here.",
+        "author": "ManneN1",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Buffs & Debuffs",
+            "Combat",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Scrap",
+        "file_name": "Scrap",
+        "description": "Description here.",
+        "author": "jaliborc",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Bags & Inventory"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "LoseControl",
+        "file_name": "LoseControl",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Buffs & Debuffs",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "BigDebuffs",
+        "file_name": "BigDebuffs",
+        "description": "Description here.",
+        "author": "Jordons",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Buffs & Debuffs"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "AuctioneerSuite",
+        "file_name": "AuctioneerSuite",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Auction & Economy"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "TomTom",
+        "file_name": "TomTom",
+        "description": "Description here.",
+        "author": "Cladhaire",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Map & Minimap",
+            "Quests & Leveling"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Kibs Item Level",
+        "file_name": "Kibs Item Level",
+        "description": "Description here.",
+        "author": "Kibsgaard",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "MoveAnything",
+        "file_name": "MoveAnything",
+        "description": "Description here.",
+        "author": "VincentSDSH",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Miscellaneous",
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Gladius",
+        "file_name": "Gladius",
+        "description": "Description here.",
+        "author": "Proditor",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "PvP",
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Carbonite",
+        "file_name": "Carbonite",
+        "description": "Description here.",
+        "author": "Rythal",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Map & Minimap"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "MiksScrollingBattleText",
+        "file_name": "MiksScrollingBattleText",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Combat",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "GatherMate2",
+        "file_name": "GatherMate2",
+        "description": "Description here.",
+        "author": "Kagaro",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Map & Minimap",
+            "Professions"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Rare Spawn Overlay",
+        "file_name": "Rare Spawn Overlay",
+        "description": "Description here.",
+        "author": "keithgabryelski",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Map & Minimap"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Grid2",
+        "file_name": "Grid2",
+        "description": "Description here.",
+        "author": "bkader",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "SexyMap",
+        "file_name": "SexyMap",
+        "description": "Description here.",
+        "author": "funkydude",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Map & Minimap"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "XLoot",
+        "file_name": "XLoot",
+        "description": "Description here.",
+        "author": "kalimash",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Bags & Inventory"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Recount",
+        "file_name": "Recount",
+        "description": "Description here.",
+        "author": "Resike",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Ability Team Tracker",
+        "file_name": "Ability Team Tracker",
+        "description": "Description here.",
+        "author": "cyberc0re",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "Buffs & Debuffs",
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Doom CooldownPulse",
+        "file_name": "Doom CooldownPulse",
+        "description": "Description here.",
+        "author": "Freki",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Class",
+            "Combat",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "WoWInstantMessenger",
+        "file_name": "WoWInstantMessenger",
+        "description": "Description here.",
+        "author": "lucifercatnip",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Chat & Communication"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Spy",
+        "file_name": "Spy",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Skada",
+        "file_name": "Skada",
+        "description": "Description here.",
+        "author": "bkader",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "AutoRepair",
+        "file_name": "AutoRepair",
+        "description": "Description here.",
+        "author": "markyxl",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Bags & Inventory"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "VuhDo",
+        "file_name": "VuhDo",
+        "description": "Description here.",
+        "author": "Iza",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "SpellFlash",
+        "file_name": "SpellFlash",
+        "description": "Description here.",
+        "author": "BigRedBrent",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Action Bars",
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Quest Completist",
+        "file_name": "Quest Completist",
+        "description": "Description here.",
+        "author": "AlistairJM",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Quests & Leveling"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "ShadowedUnitFrames",
+        "file_name": "ShadowedUnitFrames",
+        "description": "Description here.",
+        "author": "Shadowed",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "LortiUI",
+        "file_name": "LortiUI",
+        "description": "Description here.",
+        "author": "lorti",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Dominos",
+        "file_name": "Dominos",
+        "description": "Description here.",
+        "author": "Tuller",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Action Bars"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "QuickQuest",
+        "file_name": "QuickQuest",
+        "description": "Description here.",
+        "author": "p3lim",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Quests & Leveling"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "TSM",
+        "file_name": "TSM",
+        "description": "Description here.",
+        "author": "Sapu94",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Auction & Economy"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Immersion",
+        "file_name": "Immersion",
+        "description": "Description here.",
+        "author": "cyberc0re",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Achievements",
+            "Artwork",
+            "Quests & Leveling",
+            "Roleplay"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Clique",
+        "file_name": "Clique",
+        "description": "Description here.",
+        "author": "Cladhaire",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Action Bars",
+            "PvP",
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "HealBot",
+        "file_name": "HealBot",
+        "description": "Description here.",
+        "author": "StrifeCUK",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Combat",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "TellMeWhen",
+        "file_name": "TellMeWhen",
+        "description": "Description here.",
+        "author": "orbenn",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Buffs & Debuffs",
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Align",
+        "file_name": "Align",
+        "description": "Description here.",
+        "author": "Akeru",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Artwork",
+            "Development Tools"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "SnowfallKeyPress",
+        "file_name": "SnowfallKeyPress",
+        "description": "Description here.",
+        "author": "Dayn",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Libraries"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "DrDamage",
+        "file_name": "DrDamage",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Class",
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Advanced Trade Skill Window",
+        "file_name": "Advanced Trade Skill Window",
+        "description": "Description here.",
+        "author": "Slarti",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Professions"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Prat",
+        "file_name": "Prat",
+        "description": "Description here.",
+        "author": "Sylvanaar",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Chat & Communication"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "ArkInventory",
+        "file_name": "ArkInventory",
+        "description": "Description here.",
+        "author": "arkayenro",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Bags & Inventory"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "ALL THE THINGS",
+        "file_name": "ALL THE THINGS",
+        "description": "Description here.",
+        "author": "Maczuga",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "Miscellaneous",
+            "Quests & Leveling"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Omen3",
+        "file_name": "Omen3",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "CrapAway",
+        "file_name": "CrapAway",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Bags & Inventory"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Decursive",
+        "file_name": "Decursive",
+        "description": "Description here.",
+        "author": "archarodim",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "Buffs & Debuffs",
+            "Combat",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "MogIt",
+        "file_name": "MogIt",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Libraries",
+            "Roleplay"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "GladiatorlosSA",
+        "file_name": "GladiatorlosSA",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Audio & Video",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Macro Toolkit",
+        "file_name": "Macro Toolkit",
+        "description": "Description here.",
+        "author": "polyglotcoder",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "X-PerlUnitFrames",
+        "file_name": "X-PerlUnitFrames",
+        "description": "Description here.",
+        "author": "MysticalOS",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "OneBag3",
+        "file_name": "OneBag3",
+        "description": "Description here.",
+        "author": "Kaelten",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Bags & Inventory"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "SilverDragon",
+        "file_name": "SilverDragon",
+        "description": "Description here.",
+        "author": "Kemayo",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Map & Minimap",
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Exorsus Raid Tools",
+        "file_name": "Exorsus Raid Tools",
+        "description": "Description here.",
+        "author": "ykiigor",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "Buffs & Debuffs",
+            "Combat",
+            "Guild"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "TitanPanel",
+        "file_name": "TitanPanel",
+        "description": "Description here.",
+        "author": "HonorGoG",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Libraries",
+            "Tooltip"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Routes",
+        "file_name": "Routes",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Map & Minimap",
+            "Professions"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "BlizzMove",
+        "file_name": "BlizzMove",
+        "description": "Description here.",
+        "author": "yess",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Masque",
+        "file_name": "Masque",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Action Bars",
+            "Artwork",
+            "Libraries"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "NugComboBar",
+        "file_name": "NugComboBar",
+        "description": "Description here.",
+        "author": "d87",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Ackis Recipe List",
+        "file_name": "Ackis Recipe List",
+        "description": "Description here.",
+        "author": "Torhal",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Data Export",
+            "Professions"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "EasyLoot",
+        "file_name": "EasyLoot",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Bags & Inventory"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "InterruptBar",
+        "file_name": "InterruptBar",
+        "description": "Description here.",
+        "author": "nydas3k",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "TipTac",
+        "file_name": "TipTac",
+        "description": "Description here.",
+        "author": "Aezay",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Tooltip"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "OPie",
+        "file_name": "OPie",
+        "description": "Description here.",
+        "author": "Foxlit",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Action Bars"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Healers Have To Die",
+        "file_name": "Healers Have To Die",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Combat",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "LightHeaded",
+        "file_name": "LightHeaded",
+        "description": "Description here.",
+        "author": "vaniron",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Miscellaneous",
+            "Quests & Leveling"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "OverAchiever",
+        "file_name": "OverAchiever",
+        "description": "Description here.",
+        "author": "Tuhljin",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Achievements"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Peggle",
+        "file_name": "Peggle",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Minigames",
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "FarmHud",
+        "file_name": "FarmHud",
+        "description": "Description here.",
+        "author": "CodeRedLin",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Map & Minimap",
+            "Professions"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Bloodhound",
+        "file_name": "Bloodhound",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Map & Minimap",
+            "Professions"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "SorhaQuestLog",
+        "file_name": "SorhaQuestLog",
+        "description": "Description here.",
+        "author": "Sorha2",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Quests & Leveling"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "SimpleUnitFrames",
+        "file_name": "SimpleUnitFrames",
+        "description": "Description here.",
+        "author": "rophy",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "MobInfo2",
+        "file_name": "MobInfo2",
+        "description": "Description here.",
+        "author": "ileclerk",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Tooltip"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Chatter",
+        "file_name": "Chatter",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Chat & Communication"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Capping",
+        "file_name": "Capping",
+        "description": "Description here.",
+        "author": "funkydude",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "IceHUD",
+        "file_name": "IceHUD",
+        "description": "Description here.",
+        "author": "Parnic",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Fishing Buddy",
+        "file_name": "Fishing Buddy",
+        "description": "Description here.",
+        "author": "Sutorix",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Professions"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "NeedToKnow",
+        "file_name": "NeedToKnow",
+        "description": "Description here.",
+        "author": "lieandswell",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Buffs & Debuffs"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Outfitter",
+        "file_name": "Outfitter",
+        "description": "Description here.",
+        "author": "mundocani",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Bags & Inventory"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Killshot",
+        "file_name": "Killshot",
+        "description": "Description here.",
+        "author": "zwarmapapa",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Chat & Communication",
+            "Combat",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "AvantUI",
+        "file_name": "AvantUI",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "PallyPower",
+        "file_name": "PallyPower",
+        "description": "Description here.",
+        "author": "Aznamir",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "AffDots",
+        "file_name": "AffDots",
+        "description": "Description here.",
+        "author": "virtualbind",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Buffs & Debuffs",
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Altoholic",
+        "file_name": "Altoholic",
+        "description": "Description here.",
+        "author": "Thaoky",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Bags & Inventory",
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Totem Timers",
+        "file_name": "Totem Timers",
+        "description": "Description here.",
+        "author": "Zulah",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Cursor",
+        "file_name": "Cursor",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Artwork"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "ShamanFriend",
+        "file_name": "ShamanFriend",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "AnnounceInterrupts",
+        "file_name": "AnnounceInterrupts",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Wholly",
+        "file_name": "Wholly",
+        "description": "Description here.",
+        "author": "nimhfree",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Quests & Leveling"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "TriviaBot",
+        "file_name": "TriviaBot",
+        "description": "Description here.",
+        "author": "marspett",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Chat & Communication",
+            "Guild",
+            "Minigames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "GnomishVendorShrinker",
+        "file_name": "GnomishVendorShrinker",
+        "description": "Description here.",
+        "author": "vaniron",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Auction & Economy",
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Storyline",
+        "file_name": "Storyline",
+        "description": "Description here.",
+        "author": "Ellypse",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Quests & Leveling"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Range Display",
+        "file_name": "Range Display",
+        "description": "Description here.",
+        "author": "mitch0",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Analyst",
+        "file_name": "Analyst",
+        "description": "Description here.",
+        "author": "BethinkWoW",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Auction & Economy"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Collect Me",
+        "file_name": "Collect Me",
+        "description": "Description here.",
+        "author": "Jim-Bim",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "ClassTimer",
+        "file_name": "ClassTimer",
+        "description": "Description here.",
+        "author": "Stanzilla",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Buffs & Debuffs",
+            "Class",
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Rematch",
+        "file_name": "Rematch",
+        "description": "Description here.",
+        "author": "gello3",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Companions"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "PitBull Unit Frames",
+        "file_name": "PitBull Unit Frames",
+        "description": "Description here.",
+        "author": "Shefki",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "RCLootCouncil",
+        "file_name": "RCLootCouncil",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "Chat & Communication"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Sell-o-matic",
+        "file_name": "Sell-o-matic",
+        "description": "Description here.",
+        "author": "Silmano",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Bags & Inventory",
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Parrot",
+        "file_name": "Parrot",
+        "description": "Description here.",
+        "author": "ckknight",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Combat",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "GoGoMount",
+        "file_name": "GoGoMount",
+        "description": "Description here.",
+        "author": "tiker",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Action Bars"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "BadKitty",
+        "file_name": "BadKitty",
+        "description": "Description here.",
+        "author": "MeisBarry",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "AutoBar",
+        "file_name": "AutoBar",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Action Bars"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "BuyEmAll",
+        "file_name": "BuyEmAll",
+        "description": "Description here.",
+        "author": "Jordy141",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Auction & Economy",
+            "Bags & Inventory"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "AutoVendor",
+        "file_name": "AutoVendor",
+        "description": "Description here.",
+        "author": "olafskiii",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Bags & Inventory"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Elementarist",
+        "file_name": "Elementarist",
+        "description": "Description here.",
+        "author": "Taracque",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Volumizer",
+        "file_name": "Volumizer",
+        "description": "Description here.",
+        "author": "Torhal",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Audio & Video"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "oRA3",
+        "file_name": "oRA3",
+        "description": "Description here.",
+        "author": "funkydude",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "Buffs & Debuffs",
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Mage Nuggets",
+        "file_name": "Mage Nuggets",
+        "description": "Description here.",
+        "author": "b-buck",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "DebuffFilter",
+        "file_name": "DebuffFilter",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Buffs & Debuffs"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "DroodFocus",
+        "file_name": "DroodFocus",
+        "description": "Description here.",
+        "author": "jk_baller23",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "iShadow",
+        "file_name": "iShadow",
+        "description": "Description here.",
+        "author": "selias2k",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Artwork",
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Healium",
+        "file_name": "Healium",
+        "description": "Description here.",
+        "author": "Engy99k",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Action Bars",
+            "Buffs & Debuffs"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Balance Power Tracker",
+        "file_name": "Balance Power Tracker",
+        "description": "Description here.",
+        "author": "Copialinex",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Aura Frames",
+        "file_name": "Aura Frames",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Buffs & Debuffs"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Aloft",
+        "file_name": "Aloft",
+        "description": "Description here.",
+        "author": "acapela",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Archy",
+        "file_name": "Archy",
+        "description": "Description here.",
+        "author": "Torhal",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Professions"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Skinner",
+        "file_name": "Skinner",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Artwork",
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "RaidAchievement",
+        "file_name": "RaidAchievement",
+        "description": "Description here.",
+        "author": "shurshik",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Achievements",
+            "Boss Encounters",
+            "Guild"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "RaidSlackCheck",
+        "file_name": "RaidSlackCheck",
+        "description": "Description here.",
+        "author": "shurshik",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "AthComboPoints",
+        "file_name": "AthComboPoints",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Chinchilla Minimap",
+        "file_name": "Chinchilla Minimap",
+        "description": "Description here.",
+        "author": "ckknight",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Map & Minimap"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "SmartBuff",
+        "file_name": "SmartBuff",
+        "description": "Description here.",
+        "author": "Aeldra",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Buffs & Debuffs"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Fake Achievement",
+        "file_name": "Fake Achievement",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Achievements",
+            "Chat & Communication"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Kiwi Farm",
+        "file_name": "Kiwi Farm",
+        "description": "Description here.",
+        "author": "michaelsp",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Auction & Economy",
+            "Tooltip"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Trinket Menu",
+        "file_name": "Trinket Menu",
+        "description": "Description here.",
+        "author": "Gello",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Action Bars",
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Button Forge",
+        "file_name": "Button Forge",
+        "description": "Description here.",
+        "author": "Alternator",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Action Bars"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Baggins",
+        "file_name": "Baggins",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Bags & Inventory"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Acheron",
+        "file_name": "Acheron",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Angry Assignments",
+        "file_name": "Angry Assignments",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Boss Encounters"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "ShockAndAwe",
+        "file_name": "ShockAndAwe",
+        "description": "Description here.",
+        "author": "Pericles",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "EPGPLootmaster",
+        "file_name": "EPGPLootmaster",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Bags & Inventory",
+            "Boss Encounters",
+            "Chat & Communication"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "FloTotemBar",
+        "file_name": "FloTotemBar",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "ShieldsUp",
+        "file_name": "ShieldsUp",
+        "description": "Description here.",
+        "author": "Phanx",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Yay Mounts",
+        "file_name": "Yay Mounts",
+        "description": "Description here.",
+        "author": "FaldonCow",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "CompactRaid",
+        "file_name": "CompactRaid",
+        "description": "Description here.",
+        "author": "Abin_Twitch",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Ailo",
+        "file_name": "Ailo",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "Tooltip"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Afflicted",
+        "file_name": "Afflicted",
+        "description": "Description here.",
+        "author": "Shadowed103",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Combat",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "PhoenixStyle",
+        "file_name": "PhoenixStyle",
+        "description": "Description here.",
+        "author": "shurshik",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Boss Encounters"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Achievements Reminder",
+        "file_name": "Achievements Reminder",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Pandaria"
+        ],
+        "tags": [
+            "Achievements"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
     }
 ]

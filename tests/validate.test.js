@@ -2,7 +2,7 @@ const fs = require('fs-extra');
 const path = require('path');
 
 const allowedValues = {
-    expansions: ['Cataclysm', 'Lichking', 'Pandarian', 'Vanilla', 'TBC'],
+    expansions: ['Cataclysm', 'Lichking', 'Pandaria', 'Vanilla', 'TBC'],
     tags: [
         'General',
         'PvE', 
@@ -32,7 +32,9 @@ const allowedValues = {
         "Quests & Leveling",
         "Roleplay",
         "Tooltip",
-        "Unit Frames"],
+        "Unit Frames",
+        "Companions"
+    ],
     roles: ['All', 'DPS', 'TANK', 'HEALER',],
     classes: [
         'All', 'Rogue', 'Warrior', 'Paladin', 'Death Knight',

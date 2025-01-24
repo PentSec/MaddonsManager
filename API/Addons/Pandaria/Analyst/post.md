@@ -1,0 +1,3 @@
+# Analyst
+
+Analyst collects information about the virtual economy and presents that information to the player. In its Economy panel, Analyst answers questions such as the following:How much gold did I earn and how?How much gold did I spend and on what?How am I doing in the auction house?What have I looted from mobs?What items did I consume?What items did I produce?How many currencies (marks, badges, emblems) have I collected?What have I deposited or withdrawn from the guild bank?What is my gathering and crafting activity?… and much moreAll reports can be shown over a configurable period (days, weeks, month).

@@ -1,0 +1,3 @@
+# QuickQuest
+
+QuickQuest will automate quest-related tasks such as accepting and delivering quests for you, saving you time while leveling or doing daily/weekly objectives.List of features:Automatically pick up any questAutomatically deliver any questAutomatically accept pop-up questsAutomatically skip talking to NPCs with only one optionAutomatically pick up trivial (low level) questsOnly if the player is tracking trivial quests on the minimapAutomatically selects the most valuable quest rewardOnly auto-delivers if there is just one item choiceOptionally automates paying Darkmoon Isle fairesOptionally shares all quests accepted with party membersHolding Shift will pause the automationAccess the options with /quickquest or /qq.

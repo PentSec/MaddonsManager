@@ -1,0 +1,3 @@
+# Yay Mounts
+
+Provides a one button solution for mounting; allowing you to ground or flying mount, dismount, exit vehicles and shapeshift as a druid or shaman with one button. It includes a GUI for selecting which mounts you want to use. Yay Mounts is most useful for players with a large number of mounts, but only a handful that they actually want to use regularly. Players with very few mounts can still find it useful.The GUI can be accessed by typing “/ym” or from the Blizzard options window. You can set the keybinding from the /ym GUI options or the Blizzard keybinding menu.You can also make a macro by using “/click YayMountsButton”.
