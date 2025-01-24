@@ -1,0 +1,3 @@
+# MoonTime
+
+MoonTime shows cooldowns and durations of DoTs and eclipse in a compact way in the center of the screen:The included layouts are:defaultshows the Eclipse direction and power, Moon/Sunfire and Insect Swarm duration in a vertical alignment as seen in the screenshotnoBrainThe noBrain tile shows what spell to castThe default rotation is Starfall > DoTs > SS (only one per Solar) > Starfire/WrathAdditionally you can customize two rotation to whatever you like the tile to shownoBrainShifta free to customize layout, showing all the Moonkin cooldowns/duration wherever you want them on the screenMeja variation of the default layout, including the noBrain tileType /moontime or /moon to configure the addon

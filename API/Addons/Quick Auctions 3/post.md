@@ -1,0 +1,3 @@
+# Quick Auctions 3
+
+Quick Auctions is an auction tool to help speed up auctioning large quantities of items, especially canceling. While primarily Quick Auctions is built for large quantities of items, it can work fine for a few auctions as well. A bit of tweaking is required to get optimal settings, but it is very flexible and smart enough that you can use it for more than just mindlessly undercutting auctions by 1 copper every time. Summary window and craft queues are included so you do not have to memorize every item and quantity you need. Shows total materials required to craft as well as allowing you to click from the craft queue to craft so no searching through everything.Slash command:/qa (/quickauctions)

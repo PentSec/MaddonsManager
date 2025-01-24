@@ -1776,30 +1776,6 @@
         ]
     },
     {
-        "title": "PhoenixStyle",
-        "file_name": "PhoenixStyle",
-        "description": "Description here.",
-        "author": "Author Name",
-        "pr_author": "NoM0Re",
-        "avatar_pr_author": "https://avatars.githubusercontent.com/u/1629787?v=4",
-        "expansion": [
-            "Lichking"
-        ],
-        "tags": [
-            "General",
-            "PvE",
-            "PvP"
-        ],
-        "roles": [
-            "DPS",
-            "TANK",
-            "HEALER"
-        ],
-        "class": [
-            "All"
-        ]
-    },
-    {
         "title": "Plagued",
         "file_name": "Plagued",
         "description": "Description here.",
@@ -4224,19 +4200,6948 @@
         ]
     },
     {
-        "title": "Totem Timers",
-        "file_name": "Totem Timers",
+        "title": "Poisoner3",
+        "file_name": "Poisoner3",
         "description": "Description here.",
-        "author": "Author Name",
+        "author": "silentdave",
         "pr_author": "Sitoz",
         "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
         "expansion": [
             "Lichking"
         ],
         "tags": [
-            "General",
-            "PvE",
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "FasterLoot",
+        "file_name": "FasterLoot",
+        "description": "Description here.",
+        "author": "FoobarZA",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Bags & Inventory"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "DBM Whitemane",
+        "file_name": "DBM Whitemane",
+        "description": "Description here.",
+        "author": "broizter",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "Chat & Communication",
+            "Combat",
             "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "OneBank3",
+        "file_name": "OneBank3",
+        "description": "Description here.",
+        "author": "Kaelten",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Bags & Inventory"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Totem Timers",
+        "file_name": "Totem Timers",
+        "description": "Description here.",
+        "author": "Zulah",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "JPack",
+        "file_name": "JPack",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Bags & Inventory"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Fishing Buddy",
+        "file_name": "Fishing Buddy",
+        "description": "Description here.",
+        "author": "Sutorix",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Professions"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Where To Now",
+        "file_name": "Where To Now",
+        "description": "Description here.",
+        "author": "Jehris",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Miscellaneous",
+            "Quests & Leveling",
+            "Tooltip"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Quest-o-matic",
+        "file_name": "Quest-o-matic",
+        "description": "Description here.",
+        "author": "Miratu",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Quests & Leveling"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "CompactRaidFrame",
+        "file_name": "CompactRaidFrame",
+        "description": "Description here.",
+        "author": "RomanSpector",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "Miscellaneous",
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Immersion",
+        "file_name": "Immersion",
+        "description": "Description here.",
+        "author": "s0h2x",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Artwork",
+            "Quests & Leveling"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Power Auras",
+        "file_name": "Power Auras",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Audio & Video",
+            "Boss Encounters",
+            "Buffs & Debuffs",
+            "Combat",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "NugEnergy",
+        "file_name": "NugEnergy",
+        "description": "Description here.",
+        "author": "Carnivohra",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Class",
+            "Combat",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "MFClip",
+        "file_name": "MFClip",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "PriestFriend",
+        "file_name": "PriestFriend",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Round3DPortraits",
+        "file_name": "Round3DPortraits",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Artwork",
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Loot Filter",
+        "file_name": "Loot Filter",
+        "description": "Description here.",
+        "author": "Meter",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Bags & Inventory",
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Baggins",
+        "file_name": "Baggins",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Bags & Inventory"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "AuctionLite",
+        "file_name": "AuctionLite",
+        "description": "Description here.",
+        "author": "Merial",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Auction & Economy"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Healium",
+        "file_name": "Healium",
+        "description": "Description here.",
+        "author": "Engy99k",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Action Bars",
+            "Buffs & Debuffs"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Nameplates Modifier",
+        "file_name": "Nameplates Modifier",
+        "description": "Description here.",
+        "author": "Shadowed",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Routes",
+        "file_name": "Routes",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Map & Minimap",
+            "Professions"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "EasyLoot",
+        "file_name": "EasyLoot",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Bags & Inventory"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "AzCastBar",
+        "file_name": "AzCastBar",
+        "description": "Description here.",
+        "author": "Aezay",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "FonzAppraiser",
+        "file_name": "FonzAppraiser",
+        "description": "Description here.",
+        "author": "fondlez",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Auction & Economy",
+            "Bags & Inventory"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Stuf Unit Frames",
+        "file_name": "Stuf Unit Frames",
+        "description": "Description here.",
+        "author": "totalpackage",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "ProfessionsVault",
+        "file_name": "ProfessionsVault",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Professions"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "MySales",
+        "file_name": "MySales",
+        "description": "Description here.",
+        "author": "Cyprias",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Auction & Economy",
+            "Mail"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Karnis Crap Filter",
+        "file_name": "Karnis Crap Filter",
+        "description": "Description here.",
+        "author": "Karnifex",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Bags & Inventory"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Cork",
+        "file_name": "Cork",
+        "description": "Description here.",
+        "author": "Tekkub",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Buffs & Debuffs"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "AdvancedIconSelector",
+        "file_name": "AdvancedIconSelector",
+        "description": "Description here.",
+        "author": "Darthyl",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Chat & Communication"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "DungeonStatus Modified",
+        "file_name": "DungeonStatus Modified",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Miscellaneous",
+            "Tooltip"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "UnitFrameLayers",
+        "file_name": "UnitFrameLayers",
+        "description": "Description here.",
+        "author": "RomanSpector",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "PvP",
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Advanced Trade Skill Window",
+        "file_name": "Advanced Trade Skill Window",
+        "description": "Description here.",
+        "author": "Slarti",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Professions"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Parrot",
+        "file_name": "Parrot",
+        "description": "Description here.",
+        "author": "ckknight",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "RoguePowerBars",
+        "file_name": "RoguePowerBars",
+        "description": "Description here.",
+        "author": "Asuah",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "GatherHud",
+        "file_name": "GatherHud",
+        "description": "Description here.",
+        "author": "Xinhuan",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Map & Minimap",
+            "Professions"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Storyline",
+        "file_name": "Storyline",
+        "description": "Description here.",
+        "author": "Ellypse",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Quests & Leveling"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "BigWigs",
+        "file_name": "BigWigs",
+        "description": "Description here.",
+        "author": "funkydude",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "Buffs & Debuffs",
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Grid",
+        "file_name": "Grid",
+        "description": "Description here.",
+        "author": "Phanx",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Aesa",
+        "file_name": "Aesa",
+        "description": "Description here.",
+        "author": "Ananhaid",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Combat",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Masque",
+        "file_name": "Masque",
+        "description": "Description here.",
+        "author": "bkader",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Action Bars",
+            "Artwork"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Satrina Buff Frames",
+        "file_name": "Satrina Buff Frames",
+        "description": "Description here.",
+        "author": "Satrina",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Buffs & Debuffs"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "ShockAndAwe",
+        "file_name": "ShockAndAwe",
+        "description": "Description here.",
+        "author": "Pericles",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Buff Broker",
+        "file_name": "Buff Broker",
+        "description": "Description here.",
+        "author": "toddimer",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Buffs & Debuffs",
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Skillet",
+        "file_name": "Skillet",
+        "description": "Description here.",
+        "author": "bsmorgan",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Professions"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "RollTracker",
+        "file_name": "RollTracker",
+        "description": "Description here.",
+        "author": "Nitearrow01",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Chat & Communication",
+            "Guild"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "EventAlert",
+        "file_name": "EventAlert",
+        "description": "Description here.",
+        "author": "CurtisTheGreat",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Buffs & Debuffs",
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "SmartBuff",
+        "file_name": "SmartBuff",
+        "description": "Description here.",
+        "author": "Aeldra",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Buffs & Debuffs"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Binder",
+        "file_name": "Binder",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Action Bars"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "MoonTime",
+        "file_name": "MoonTime",
+        "description": "Description here.",
+        "author": "perle",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "All You Can Eat",
+        "file_name": "All You Can Eat",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Minigames",
+            "Roleplay"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "TopFit",
+        "file_name": "TopFit",
+        "description": "Description here.",
+        "author": "Mirroar",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Bags & Inventory"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "TrainerSkills",
+        "file_name": "TrainerSkills",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Class",
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "PortalBox",
+        "file_name": "PortalBox",
+        "description": "Description here.",
+        "author": "iindigo",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Trashcan",
+        "file_name": "Trashcan",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Bags & Inventory"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Skinner",
+        "file_name": "Skinner",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Artwork",
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "oUF",
+        "file_name": "oUF",
+        "description": "Description here.",
+        "author": "haste",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Development Tools",
+            "Libraries",
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "TradeskillInfo",
+        "file_name": "TradeskillInfo",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Action Bars",
+            "Professions"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "PitBull Unit Frames",
+        "file_name": "PitBull Unit Frames",
+        "description": "Description here.",
+        "author": "Shefki",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Elementarist",
+        "file_name": "Elementarist",
+        "description": "Description here.",
+        "author": "Taracque",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Fishermans Friend",
+        "file_name": "Fishermans Friend",
+        "description": "Description here.",
+        "author": "Ammo",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Professions"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Frames",
+        "file_name": "Frames",
+        "description": "Description here.",
+        "author": "Workout",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "DroodFocus",
+        "file_name": "DroodFocus",
+        "description": "Description here.",
+        "author": "jk_baller23",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Capping",
+        "file_name": "Capping",
+        "description": "Description here.",
+        "author": "funkydude",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "EclipseBar",
+        "file_name": "EclipseBar",
+        "description": "Description here.",
+        "author": "bkader",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "TrinketICD",
+        "file_name": "TrinketICD",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Combat",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Dugis Guide Viewer",
+        "file_name": "Dugis Guide Viewer",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Quests & Leveling"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Explorer Coords",
+        "file_name": "Explorer Coords",
+        "description": "Description here.",
+        "author": "DarkStarX",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Achievements",
+            "Map & Minimap"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "CLC DK",
+        "file_name": "CLC DK",
+        "description": "Description here.",
+        "author": "Nu7a",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "FarmHud",
+        "file_name": "FarmHud",
+        "description": "Description here.",
+        "author": "CodeRedLin",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Map & Minimap",
+            "Professions"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "NugComboBar",
+        "file_name": "NugComboBar",
+        "description": "Description here.",
+        "author": "d87",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Recipe Radar",
+        "file_name": "Recipe Radar",
+        "description": "Description here.",
+        "author": "Miller",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Map & Minimap",
+            "Professions"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "CombatLogFix",
+        "file_name": "CombatLogFix",
+        "description": "Description here.",
+        "author": "Schaka",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Development Tools",
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "DalaranAH",
+        "file_name": "DalaranAH",
+        "description": "Description here.",
+        "author": "NoM0Re",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Fontain",
+        "file_name": "Fontain",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Artwork"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "BadBoy",
+        "file_name": "BadBoy",
+        "description": "Description here.",
+        "author": "funkydude",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Chat & Communication"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Analyst",
+        "file_name": "Analyst",
+        "description": "Description here.",
+        "author": "BethinkWoW",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Auction & Economy"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "PhoenixStyle",
+        "file_name": "PhoenixStyle",
+        "description": "Description here.",
+        "author": "shurshik",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Boss Encounters"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "WeightsWatcher",
+        "file_name": "WeightsWatcher",
+        "description": "Description here.",
+        "author": "IQgryn",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Tooltip"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "StrudelStore",
+        "file_name": "StrudelStore",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "TankTotals",
+        "file_name": "TankTotals",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "iShadow",
+        "file_name": "iShadow",
+        "description": "Description here.",
+        "author": "selias2k",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Artwork"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Addon Loader",
+        "file_name": "Addon Loader",
+        "description": "Description here.",
+        "author": "Ammo",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Development Tools"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Mage Fever",
+        "file_name": "Mage Fever",
+        "description": "Description here.",
+        "author": "KCmilam",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "WorldExplorer",
+        "file_name": "WorldExplorer",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Map & Minimap"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Accountant",
+        "file_name": "Accountant",
+        "description": "Description here.",
+        "author": "urnati",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Auction & Economy"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Button Forge",
+        "file_name": "Button Forge",
+        "description": "Description here.",
+        "author": "Alternator",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Action Bars"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "ZanzersHunterMod",
+        "file_name": "ZanzersHunterMod",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Sushi Sort",
+        "file_name": "Sushi Sort",
+        "description": "Description here.",
+        "author": "Venatas",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Bags & Inventory"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "XToLevel",
+        "file_name": "XToLevel",
+        "description": "Description here.",
+        "author": "AtliThor",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Quests & Leveling",
+            "Tooltip"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "QuestItemBar",
+        "file_name": "QuestItemBar",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Action Bars",
+            "Quests & Leveling"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "MonkeyQuest",
+        "file_name": "MonkeyQuest",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Quests & Leveling"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "SavedInstances",
+        "file_name": "SavedInstances",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Achievements",
+            "Boss Encounters",
+            "Chat & Communication",
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Killshot",
+        "file_name": "Killshot",
+        "description": "Description here.",
+        "author": "zwarmapapa",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Chat & Communication",
+            "Combat",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "RUF",
+        "file_name": "RUF",
+        "description": "Description here.",
+        "author": "Raeli",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "DiabolicUI",
+        "file_name": "DiabolicUI",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "CrapAway",
+        "file_name": "CrapAway",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Bags & Inventory"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "eCastingBar",
+        "file_name": "eCastingBar",
+        "description": "Description here.",
+        "author": "NeuroMedivh",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Combat",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Scrolling Combat Text",
+        "file_name": "Scrolling Combat Text",
+        "description": "Description here.",
+        "author": "Grayhoof",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "ShowMeiLvl",
+        "file_name": "ShowMeiLvl",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "CLCRet",
+        "file_name": "CLCRet",
+        "description": "Description here.",
+        "author": "abija",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "GoblinVendorFilter",
+        "file_name": "GoblinVendorFilter",
+        "description": "Description here.",
+        "author": "yssaril",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "LightHeaded",
+        "file_name": "LightHeaded",
+        "description": "Description here.",
+        "author": "vaniron",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Miscellaneous",
+            "Quests & Leveling"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Kaders Raid Utilities",
+        "file_name": "Kaders Raid Utilities",
+        "description": "Description here.",
+        "author": "bkader",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "Chat & Communication",
+            "Guild"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Volumizer",
+        "file_name": "Volumizer",
+        "description": "Description here.",
+        "author": "Torhal",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Audio & Video"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Raelis Spell Announcer",
+        "file_name": "Raelis Spell Announcer",
+        "description": "Description here.",
+        "author": "Raelii",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Buffs & Debuffs",
+            "Chat & Communication",
+            "Class",
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "LootPlan",
+        "file_name": "LootPlan",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Bags & Inventory",
+            "Libraries",
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "BankItems",
+        "file_name": "BankItems",
+        "description": "Description here.",
+        "author": "Xinhuan",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Bags & Inventory"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Quick Auctions 3",
+        "file_name": "Quick Auctions 3",
+        "description": "Description here.",
+        "author": "Shadowed",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Auction & Economy"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Currency",
+        "file_name": "Currency",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Auction & Economy"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Learning Aid",
+        "file_name": "Learning Aid",
+        "description": "Description here.",
+        "author": "Jamash",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Action Bars",
+            "Class",
+            "Quests & Leveling"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "GnomeWorks",
+        "file_name": "GnomeWorks",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Professions"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "MillHelp",
+        "file_name": "MillHelp",
+        "description": "Description here.",
+        "author": "Starinnia",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Professions",
+            "Tooltip"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Magic Marker",
+        "file_name": "Magic Marker",
+        "description": "Description here.",
+        "author": "neotron",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Boss Encounters"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "AutoGratzer",
+        "file_name": "AutoGratzer",
+        "description": "Description here.",
+        "author": "Jinivus",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Achievements",
+            "Chat & Communication",
+            "Guild"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Cyanide Poison Reminder",
+        "file_name": "Cyanide Poison Reminder",
+        "description": "Description here.",
+        "author": "CruizeT",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Character Notes",
+        "file_name": "Character Notes",
+        "description": "Description here.",
+        "author": "Talryn",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Chat & Communication",
+            "Tooltip"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Producer",
+        "file_name": "Producer",
+        "description": "Description here.",
+        "author": "TimTaler",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Professions"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "ExpShow",
+        "file_name": "ExpShow",
+        "description": "Description here.",
+        "author": "Cespz",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Tooltip"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "RaidSlackCheck",
+        "file_name": "RaidSlackCheck",
+        "description": "Description here.",
+        "author": "shurshik",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Panda",
+        "file_name": "Panda",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Professions"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "FixGroups",
+        "file_name": "FixGroups",
+        "description": "Description here.",
+        "author": "bencvt",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "AutoBar",
+        "file_name": "AutoBar",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Action Bars"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Elephant",
+        "file_name": "Elephant",
+        "description": "Description here.",
+        "author": "pb_ee1",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Chat & Communication"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "FloTotemBar",
+        "file_name": "FloTotemBar",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "SlyProfits",
+        "file_name": "SlyProfits",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Auction & Economy"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Enhanced TradeSkill UI",
+        "file_name": "Enhanced TradeSkill UI",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Professions"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "FuBar",
+        "file_name": "FuBar",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Action Bars"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Market Watcher",
+        "file_name": "Market Watcher",
+        "description": "Description here.",
+        "author": "Torrid01",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Auction & Economy"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "RaidAchievement",
+        "file_name": "RaidAchievement",
+        "description": "Description here.",
+        "author": "shurshik",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Achievements",
+            "Boss Encounters",
+            "Guild"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "I Interrupted That",
+        "file_name": "I Interrupted That",
+        "description": "Description here.",
+        "author": "ElphieRAWR",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Chat & Communication"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "GoGoMount",
+        "file_name": "GoGoMount",
+        "description": "Description here.",
+        "author": "tiker",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Action Bars"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "MobMap",
+        "file_name": "MobMap",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Map & Minimap"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "QuickDKP",
+        "file_name": "QuickDKP",
+        "description": "Description here.",
+        "author": "akhaan",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Chat & Communication",
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "DressMe",
+        "file_name": "DressMe",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Artwork",
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Bloodhound",
+        "file_name": "Bloodhound",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Map & Minimap",
+            "Professions"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Sell-o-matic",
+        "file_name": "Sell-o-matic",
+        "description": "Description here.",
+        "author": "Silmano",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Bags & Inventory",
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Fishing Ace",
+        "file_name": "Fishing Ace",
+        "description": "Description here.",
+        "author": "Sutorix",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Professions"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "EnhaPrio",
+        "file_name": "EnhaPrio",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "BigBrother",
+        "file_name": "BigBrother",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "Chat & Communication"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "UnderAchiever",
+        "file_name": "UnderAchiever",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Achievements",
+            "Chat & Communication"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Dhasks FlightMap",
+        "file_name": "Dhasks FlightMap",
+        "description": "Description here.",
+        "author": "Dhask",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Map & Minimap"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Combo Points Redux",
+        "file_name": "Combo Points Redux",
+        "description": "Description here.",
+        "author": "Starinnia",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "oRA3",
+        "file_name": "oRA3",
+        "description": "Description here.",
+        "author": "funkydude",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "Buffs & Debuffs",
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Eprast_UnitFrames",
+        "file_name": "Eprast_UnitFrames",
+        "description": "Description here.",
+        "author": "WbTest2",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Factionizer",
+        "file_name": "Factionizer",
+        "description": "Description here.",
+        "author": "A_Nolan",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Achievements",
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Speedy Actions",
+        "file_name": "Speedy Actions",
+        "description": "Description here.",
+        "author": "Shadowed",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "RCLootCouncil",
+        "file_name": "RCLootCouncil",
+        "description": "Description here.",
+        "author": "broizter",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "Chat & Communication"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Spell Alerter",
+        "file_name": "Spell Alerter",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Combat",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "SimpleUnitFrames",
+        "file_name": "SimpleUnitFrames",
+        "description": "Description here.",
+        "author": "rophy",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "AutoVendor",
+        "file_name": "AutoVendor",
+        "description": "Description here.",
+        "author": "olafskiii",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Bags & Inventory"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "QuickQuest",
+        "file_name": "QuickQuest",
+        "description": "Description here.",
+        "author": "p3lim",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Quests & Leveling"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "SellGrey",
+        "file_name": "SellGrey",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Bags & Inventory"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Acheron",
+        "file_name": "Acheron",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Error Filter",
+        "file_name": "Error Filter",
+        "description": "Description here.",
+        "author": "Fulger",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Chat & Communication"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "pretty_actionbar",
+        "file_name": "pretty_actionbar",
+        "description": "Description here.",
+        "author": "s0h2x",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Action Bars"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "BloodyMask",
+        "file_name": "BloodyMask",
+        "description": "Description here.",
+        "author": "bkader",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Artwork"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Raven",
+        "file_name": "Raven",
+        "description": "Description here.",
+        "author": "bkader",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Buffs & Debuffs"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "TriviaBot",
+        "file_name": "TriviaBot",
+        "description": "Description here.",
+        "author": "marspett",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Chat & Communication",
+            "Guild",
+            "Minigames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "sNamePlates",
+        "file_name": "sNamePlates",
+        "description": "Description here.",
+        "author": "antmonsep",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Hermes",
+        "file_name": "Hermes",
+        "description": "Description here.",
+        "author": "bkader",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "Buffs & Debuffs",
+            "Combat",
+            "Guild"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Elkanos BuffBars",
+        "file_name": "Elkanos BuffBars",
+        "description": "Description here.",
+        "author": "Elkano",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Buffs & Debuffs",
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Spell Stealer",
+        "file_name": "Spell Stealer",
+        "description": "Description here.",
+        "author": "Blinddate",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "SimpleMD",
+        "file_name": "SimpleMD",
+        "description": "Description here.",
+        "author": "Starinnia",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "ChatMOD",
+        "file_name": "ChatMOD",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Chat & Communication"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "TipTop",
+        "file_name": "TipTop",
+        "description": "Description here.",
+        "author": "Seerah",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Tooltip"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "xMerchant",
+        "file_name": "xMerchant",
+        "description": "Description here.",
+        "author": "Shantalya",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Auction & Economy",
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Dimmed Actions",
+        "file_name": "Dimmed Actions",
+        "description": "Description here.",
+        "author": "Cyprias",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Action Bars"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Eriks Shopping List",
+        "file_name": "Eriks Shopping List",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Professions"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "ShieldsUp",
+        "file_name": "ShieldsUp",
+        "description": "Description here.",
+        "author": "Phanx",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "AuctionHouseDepositFixer",
+        "file_name": "AuctionHouseDepositFixer",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Auction & Economy",
+            "Development Tools",
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Icetip",
+        "file_name": "Icetip",
+        "description": "Description here.",
+        "author": "wolftankk",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Tooltip"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Loot Hog",
+        "file_name": "Loot Hog",
+        "description": "Description here.",
+        "author": "Razyel",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "Chat & Communication"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Warrior Vigilance Tracker",
+        "file_name": "Warrior Vigilance Tracker",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Ardent Defender",
+        "file_name": "Ardent Defender",
+        "description": "Description here.",
+        "author": "Blinddate",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "XBar",
+        "file_name": "XBar",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Action Bars"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "SpamThrottle",
+        "file_name": "SpamThrottle",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Chat & Communication"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "OneRing3",
+        "file_name": "OneRing3",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Bags & Inventory"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "LFMonitor",
+        "file_name": "LFMonitor",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Chat & Communication"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Revelation",
+        "file_name": "Revelation",
+        "description": "Description here.",
+        "author": "Torhal",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Professions"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Arcanum",
+        "file_name": "Arcanum",
+        "description": "Description here.",
+        "author": "Erina29",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "ShammyShields",
+        "file_name": "ShammyShields",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Chronicle",
+        "file_name": "Chronicle",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "FREAK",
+        "file_name": "FREAK",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Achievements"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Character Profiler",
+        "file_name": "Character Profiler",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Data Export"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Objective Announcer",
+        "file_name": "Objective Announcer",
+        "description": "Description here.",
+        "author": "bantou",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Chat & Communication",
+            "Quests & Leveling"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "ScourgeStrike",
+        "file_name": "ScourgeStrike",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "MageGate",
+        "file_name": "MageGate",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "DailyTo-Dos",
+        "file_name": "DailyTo-Dos",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Guild Donation Helper",
+        "file_name": "Guild Donation Helper",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Auction & Economy"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Fatality",
+        "file_name": "Fatality",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Miscellaneous",
+            "PvP",
+            "Tooltip"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Fontifier",
+        "file_name": "Fontifier",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Artwork"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "CTMod",
+        "file_name": "CTMod",
+        "description": "Description here.",
+        "author": "DahkCeles",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Action Bars",
+            "Buffs & Debuffs",
+            "Mail",
+            "Map & Minimap",
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "BadKitty",
+        "file_name": "BadKitty",
+        "description": "Description here.",
+        "author": "MeisBarry",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "LunarSphere",
+        "file_name": "LunarSphere",
+        "description": "Description here.",
+        "author": "MoongazeMods",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Action Bars",
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "WarlockReminder",
+        "file_name": "WarlockReminder",
+        "description": "Description here.",
+        "author": "CKlausi",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Better Inbox",
+        "file_name": "Better Inbox",
+        "description": "Description here.",
+        "author": "Ammo",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Mail"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Buffalo",
+        "file_name": "Buffalo",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Buffs & Debuffs"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "RaidAssist",
+        "file_name": "RaidAssist",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "Chat & Communication"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Misspelled",
+        "file_name": "Misspelled",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Chat & Communication"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Census Plus",
+        "file_name": "Census Plus",
+        "description": "Description here.",
+        "author": "coopers98",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Chat & Communication",
+            "Data Export"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "LagBar",
+        "file_name": "LagBar",
+        "description": "Description here.",
+        "author": "Xruptor",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Tooltip"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Quest Announce",
+        "file_name": "Quest Announce",
+        "description": "Description here.",
+        "author": "Sommy",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Chat & Communication",
+            "Quests & Leveling"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Acherus",
+        "file_name": "Acherus",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "BankStack",
+        "file_name": "BankStack",
+        "description": "Description here.",
+        "author": "Kemayo",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Bags & Inventory"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "DebuffFilter",
+        "file_name": "DebuffFilter",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Buffs & Debuffs"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "ClassTimer",
+        "file_name": "ClassTimer",
+        "description": "Description here.",
+        "author": "Stanzilla",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Buffs & Debuffs",
+            "Class",
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "ClassPortraits",
+        "file_name": "ClassPortraits",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Artwork",
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "MobInfo2",
+        "file_name": "MobInfo2",
+        "description": "Description here.",
+        "author": "ileclerk",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Tooltip"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "mNameplates",
+        "file_name": "mNameplates",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Raid Roll",
+        "file_name": "Raid Roll",
+        "description": "Description here.",
+        "author": "killerpet1986",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "Chat & Communication"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "pretty_lootalert",
+        "file_name": "pretty_lootalert",
+        "description": "Description here.",
+        "author": "s0h2x",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Bags & Inventory"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Kader Raid Tools",
+        "file_name": "Kader Raid Tools",
+        "description": "Description here.",
+        "author": "bkader",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "Guild"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "HomeCheck",
+        "file_name": "HomeCheck",
+        "description": "Description here.",
+        "author": "Homerocker",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "BasicComboPoints",
+        "file_name": "BasicComboPoints",
+        "description": "Description here.",
+        "author": "funkydude",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "BagSync",
+        "file_name": "BagSync",
+        "description": "Description here.",
+        "author": "Xruptor",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Bags & Inventory",
+            "Tooltip"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "ElvinCDs",
+        "file_name": "ElvinCDs",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "Buffs & Debuffs",
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "AssassinTimer",
+        "file_name": "AssassinTimer",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "MacroBank",
+        "file_name": "MacroBank",
+        "description": "Description here.",
+        "author": "Odlaw",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Chat & Communication"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "OuroLoot",
+        "file_name": "OuroLoot",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Bags & Inventory",
+            "Boss Encounters"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Bison",
+        "file_name": "Bison",
+        "description": "Description here.",
+        "author": "TimTaler",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Buffs & Debuffs"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "BunchOfBars",
+        "file_name": "BunchOfBars",
+        "description": "Description here.",
+        "author": "erikdubbelboer",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "ChocolateBar",
+        "file_name": "ChocolateBar",
+        "description": "Description here.",
+        "author": "yess",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Action Bars",
+            "Development Tools",
+            "Miscellaneous",
+            "Tooltip"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Cant Heal You",
+        "file_name": "Cant Heal You",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Buffs & Debuffs",
+            "Chat & Communication"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "RandomMount",
+        "file_name": "RandomMount",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Natur Enemy Castbar",
+        "file_name": "Natur Enemy Castbar",
+        "description": "Description here.",
+        "author": "Codermik",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Buffs & Debuffs",
+            "Combat",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Magic Runes",
+        "file_name": "Magic Runes",
+        "description": "Description here.",
+        "author": "neotron",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "SpeakinSpell",
+        "file_name": "SpeakinSpell",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Chat & Communication"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "KickAlert",
+        "file_name": "KickAlert",
+        "description": "Description here.",
+        "author": "Honesty",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Class",
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Rebirther",
+        "file_name": "Rebirther",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "Class",
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Peace and Quiet",
+        "file_name": "Peace and Quiet",
+        "description": "Description here.",
+        "author": "Talryn",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Chat & Communication"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "FarmIt2",
+        "file_name": "FarmIt2",
+        "description": "Description here.",
+        "author": "mornaistar",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Action Bars",
+            "Auction & Economy",
+            "Bags & Inventory"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "CoolLine",
+        "file_name": "CoolLine",
+        "description": "Description here.",
+        "author": "totalpackage",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Combat",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "DailyChecklist",
+        "file_name": "DailyChecklist",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Miscellaneous",
+            "Quests & Leveling",
+            "Tooltip"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "HudMap",
+        "file_name": "HudMap",
+        "description": "Description here.",
+        "author": "Ardentvark",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Map & Minimap"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Rune It All",
+        "file_name": "Rune It All",
+        "description": "Description here.",
+        "author": "Cralor",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "ChatSounds",
+        "file_name": "ChatSounds",
+        "description": "Description here.",
+        "author": "Dridzt",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Chat & Communication"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "SmartQuest",
+        "file_name": "SmartQuest",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Chat & Communication",
+            "Quests & Leveling"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "LootCouncilLite",
+        "file_name": "LootCouncilLite",
+        "description": "Description here.",
+        "author": "Blacksen",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Bags & Inventory",
+            "Chat & Communication",
+            "Data Export",
+            "Guild"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Angry Assignments",
+        "file_name": "Angry Assignments",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Boss Encounters"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Fish Warden",
+        "file_name": "Fish Warden",
+        "description": "Description here.",
+        "author": "Sutorix",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Professions"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "LilSparkys Workshop",
+        "file_name": "LilSparkys Workshop",
+        "description": "Description here.",
+        "author": "lilsparky",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Auction & Economy"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Engraved",
+        "file_name": "Engraved",
+        "description": "Description here.",
+        "author": "lieandswell",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Mendeleev",
+        "file_name": "Mendeleev",
+        "description": "Description here.",
+        "author": "Rabbit",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Tooltip"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "NekridsLFM",
+        "file_name": "NekridsLFM",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Chat & Communication"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "DeusVoxEncounters",
+        "file_name": "DeusVoxEncounters",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Ailo",
+        "file_name": "Ailo",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "Tooltip"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Sifter",
+        "file_name": "Sifter",
+        "description": "Description here.",
+        "author": "Starinnia",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Professions",
+            "Tooltip"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Whammy",
+        "file_name": "Whammy",
+        "description": "Description here.",
+        "author": "Jaycyn",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Buffs & Debuffs"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "MorgDKP2",
+        "file_name": "MorgDKP2",
+        "description": "Description here.",
+        "author": "morgalm",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Boss Encounters"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "YurysRuneDisplay",
+        "file_name": "YurysRuneDisplay",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "CleverPet",
+        "file_name": "CleverPet",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "SmartDebuff",
+        "file_name": "SmartDebuff",
+        "description": "Description here.",
+        "author": "Aeldra",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Buffs & Debuffs"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "MrTrader",
+        "file_name": "MrTrader",
+        "description": "Description here.",
+        "author": "Kaiede83",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Professions"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "SLDataText",
+        "file_name": "SLDataText",
+        "description": "Description here.",
+        "author": "Taffu",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Development Tools",
+            "Tooltip"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Utopia",
+        "file_name": "Utopia",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "Buffs & Debuffs",
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "kgPanels",
+        "file_name": "kgPanels",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Miscellaneous",
+            "Unit Frames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "ReadySetDing",
+        "file_name": "ReadySetDing",
+        "description": "Description here.",
+        "author": "Ketho",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Quests & Leveling",
+            "Tooltip"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Magic Targets 2",
+        "file_name": "Magic Targets 2",
+        "description": "Description here.",
+        "author": "neotron",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Boss Encounters"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "RuneHero",
+        "file_name": "RuneHero",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Lifebloomer",
+        "file_name": "Lifebloomer",
+        "description": "Description here.",
+        "author": "Mirari",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "FascistGnome",
+        "file_name": "FascistGnome",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "Buffs & Debuffs",
+            "Chat & Communication"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Aptus Aura Frames",
+        "file_name": "Aptus Aura Frames",
+        "description": "Description here.",
+        "author": "Avis57",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Buffs & Debuffs",
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "SkillMonitor",
+        "file_name": "SkillMonitor",
+        "description": "Description here.",
+        "author": "Verissi",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Buffs & Debuffs",
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "SpellBlocked",
+        "file_name": "SpellBlocked",
+        "description": "Description here.",
+        "author": "Lombra",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "HeadCount",
+        "file_name": "HeadCount",
+        "description": "Description here.",
+        "author": "seppyk",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Boss Encounters"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "MonkeyClock",
+        "file_name": "MonkeyClock",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "ShuckIt",
+        "file_name": "ShuckIt",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Bags & Inventory"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "OzRaid",
+        "file_name": "OzRaid",
+        "description": "Description here.",
+        "author": "Ozymandius",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Buffs & Debuffs"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Cellular",
+        "file_name": "Cellular",
+        "description": "Description here.",
+        "author": "totalpackage",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Chat & Communication"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "UberInventory",
+        "file_name": "UberInventory",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Bags & Inventory"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Gnomish Yellow Pages",
+        "file_name": "Gnomish Yellow Pages",
+        "description": "Description here.",
+        "author": "lilsparky",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Auction & Economy",
+            "Chat & Communication",
+            "Professions"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "CritEmote",
+        "file_name": "CritEmote",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Chat & Communication"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "PetTimeToLive",
+        "file_name": "PetTimeToLive",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Group-o-Matic",
+        "file_name": "Group-o-Matic",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "Chat & Communication"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "GemCensus",
+        "file_name": "GemCensus",
+        "description": "Description here.",
+        "author": "Cyprias",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Professions"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "iGuard",
+        "file_name": "iGuard",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Bags & Inventory"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "gBanker",
+        "file_name": "gBanker",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Bags & Inventory"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "MobileVault",
+        "file_name": "MobileVault",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Bags & Inventory"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "oRA2",
+        "file_name": "oRA2",
+        "description": "Description here.",
+        "author": "Ammo",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Boss Encounters"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "bRez",
+        "file_name": "bRez",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "Combat",
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "CheckFearWard",
+        "file_name": "CheckFearWard",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Friend Notes",
+        "file_name": "Friend Notes",
+        "description": "Description here.",
+        "author": "Talryn",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Tooltip"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Trade Filter 3",
+        "file_name": "Trade Filter 3",
+        "description": "Description here.",
+        "author": "evonder",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Chat & Communication"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "ZooKeeper",
+        "file_name": "ZooKeeper",
+        "description": "Description here.",
+        "author": "CheshireKatt",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Chat & Communication"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "PartyCraft",
+        "file_name": "PartyCraft",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Chat & Communication",
+            "Professions",
+            "Tooltip"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Scrolling Loot Text",
+        "file_name": "Scrolling Loot Text",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "PassLoot",
+        "file_name": "PassLoot",
+        "description": "Description here.",
+        "author": "Odlaw",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Bags & Inventory"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Chinchilla Minimap",
+        "file_name": "Chinchilla Minimap",
+        "description": "Description here.",
+        "author": "ckknight",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Map & Minimap"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "RuneHUD",
+        "file_name": "RuneHUD",
+        "description": "Description here.",
+        "author": "Ereki",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "DotTracker",
+        "file_name": "DotTracker",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Buffs & Debuffs",
+            "Class",
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Auracle",
+        "file_name": "Auracle",
+        "description": "Description here.",
+        "author": "taleden",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Buffs & Debuffs"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "ThievesTools",
+        "file_name": "ThievesTools",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Announcer",
+        "file_name": "Announcer",
+        "description": "Description here.",
+        "author": "Cowmonster",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Chat & Communication"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "QBar",
+        "file_name": "QBar",
+        "description": "Description here.",
+        "author": "Aezay",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Action Bars",
+            "Quests & Leveling"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Yata",
+        "file_name": "Yata",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Stalker",
+        "file_name": "Stalker",
+        "description": "Description here.",
+        "author": "Croy9000",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "PvP"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "aTotemBar",
+        "file_name": "aTotemBar",
+        "description": "Description here.",
+        "author": "Arimis",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "TotemRadius",
+        "file_name": "TotemRadius",
+        "description": "Description here.",
+        "author": "Cyprias",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Class"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Peggle",
+        "file_name": "Peggle",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Minigames",
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "ncBiggerMacros",
+        "file_name": "ncBiggerMacros",
+        "description": "Description here.",
+        "author": "nightcracker",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "MacroForm",
+        "file_name": "MacroForm",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Chat & Communication"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Bejeweled",
+        "file_name": "Bejeweled",
+        "description": "Description here.",
+        "author": "Kadecgos",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Minigames"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "Collect Me",
+        "file_name": "Collect Me",
+        "description": "Description here.",
+        "author": "Jim-Bim",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Miscellaneous"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "GnomeSequencerAdvanced",
+        "file_name": "GnomeSequencerAdvanced",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Action Bars",
+            "Combat",
+            "Development Tools"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "DPSMate",
+        "file_name": "DPSMate",
+        "description": "Description here.",
+        "author": "Shino",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Boss Encounters",
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "DoTimer",
+        "file_name": "DoTimer",
+        "description": "Description here.",
+        "author": "Asheyla",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Class",
+            "Combat"
+        ],
+        "roles": [
+            "DPS",
+            "TANK",
+            "HEALER"
+        ],
+        "class": [
+            "All"
+        ]
+    },
+    {
+        "title": "MogIt ChromieCraft",
+        "file_name": "MogIt ChromieCraft",
+        "description": "Description here.",
+        "author": "N/A",
+        "pr_author": "Sitoz",
+        "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+        "expansion": [
+            "Lichking"
+        ],
+        "tags": [
+            "Libraries",
+            "Tooltip"
         ],
         "roles": [
             "DPS",

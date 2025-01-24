@@ -1,0 +1,3 @@
+# Spell Stealer
+
+This simple addon pops up a small frame with a list of stealable buffs on your current target, it will only show up when the target is an enemy and has buffs you can steal. It will also print in your main chat frame a link to the spell you stole in the format of ‘You have stolen [spell] from .’There are only three commands./SS Announce– Toggles announcing to raid/party chat when you spellsteal something. Addon will detect which you are in, and announce appropriately. Defaults to OFF./SS Test– Shows the SS Frame with some fake buffs so you can position the window./SS Lock– Toggles frame locking / unlocking.Note: Hold right click to move frame.Type “/ss test” to enable/disable the test frame so you can move it into place out of combat.

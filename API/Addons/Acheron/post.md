@@ -1,0 +1,3 @@
+# Acheron
+
+Acheron provides an easily readable glimpse into the cause of death for anyone in your raid or party. In addition to the damage and healing that occurred to someone up to their moment of death, Acheron also allows you to track and displays buffs and debuffs, which may also contribute to someone’s death (Melt Armor on Al’ar, Corrosion on Felmyst, tank missed shield block, etc).Right-clicking on a raid/party member unit frame will find a new option ‘Show Death Reports’. Should be pretty self-explanatory from there./acheron showto show the main UI/acheron configto bring up the config

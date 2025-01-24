@@ -1,0 +1,3 @@
+# Fishermans Friend
+
+Fishermans Friend does the following when you equip a fishing rod:– Enhance Sounds so you can hear the fishing bobber better, and ofcourse restore your original settings when you remove the rod.– Add doublerightclick autocasting.– When attempting to doublerightclick autocast FishermansFriend can also use the Weather-Beaten Fishing Hat or automatically apply your best lure.– Automatically turn on Auto-Looting items when you have a fishing rod equipped.FishermansFriend uses the itemids for lures etc, and should work on every language client even though the configuration might not be translated in your language yet.You can open the options panel by /fmf or /fishermansfriend or via Esc -> Interface Options -> AddOns.

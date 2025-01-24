@@ -1,0 +1,3 @@
+# QuickQuest
+
+QuickQuest is a quest automating addon that will do the most enduring questing tasks for you.It allows the player to quickly accept and deliver quests, among other features, to speed up the questing experience.It comes with a solid set of options, accessible through typing /quickquest or simply /qq in the chat.It has the following features:Automatically pick up any questAutomatically deliver any questWith a blacklist for delivery of certain itemsAutomatically skip single gossip optionsAutomatically pick up trivial questsOnly works if the player is tracking trivial quests through the minimapHighlights the most valuable quest rewardsHolding a modifier to temporarily go manual

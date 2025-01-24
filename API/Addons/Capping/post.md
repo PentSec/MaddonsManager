@@ -1,0 +1,3 @@
+# Capping
+
+Battleground timers and other PvP features.Configure by right-clicking the anchor or by typing /cappingFeaturesAll battlegrounds/arenas have queue timersArenas – Shadow Sight timer, arena time remainingAlterac Valley – Node timers, auto quest turninsArathi Basin – Node timers and final score estimationEye of the Storm – Flag respawn timer, final score estimationIsle of Conquest – Node timers and siege engine timerWarsong Gulch – Flag respawn timerWintergrasp – Wall attack alertsBattle for Gilneas – Node timers and final score estimationDeepwind Gorge – Node timers and final score estimation

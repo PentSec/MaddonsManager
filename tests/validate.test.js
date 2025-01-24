@@ -3,8 +3,37 @@ const path = require('path');
 
 const allowedValues = {
     expansions: ['Cataclysm', 'Lichking', 'Pandarian'],
-    tags: ['General', 'PvE', 'PvP'],
-    roles: ['All', 'DPS', 'TANK', 'HEALER'],
+    tags: [
+        'General',
+        'PvE', 
+        'PvP', 
+        "All Categories",
+        "Achievements",
+        "Action Bars",
+        "Artwork",
+        "Auction & Economy",
+        "Audio & Video",
+        "Bags & Inventory",
+        "Boss Encounters",
+        "Buffs & Debuffs",
+        "Chat & Communication",
+        "Class",
+        "Combat",
+        "Data Export",
+        "Development Tools",
+        "Guild",
+        "Libraries",
+        "Mail",
+        "Map & Minimap",
+        "Minigames",
+        "Miscellaneous",
+        "Professions",
+        "PvP",
+        "Quests & Leveling",
+        "Roleplay",
+        "Tooltip",
+        "Unit Frames"],
+    roles: ['All', 'DPS', 'TANK', 'HEALER',],
     classes: [
         'All', 'Rogue', 'Warrior', 'Paladin', 'Death Knight',
         'Druid', 'Hunter', 'Mage', 'Monk', 'Priest', 'Shaman', 'Warlock',
@@ -13,7 +42,7 @@ const allowedValues = {
 
 const readJson = (filePath) => JSON.parse(fs.readFileSync(filePath, 'utf-8'));
 
-const isValidFileName = (name) => /^[a-zA-Z0-9-_+.]+$/.test(name);
+const isValidFileName = (name) => /^[a-zA-Z0-9-_+. ]+$/.test(name);
 
 describe('validate json and folder structure', () => {
     const jsonFiles = ['Maddons.json', 'ElvUI.json', 'WeakAuras.json'];

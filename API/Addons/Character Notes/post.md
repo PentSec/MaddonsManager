@@ -1,0 +1,3 @@
+# Character Notes
+
+Character Notes allows you to set and manage notes on other player’s characters. Notes are stored per realm so notes are shared across your characters on a realm. Notes can be set on any character name. The notes are simple and generic and are not tied to a friend, an ignored character, etc.Command-line options/notes – Brings up the GUI/searchnote – Brings up the GUI. Optional search term allows filtering the list of notes./setnote Sets a note for the character name specified./delnote Deletes the note for the character name specified./getnote Prints the note for the character name specified./editnote Brings up a window to edit the note for the name specified or your target if no name if specified.
