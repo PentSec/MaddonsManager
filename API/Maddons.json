@@ -20536,8 +20536,8 @@
         ]
     },
     {
-        "title": "Aux",
-        "file_name": "Aux",
+        "title": "AuxAddon",
+        "file_name": "AuxAddon",
         "description": "Description here.",
         "author": "simon_hirsig",
         "pr_author": "Sitoz",
