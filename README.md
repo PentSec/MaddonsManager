@@ -13,8 +13,8 @@
 <a href="https://github.com/PentSec/MasterAddonManager/releases">
 <img alt="GitHub Release" src="https://img.shields.io/github/v/release/pentsec/MaddonsManager">
 </a>
-<a href="https://discord.gg/pWkUVW982y">
-<img alt="Discord" src="https://img.shields.io/discord/1086479507239735356">
+<a href="https://discord.gg/fUw5C6tcZs">
+<img alt="Discord" src="https://img.shields.io/discord/381471631643639820">
 </a>
 </a>
 
@@ -64,7 +64,7 @@ follow this template to `include` a new Addon with pr on this repo
 git clone https://github.com/PentSec/MaddonsManager.git
 ```
 
-1. Go to the [**`API/Addons/`**](https://github.com/PentSec/MaddonsManager/tree/main/API/Addons) folder and inside create new Folder with name of addon and version `/Example3.3.5/` , then put the addon.zip file image and post.md. 
+1. Go to the [**`API/Addons/`**](https://github.com/PentSec/MaddonsManager/tree/main/API/Addons) folder and inside select you folder expansion and create new Folder with name of addon and version `/Example3.3.5/` , then put the addon.zip file image and post.md. 
     - same instructions for ElvUI and WeakAuras profiles but in [API/ElvUI](https://github.com/PentSec/MaddonsManager/tree/main/API/ElvUI) and [API/WeakAuras](https://github.com/PentSec/MaddonsManager/tree/main/API/WeakAuras) and need add extra file.txt with string of profile and without .zip of course.
 
 2. in post.md you can add Description, Guide, Screenshots, Videos, etc. all as you want and you can use [markdown](https://www.markdownguide.org/basic-syntax/) to format your text.
@@ -76,18 +76,20 @@ final estructure of Folders and files:
 ```bash
 ├── API
 │   ├── Addons
-│   │   ├── Addon-name3.3.5
+│   │   ├── Lichking/ Cataclysm/ Pandarian/ Vanilla/ TBC/
 │   │   │   ├── Addon-name3.3.5.zip
-│   │   │   ├── post.md
-│   │   │   └── Addon-name3.3.5.webp
+│   │   │   │   ├── post.md
+│   │   │   │   ├── Addon-name3.3.5.webp
+│   │   │   │   └── Addon-name3.3.5.zip
 ```
 ```bash
 ├── API
-│   ├── ElvUI or WeakAuras
-│   │   ├── ElvUI-name3.3.5
-│   │   │   ├── ElvUI-name3.3.5.txt
-│   │   │   ├── post.md
-│   │   │   └── ElvUI-name3.3.5.webp
+│   ├── Elvui/ or WeakAuras/
+│   │   ├── Lichking/ Cataclysm/ Pandarian/ Vanilla/ TBC/
+│   │   │   ├── Elvui-name3.3.5.zip
+│   │   │   │   ├── post.md
+│   │   │   │   ├── Elvui-name3.3.5.webp
+│   │   │   │   └── Elvui-name3.3.5.zip
 ```
 
 > [!WARNING]
@@ -136,32 +138,15 @@ final estructure of Folders and files:
 > - You can obtain the avatar link from your github profile right click on your avatar and copy the link.
 > - You can see the Author addons in the .toc file inside folder addons
 
-- expansions:
-    - Cataclysm
-    - Lichking
-    - Pandarian
-- tags:
-    - General
-    - PvE
-    - PvP
-- roles:
-    - All
-    - DPS
-    - TANK
-    - HEALER
-- classes:
-    - All
-    - Rogue
-    - Warrior
-    - Paladin
-    - Death Knight
-    - Druid
-    - Hunter
-    - Mage
-    - Monk
-    - Priest
-    - Shaman
-    - Warlock
+```json
+tags: ["General", "PvE", "PvP", "All Categories", "Achievements", "Action Bars", "Artwork", "Auction & Economy", "Audio & Video", "Bags & Inventory", "Boss Encounters", "Buffs & Debuffs", "Chat & Communication", "Class", "Combat", "Data Export", "Development Tools", "Guild", "Libraries", "Mail", "Map & Minimap", "Minigames", "Miscellaneous", "Professions", "Quests & Leveling", "Roleplay", "Tooltip", "Unit Frames", "Companions"], 
+
+expansions: ["Cataclysm", "Lichking", "Pandarian"], 
+
+roles: ["All", "DPS", "TANK", "HEALER"], 
+
+classes: ["All", "Rogue", "Warrior", "Paladin", "Death Knight", "Druid", "Hunter", "Mage", "Monk", "Priest", "Shaman", "Warlock"]
+```
 
 ## created and maintened with 💖 by [PentSec](https://jeff.is-a.dev/)
 
