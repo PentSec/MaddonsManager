@@ -64,13 +64,10 @@ follow this template to `include` a new Addon with pr on this repo
 git clone https://github.com/PentSec/MaddonsManager.git
 ```
 
-1. Go to the [**`API/Addons/`**](https://github.com/PentSec/MaddonsManager/tree/main/API/Addons) folder and inside select you folder expansion and create new Folder with name of addon and version `/Example3.3.5/` , then put the addon.zip file image and post.md. 
+1. Go to the [**`API/Addons/`**](https://github.com/PentSec/MaddonsManager/tree/main/API/Addons) folder and inside select you folder expansion and create new Folder with name of addon and version `/Example3.3.5/` and `Example3.3.5.json`, then put the Example3.3.5.zip file Example3.3.5.webp and post.md. 
     - same instructions for ElvUI and WeakAuras profiles but in [API/ElvUI](https://github.com/PentSec/MaddonsManager/tree/main/API/ElvUI) and [API/WeakAuras](https://github.com/PentSec/MaddonsManager/tree/main/API/WeakAuras) and need add extra file.txt with string of profile and without .zip of course.
 
 2. in post.md you can add Description, Guide, Screenshots, Videos, etc. all as you want and you can use [markdown](https://www.markdownguide.org/basic-syntax/) to format your text.
-
-3. Go to the [**`API/Maddons.json`**](https://github.com/PentSec/MaddonsManager/tree/main/API/Maddons.json), [**`API/ElvUI.json`**](https://github.com/PentSec/MaddonsManager/tree/main/API/ElvUI.json) [**`API/WeakAuras.json`**](https://github.com/PentSec/MaddonsManager/tree/main/API/WeakAuras.json) and add the information about your Addons, ElvUI or WeakAuras, following the structure:
-    - same instructions for ElvUI and WeakAuras profiles but in [API/ElvUI](https://github.com/PentSec/MaddonsManager/tree/main/API/ElvUI) and [API/WeakAuras](https://github.com/PentSec/MaddonsManager/tree/main/API/WeakAuras)
 
 final estructure of Folders and files: 
 ```bash
@@ -81,6 +78,7 @@ final estructure of Folders and files:
 │   │   │   │   ├── post.md
 │   │   │   │   ├── Addon-name3.3.5.webp
 │   │   │   │   └── Addon-name3.3.5.zip
+│   │   │   ├── Addon-name3.3.5.json
 ```
 ```bash
 ├── API
@@ -90,13 +88,15 @@ final estructure of Folders and files:
 │   │   │   │   ├── post.md
 │   │   │   │   ├── Elvui-name3.3.5.webp
 │   │   │   │   └── Elvui-name3.3.5.zip
+│   │   │   ├── Elvui-name3.3.5.json
 ```
 
 > [!WARNING]
 >
 > - The name of folder must be the same as the file_name in the json.
 > - The name of the file.zip must be the same as the file_name in the json.
-> - name of the webp image must be the same as the file_name in the json.
+> - The name of the webp image must be the same as the file_name in the json.
+> - The name of the json must be the same as the file_name in the json.
 > - file_name cant be spaced or special characters.
 > - Remember to optimize image for web to webp, you can use [squoosh](https://squoosh.app/) or my python script.
 > - post.md, image.webp, .zip must be in the same folder

@@ -10,11 +10,12 @@ Unless explicitly specified otherwise by a **owner**, **helper** or in the requi
 ```bash
 ├── API
 │   ├── Addons
-│   │   ├── Lichking/ Cataclysm/ Pandarian/ Vanilla/ TBC/
-│   │   │   ├── Addon-name3.3.5.zip
+│   │   ├── Lichking
+│   │   │   ├── Addon-name3.3.5
 │   │   │   │   ├── post.md
 │   │   │   │   ├── Addon-name3.3.5.webp
 │   │   │   │   └── Addon-name3.3.5.zip
+│   │   │   ├── Addon-name3.3.5.json
 ```
 ```bash
 ├── API
@@ -24,6 +25,7 @@ Unless explicitly specified otherwise by a **owner**, **helper** or in the requi
 │   │   │   │   ├── post.md
 │   │   │   │   ├── Elvui-name3.3.5.webp
 │   │   │   │   └── Elvui-name3.3.5.zip
+│   │   │   ├── Elvui-name3.3.5.json
 ```
 - [ ] My file's is in the `Folder` and is in the `JSON` format.
 - [ ] The content of json name is all lowercased and alphanumeric. <!-- follow the templated json. -->
