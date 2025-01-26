@@ -1,3 +1,0 @@
-# ChatSounds
-
-Enables user defined sounds for Party, Guild and Raid chat messages.FeaturesCan play new sounds for Guild, Officer, Party, Raid, Raid Leader,Battlegrounds, Battlegrounds Leader, Custom Channel Messages and Whispers.Force Whisper sounds for every whisper.Allows users to /r after sending a whisper without getting a reply.*new* Allows blacklisting of specific custom channels.Useful if an addon is joining a custom channel and spamming messages.Options frame is accessible through the comic bubble icon menu next to the Chat Frame,or by typing/chatsounds.Saves its settings per character.

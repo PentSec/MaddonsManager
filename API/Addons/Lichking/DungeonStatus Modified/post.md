@@ -1,3 +1,0 @@
-# DungeonStatus Modified
-
-This is an extended modified addon of DungeonStatus. This addon has been modified so that when queued in RDF it shows the name of the current dungeon set to queue even when random queued. So using this addon a UI display window is shown of current RDF queue role slot status and unique ID for the RDF queue along with the name of dungeon set to run on instance start.It has also been modified so that when you queue for RDF you are placed in a custom chat channel for that said RDF queue, Allowing you to chat and see other users that are in the same RDF queue even if not in the same party. The custom queue chat channel is removed and disbanded on instance start so only works while waiting in the RDF queue.

@@ -1,3 +1,0 @@
-# Aptus Aura Frames
-
-aAF is a lightweight replacement for the Blizzard aura display.FeaturesCreate an unlimited number of aura groupsIndividually set size, scale, filters, growth direciton, etcFilter auras by target, caster, name, and moreSort auras by Index or DurationConfigurationMost ingame configuration options are self-explanatory.Changing or Copying profiles will trigger a UI Reload, so be aware of that before doing it in combat or something lol.Move aura groups ingame by holding alt+shift and dragging. Type ‘/aaf move’ to toggle move mode, wherein all aura icons are visible for accurate placement.Slash commands/aaf– enters ingame config/aaf move– Shows all aura frames

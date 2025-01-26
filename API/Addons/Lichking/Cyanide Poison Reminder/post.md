@@ -1,3 +1,0 @@
-# Cyanide Poison Reminder
-
-Lightweight addon to play a sound effect and display a message on screen (once every minute) when your MH/OH poisons have a short time left before they expire. If you are resting in a city/inn or travelling via flight-points, the warnings will be supressed to avoid unnecessary spam. The time at which the warning message appears can be changed (the default is 5minutes before expiry) and there is a choice of 17 different sound effects to accompany it if you get bored hearing ‎Fathom-Lord Karathress complaining about poisons. Mainhand poison checking is disabled if there’s a Shaman in the party but offhand poisons are still checked.

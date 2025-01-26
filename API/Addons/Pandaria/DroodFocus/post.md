@@ -1,3 +1,0 @@
-# DroodFocus
-
-DroodFocus adds a window with all the information that a feral druid must have, including:Energy:Status bar and energy tick timer bar.Combo points / Lacerate stacks:Cat form – Shows how many combo points you currently have on your target.Bear form – Shows how many times lacerate is stacked on your target.Stats:Cat form – Indicates your attack power, crit %, and attack speed.Bear form – Indicates your attack power, dodge %, and armor.Debuff icons:Show the debuffs applied to your(s) target(s) with timersMangle (cat & bear), rake, rip, lacerate, faerie fire, and demoralizing roar.Config Command: /droodfocus or /df

@@ -1,3 +1,0 @@
-# Range Display
-
-RangeDisplay is a simple range display addon. It is using spell range, item range, and interact-distance based checks to determine the approximate range to your current target. Due to the wackiness of interact-distance-based checks, recent versions only use those when spell/item-based checks are not possible. The display can be configured in many ways (displaying only the max range, adding border and background, etc).Currently you can set up RangeDisplay to show your current range to your target, focus, pet, and mouseover units. The mouseover unit range can be anchored to the mouse or placed at a fixed position.

@@ -1,3 +1,0 @@
-# Trade Filter 3
-
-TradeFilter does not only filter trade but has the ability to filter General, LookingforGroup, Say and Yell channels all which are configurable through the blizzard options panel.Channel FiltersTradeFilter has a set of patterns for trade channel and separate set of patterns for all other channels, or “base” channels as we will call them. This allows the user to define what patterns may be good for trade but not other channels and vise versa. The user also has the ability to add patterns of their own to be matched against for both trade and “base” channel filters.Configuration/tfor/filter

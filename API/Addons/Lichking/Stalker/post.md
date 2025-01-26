@@ -1,3 +1,0 @@
-# Stalker
-
-World of Warcraft addon for detecting, managing, and tracking hostile players.FeaturesDetect enemy players (Horde or Alliance) in your area and see a list of the most recent activity.Indicate if enemies are engaged in PvP, what they are casting, and who they are targeting.Track kills of, and deaths by, enemy players and guilds.Keep notes on enemy players and guilds.Mark enemy players and guilds as KOS (Kill On Sight) and get alerted when they are detected.Turn on Tracking for an enemy player and get alerted when they are detected by another Stalker addon user.Send enemy position alerts to most channels (Say, Yell, Guild, Party, Raid, or Whisper)

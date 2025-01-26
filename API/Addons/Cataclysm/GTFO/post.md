@@ -1,3 +1,0 @@
-# GTFO
-
-GTFO provides an audible alert when you’re standing in something you’re not supposed to be standing in. In some cases, you’ll be warned before you start taking damage. This mod improves your situational awareness and is recommended for dungeon divers and raiders of all skill levels as even the most seasoned veteran sometimes needs a reminder to GTFO.Commands/gtfo – Help menu/gtfo options – Set configuration options/gtfo standby – Suspend/Resume addon/gtfo version – Show version numbers for your party/raid/gtfo test – Simulate a high damage alert/gtfo test2 – Simulate a low damage alert/gtfo test3 – Simulate a fail alert/gtfo test4 – Simulate a friendly fire alert

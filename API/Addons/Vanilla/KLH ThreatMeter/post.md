@@ -1,3 +1,0 @@
-# KLH ThreatMeter
-
-KTM 17.35, version from DuduSandsten. KLHThreatMeter monitors and records your threat, and will list your threat in a table with other members of your party or raid group who are using the mod. Most class talents, abilities, and items that cause or modify threat are taken into account. There is a table for your personal threat contribution, broken into specific categories such as white damage, healing, mana gain, etc, and specific abilities such as Sunder Armor and Taunt. The mod records your own threat and sends updates into a shared channel. Other players in your raid who are also using the mod will pick up the messages and see you in their raid threat window.
