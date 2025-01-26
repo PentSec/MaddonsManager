@@ -1,0 +1,110 @@
+name: Move to API repo
+
+on:
+  pull_request:
+    types: [closed]
+    branches:
+      - main
+      
+  workflow_dispatch:
+
+jobs:
+  move-to-api-repo:
+    runs-on: ubuntu-latest
+    steps:
+      # Check main code.
+      - name: Checkout MAIN repo
+        uses: actions/checkout@v4
+        with:
+          repository: PentSec/MaddonsManager
+          token: ${{ secrets.BOT }}
+          ref: main
+
+      # Check main API Code
+      - name: Checkout repo API-MADDONS
+        uses: actions/checkout@v4
+        with:
+          repository: PentSec/API-MADDONS
+          token: ${{ secrets.BOT }}
+          path: API-MADDONS
+          ref: main
+
+      # Move files to API repo
+      - name: Move files to API repo
+        run: |
+          # Usar rsync para mover y actualizar todos los archivos, excluyendo los archivos .json
+          rsync -av --exclude='*.json' ./API/Addons/ ./API-MADDONS/API/Addons/
+          rsync -av --exclude='*.json' ./API/ElvUI/ ./API-MADDONS/API/ElvUI/
+          rsync -av --exclude='*.json' ./API/WeakAuras/ ./API-MADDONS/API/WeakAuras/
+
+      # Combine json 
+      - name: Combine json 
+        run: |
+          DEST_MADDONS_JSON="./API-MADDONS/API/Maddons.json"
+          DEST_ELVUI_JSON="./API-MADDONS/API/ElvUI.json"
+          DEST_WEAKAURAS_JSON="./API-MADDONS/API/WeakAuras.json"
+
+          TEMP_MADDONS_JSON="./temp_maddons_combined.json"
+          TEMP_ELVUI_JSON="./temp_elvui_combined.json"
+          TEMP_WEAKAURAS_JSON="./temp_wa_combined.json"
+
+          echo "[]" > "$TEMP_MADDONS_JSON"
+          echo "[]" > "$TEMP_ELVUI_JSON"
+          echo "[]" > "$TEMP_WEAKAURAS_JSON"
+
+          find ./API -name '*.json' | while read USER_JSON; do
+            if [[ "$USER_JSON" == *"/Addons/"* ]]; then
+              echo "Agregando $USER_JSON a Maddons.json"
+              jq -s '.[0] + .[1]' "$TEMP_MADDONS_JSON" "$USER_JSON" > ./temp.json && mv ./temp.json "$TEMP_MADDONS_JSON"
+            elif [[ "$USER_JSON" == *"/ElvUI/"* ]]; then
+              echo "Agregando $USER_JSON a ElvUI.json"
+              jq -s '.[0] + .[1]' "$TEMP_ELVUI_JSON" "$USER_JSON" > ./temp.json && mv ./temp.json "$TEMP_ELVUI_JSON"
+            elif [[ "$USER_JSON" == *"/WeakAuras/"* ]]; then
+              echo "Agregando $USER_JSON a WeakAuras.json"
+              jq -s '.[0] + .[1]' "$TEMP_WEAKAURAS_JSON" "$USER_JSON" > ./temp.json && mv ./temp.json "$TEMP_WEAKAURAS_JSON"
+            else
+              echo "Archivo $USER_JSON no pertenece a ninguna categoría conocida. Ignorando."
+            fi
+          done
+
+          jq -s '.[0] + .[1]' "$DEST_MADDONS_JSON" "$TEMP_MADDONS_JSON" > ./API-MADDONS/API/Maddons_updated.json && mv ./API-MADDONS/API/Maddons_updated.json "$DEST_MADDONS_JSON"
+          jq -s '.[0] + .[1]' "$DEST_ELVUI_JSON" "$TEMP_ELVUI_JSON" > ./API-MADDONS/API/ElvUI_updated.json && mv ./API-MADDONS/API/ElvUI_updated.json "$DEST_ELVUI_JSON"
+          jq -s '.[0] + .[1]' "$DEST_WEAKAURAS_JSON" "$TEMP_WEAKAURAS_JSON" > ./API-MADDONS/API/WeakAuras_updated.json && mv ./API-MADDONS/API/WeakAuras_updated.json "$DEST_WEAKAURAS_JSON"
+
+          rm -f "$TEMP_MADDONS_JSON" "$TEMP_ELVUI_JSON" "$TEMP_WEAKAURAS_JSON"
+
+      # Commit changes on API repo
+      - name: Commit changes on API repo
+        uses: cpina/github-action-push-to-another-repository@main
+        with:
+          source-directory: "API-MADDONS"
+          destination-github-username: PentSec
+          destination-repository-name: API-MADDONS
+          user-email: "actions@github.com"
+          user-name: "GitHub Actions"
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.BOT }}
+
+      # Clean Main repo a ready to use again.
+      - name: Clean Main repo a ready to use again.
+        run: |
+          TARGET_DIRS=(
+            "./API/Addons"
+            "./API/ElvUI"
+            "./API/WeakAuras"
+          )
+
+          for DIR in "${TARGET_DIRS[@]}"; do
+            if [ -d "$DIR" ]; then
+              find "$DIR" -type f \( -iname "*.webp" -o -iname "*.zip" -o -iname "*.md" -o -iname "*.json" \) -exec rm -f {} \;
+            fi
+          done
+
+      # Push change to MAIN repo
+      - name: Push change to MAIN repo
+        run: |
+          git config user.email "actions@github.com"
+          git config user.name "GitHub Actions"
+          git add .
+          git commit -m "Clean main repo"
+          git push
