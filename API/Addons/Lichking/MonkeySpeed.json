@@ -1,0 +1,24 @@
+[
+  {
+    "title": "MonkeySpeed",
+    "file_name": "MonkeySpeed",
+    "description": "The MonkeySpeed AddOn for WoW displays your speed as a percentage of run speed.",
+    "author": "Trentin",
+    "pr_author": "sitoz",
+    "avatar_pr_author": "/avatars/default.webp",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "Data Export",
+      "Miscellaneous",
+      "Tooltip"
+    ],
+    "roles": [
+      "All"
+    ],
+    "class": [
+      "All"
+    ]
+  }
+]
