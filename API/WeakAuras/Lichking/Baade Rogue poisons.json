@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Baade Rogue poisons",
+    "file_name": "Baade Rogue poisons",
+    "description": "shows missing poisons",
+    "author": "Baade",
+    "pr_author": "sitoz",
+    "avatar_pr_author": "/avatars/default.webp",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "PvE",
+      "PvP"
+    ],
+    "roles": [
+      "All"
+    ],
+    "class": [
+      "Rogue"
+    ]
+  }
+]
